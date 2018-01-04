@@ -1,0 +1,16 @@
+Digimon World ReDigitize Decode (Rev01) (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game567/
+----------------------------------------------------
+
+[Max Money]
+004FB6B4 0098967F
+
+[(Sel + Down) 99x Inventory Items]
+DD000000 00000084
+C0000000 00000014
+204FBBD8 00000063
+DC000000 00000008
+D1000000 00000000

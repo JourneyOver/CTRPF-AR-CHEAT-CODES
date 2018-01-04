@@ -1,0 +1,18 @@
+Pokemon Blue (GB) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1102/
+----------------------------------------------------
+
+[999 Pokemon Health L+UP]
+DD000000 00000240
+D3000000 0892D115
+00000000 00000003
+D3000000 0892D116
+00000000 000000E7
+D3000000 0892D123
+00000000 00000003
+D3000000 0892D124
+00000000 000000E7
+D0000000 00000000

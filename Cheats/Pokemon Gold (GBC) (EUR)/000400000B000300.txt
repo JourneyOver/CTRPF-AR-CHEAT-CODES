@@ -1,0 +1,10 @@
+Pokemon Gold (GBC) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1107/
+----------------------------------------------------
+
+[Change the 1st move of your 1st Pokémon]
+D3000000 08A2406C
+2000DA2C 0000002C

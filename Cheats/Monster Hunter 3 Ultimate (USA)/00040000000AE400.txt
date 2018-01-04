@@ -1,0 +1,28 @@
+Monster Hunter 3 Ultimate (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game248/
+----------------------------------------------------
+
+[Funds 9999999]
+0823B178 0098967F
+
+[Rescourse]
+08240C80 0098967F
+
+[Inf hp]
+D3000000 10000000
+26669BF8 00000064
+D3000000 10000000
+26669BFE 00000064
+
+[Inf stamina]
+D3000000 10000000
+26669C02 00000016
+D3000000 10000000
+26669C03 00000044
+D3000000 10000000
+26669C06 00000016
+D3000000 10000000
+26669C07 00000044

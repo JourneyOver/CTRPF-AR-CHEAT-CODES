@@ -1,0 +1,32 @@
+Pokemon Yellow (GBC) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1106/
+----------------------------------------------------
+
+[Unlimited PokeBux]
+D3000000 08923588
+2000D346 00000099
+2000D347 00000099
+2000D348 00000099
+
+[Unlimited Battle HP]
+D3000000 08923588
+2000D015 000000FF
+
+[Max Item in Slot 1]
+D3000000 08923588
+2000D31E 00000063
+
+[No Wild Encounters]
+D3000000 08923588
+2000D13B 00000003
+
+[Unlimited Safari Time]
+D3000000 08923588
+2000D70D 000000F0
+
+[Unlimited Safari Balls]
+D3000000 08923588
+2000DA46 00000064

@@ -1,0 +1,39 @@
+Mario Golf World Tour (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game938/
+----------------------------------------------------
+
+[9999999 GP]
+0067E828 0098967F
+
+[Clubs and balls unlocked]
+C0000000 00000088
+2067E609 00000033
+DC000000 00000001
+D1000000 00000000
+
+[Shirts and shorts unlocked]
+C0000000 00000032
+2067E691 00000033
+DC000000 00000001
+D1000000 00000000
+
+[Suits and Visors unlocked]
+C0000000 0000009C
+2067E6C3 00000033
+DC000000 00000001
+D1000000 00000000
+
+[Gloves and Shoes unlocked]
+C0000000 0000009C
+2067E75F 00000033
+DC000000 00000001
+D1000000 00000000
+
+[Costumes unlocked]
+C0000000 00000028
+2067E7FB 00000033
+DC000000 00000001
+D1000000 00000000

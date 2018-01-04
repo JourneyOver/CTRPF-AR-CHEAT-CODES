@@ -1,0 +1,30 @@
+Paper Mario Sticker Star (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game246/
+----------------------------------------------------
+
+[18 Sticker Pages]
+082BDA78 00000012
+
+[Unlimited Coins]
+082BCE9C 0000270F
+
+[Infinite Health]
+082BCEA0 000003E7
+082BCEA4 000003E7
+
+[Max Health Modifier]
+282BCEA4 000000AF
+282BDBE0 000000AF
+
+[8 Sticker Pages]
+082BDA78 00000008
+
+[Reset Amount of money]
+082BCE9C 00000000
+
+[Reset Health to 20]
+082BCEA0 00000014
+082BCEA4 00000014

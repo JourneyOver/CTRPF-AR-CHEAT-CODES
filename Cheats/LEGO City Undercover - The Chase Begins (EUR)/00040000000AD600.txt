@@ -1,0 +1,12 @@
+LEGO City Undercover - The Chase Begins (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game316/
+----------------------------------------------------
+
+[4294901760 super build bricks]
+00593430 FFFF0000
+
+[Max studs]
+00593418 FFFFFFFF

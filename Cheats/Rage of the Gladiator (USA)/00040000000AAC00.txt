@@ -1,0 +1,18 @@
+Rage of the Gladiator (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1287/
+----------------------------------------------------
+
+[Max Book Of Wisdom]
+2A38F97C 00000005
+
+[Max Mana Potion]
+2A38F984 00000005
+
+[Max Health Potion]
+2A38F980 00000005
+
+[Max Gold]
+0A38F978 0001869F

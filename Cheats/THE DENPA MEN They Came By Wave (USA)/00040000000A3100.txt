@@ -1,0 +1,12 @@
+THE "DENPA" MEN: They Came By Wave (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1174/
+----------------------------------------------------
+
+[65,500 EXP After Battle]
+0847F5B8 0000FFDC
+
+[65,500 Gold after battle]
+0847F5BC 0000FFDC

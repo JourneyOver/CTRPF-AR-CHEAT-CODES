@@ -1,0 +1,19 @@
+LEGO City Undercover - The Chase Begins (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game253/
+----------------------------------------------------
+
+[99999999 Studs Right Side]
+005933A0 05F5E0FF
+
+[99999999 Studs Left Side]
+00593388 05F5E0FF
+
+[Player Infinite Health]
+6058D61C 00000000
+B058D61C 00000000
+50000000 0000FF00
+20000070 000000C8
+D2000000 00000000

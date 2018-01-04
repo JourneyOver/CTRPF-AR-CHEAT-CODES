@@ -1,0 +1,16 @@
+LEGO Legends of Chima: Lavals Journey (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game611/
+----------------------------------------------------
+
+[99999999 Studs]
+003F6EA0 05F5E0FF
+
+[Infinite Health]
+603F0D3C 00000000
+B03F0D3C 00000000
+50000000 0000FF00
+2000008C 000000C8
+D2000000 00000000

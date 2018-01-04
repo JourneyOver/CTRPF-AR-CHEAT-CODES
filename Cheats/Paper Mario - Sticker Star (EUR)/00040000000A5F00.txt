@@ -1,0 +1,30 @@
+Paper Mario - Sticker Star (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game230/
+----------------------------------------------------
+
+[18 Sticker Pages]
+082BF3B0 00000012
+
+[999 Health]
+082BE7D8 000003E7
+082BE7DC 000003E7
+
+[$9,999]
+082BE7D4 0000270F
+
+[8 Sticker Pages]
+082BF3B0 00000012
+
+[Reset Amount of money]
+082BE7D4 00000000
+
+[Reset Health to 20]
+082BE7D8 00000014
+082BE7DC 00000014
+
+[Max Health Modifier]
+082BE7D8 000000AF
+082BE7DC 000000AF

@@ -1,0 +1,17 @@
+Code of Princess (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game256/
+----------------------------------------------------
+
+[Max G]
+00530178 05F5E0FF
+
+[Infinite Level Up Points]
+DD000000 00000100
+08453238 00000000
+D0000000 00000000
+DD000000 00000200
+08453238 0000270F
+D0000000 00000000

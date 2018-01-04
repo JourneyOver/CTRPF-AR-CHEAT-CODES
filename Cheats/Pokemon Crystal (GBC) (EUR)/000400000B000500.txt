@@ -1,0 +1,37 @@
+Pokemon Crystal (GBC) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1103/
+----------------------------------------------------
+
+[Use Bike (Press START)]
+DD000000 00000008
+28A2DA5D 00000001
+
+[Wild Level Modifier (64 is 100)]
+28A2D243 00000064
+
+[Wild Pokemon Modifier (96 is mewtwo)]
+28A2D304 00000096
+
+[Infinite HP]
+DB000000 08A2C73E
+D8000000 08A2C73C
+D2000000 00000000
+DB000000 08A2C73F
+D8000000 08A2C73D
+D2000000 00000000
+
+[Celebi Event Activator + GSBall]
+28A2DB89 00000040
+28A2D1F2 00000073
+
+[Shiny Pokemon]
+28A2D330 00000007
+
+[Mod 1st Item Shop]
+28A2D1F1 00000001
+
+[1st Pokemon 1st Move Modifier]
+28A2DDE1 00000001

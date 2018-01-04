@@ -1,0 +1,18 @@
+Monster Hunter 3 Ultimate (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game231/
+----------------------------------------------------
+
+[cheat]
+166755B8 00000000
+
+[one hit kill cheat]
+166755B8 00000000
+
+[Max Z L+UP]
+DD000000 00000240
+D3000000 0823B178
+00000000 0098967F
+D0000000 00000000

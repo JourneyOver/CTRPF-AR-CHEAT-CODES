@@ -1,0 +1,15 @@
+Super Mario Bros. 2 (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1400/
+----------------------------------------------------
+
+[Infinite Lives]
+2888C5DD 00000063
+
+[Invincible]
+2888C5D0 000000FF
+
+[Infinite Health]
+2888C5B2 0000003F

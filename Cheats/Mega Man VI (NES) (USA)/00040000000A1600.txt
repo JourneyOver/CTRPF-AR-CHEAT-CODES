@@ -1,0 +1,33 @@
+Mega Man VI (NES) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1441/
+----------------------------------------------------
+
+[Energy Balancer]
+28880FEE 00000009
+
+[Energy Tank x9]
+28880FF9 00000009
+
+[Have Pow]
+28880FEC 00000007
+
+[have Jet Pack]
+28880FED 00000001
+288809F4 00000013
+
+[Have All Weapons and Infinite Ammo]
+08880FE0 1B1B1B1B
+08880FE4 1B1B1B1B
+18880FE8 00001B1B
+
+[Invincible Flashing]
+288809FA 000000FF
+
+[Infinite Lives]
+28880A01 00000009
+
+[Infinite Health]
+28880D3D 0000001B

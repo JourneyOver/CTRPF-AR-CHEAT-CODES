@@ -1,0 +1,13 @@
+Professeur Layton et le Masque des Miracles (FRA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game209/
+----------------------------------------------------
+
+[Max/Inf Hint Coins]
+00433FBE 000003E7
+00433FC0 000003E7
+
+[9999 Pikarat]
+00433FBC 0000270F

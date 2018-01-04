@@ -1,0 +1,12 @@
+Professor Layton und die Maske der Wunder (GER)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game281/
+----------------------------------------------------
+
+[9999 Pikarat]
+10433FBC 0000270F
+
+[Max/Inf Hint Coins]
+00433FBE 03E703E7

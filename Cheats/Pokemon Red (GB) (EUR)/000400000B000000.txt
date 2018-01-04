@@ -1,0 +1,30 @@
+Pokemon Red (GB) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1108/
+----------------------------------------------------
+
+[(L+A) Max Coins]
+DD000000 00000201
+1893065C 00009999
+D2000000 00000000
+
+[(R+A) Max Money]
+DD000000 00000101
+D3000000 089303FF
+20000000 00000099
+D3000000 08930400
+20000000 00000099
+D3000000 08930401
+20000000 00000099
+D2000000 00000000
+
+[Enemy/Wild PKMN always asleep]
+289300A1 00000004
+
+[(R+B) Enemy/Wild PKMN asleep and 1 HP left]
+DD000000 00000102
+2893009F 00000001
+289300A1 00000004
+D2000000 00000000

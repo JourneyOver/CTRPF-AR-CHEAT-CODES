@@ -1,0 +1,15 @@
+Mario Kart 7 Update 1.1 (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game695/
+----------------------------------------------------
+
+[Drifting sounds like scratching on a turntable]
+002514A8 40000000
+
+[Extreme FOV]
+0022FCF4 3E000000
+
+[Vehicles are huge and have slightly weird physics]
+002D41B8 40000000
