@@ -1,0 +1,37 @@
+Sonic Lost World (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game625/
+----------------------------------------------------
+
+[Max Rc Vehicle (in stage)]
+081A9604 00000009
+081E7094 00000009
+
+[Max Orbs in Special Stage]
+081E7204 000003E7
+
+[Max Fighter Jet(Normal) in Inventory]
+0817E939 00000063
+
+[Max Rings(Press L)]
+DD000000 00000200
+D3000000 00000000
+606DCACC 00000000
+B06DCACC 00000000
+B0000E48 00000000
+00000000 000003E7
+D2000000 00000000
+
+[RC Items x96]
+C0000000 00000023
+0817E934 00000060
+DC000000 00000001
+D1000000 00000000
+
+[Items x96]
+C0000000 00000008
+0817E960 00000060
+DC000000 00000001
+D1000000 00000000

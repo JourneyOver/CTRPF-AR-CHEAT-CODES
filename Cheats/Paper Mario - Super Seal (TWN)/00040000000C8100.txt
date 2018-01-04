@@ -1,0 +1,30 @@
+Paper Mario - Super Seal (TWN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game525/
+----------------------------------------------------
+
+[9999 coins]
+082BC33C 0000270F
+
+[999 HP]
+082BC340 000003E7
+082BC344 000003E7
+
+[18 Sticker Pages]
+082BCF18 00000012
+
+[8 Sticker Pages]
+082BCF18 00000008
+
+[Reset Health to 20]
+082BC340 00000014
+082BC344 00000014
+
+[Max Health Modifier]
+082BC340 000000AF
+082BC344 000000AF
+
+[Reset Amount of money]
+082BC33C 00000000

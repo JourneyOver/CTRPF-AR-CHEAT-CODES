@@ -1,0 +1,20 @@
+3D Altered Beast (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1746/
+----------------------------------------------------
+
+[Infinite Lives]
+00BCBBDB 00000009
+086B869D 00000009
+087E9551 00000009
+087F9561 00000009
+08ACD14F 00000009
+
+[Infinite Health]
+00BCD9CB 00000016
+086BA48D 00000016
+087EB341 00000016
+087FB351 00000016
+08ACEF3F 00000016

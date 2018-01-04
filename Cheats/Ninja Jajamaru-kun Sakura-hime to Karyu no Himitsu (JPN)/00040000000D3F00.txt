@@ -1,0 +1,25 @@
+Ninja Jajamaru-kun: Sakura-hime to Karyu no Himitsu (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game999/
+----------------------------------------------------
+
+[999999 Score]
+002B75A4 000F423F
+
+[99 Lives]
+202B75B2 00000063
+
+[99 Scrolls]
+202B75AD 00000063
+
+[Max Life Bar]
+202B75AE 00000005
+202B75B1 00000005
+
+[All ninjas found(beat a level)]
+002B75B8 00FFFFFF
+
+[Unlock Characters]
+002B7638 00011111

@@ -1,0 +1,11 @@
+3D Space Harrier (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1725/
+----------------------------------------------------
+
+[Infinite Lives]
+003C3C72 00000064
+08589976 00000064
+08CEC9E6 00000064

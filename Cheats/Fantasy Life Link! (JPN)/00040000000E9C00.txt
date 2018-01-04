@@ -1,0 +1,18 @@
+Fantasy Life Link! (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game543/
+----------------------------------------------------
+
+[9.999.999 Lichi Max/Inf Money]
+006FDB94 0098967F
+
+[Max exp Lvl 200]
+006FDB8C 004F5A5B
+
+[999 Gold Marzu Coins]
+006FDE4C 000003E7
+
+[999 Silver Marzu Coins]
+006FDE50 000003E7

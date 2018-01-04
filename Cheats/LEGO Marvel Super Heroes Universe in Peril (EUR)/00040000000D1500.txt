@@ -1,0 +1,19 @@
+LEGO Marvel Super Heroes: Universe in Peril (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game797/
+----------------------------------------------------
+
+[99999999 Gold Studs]
+004075A0 05F5E0FF
+
+[99999999 Silver Studs]
+00396BE0 05F5E0FF
+
+[Infinite Health]
+603792C0 00000000
+B03792C0 00000000
+90000142 00003C00
+20000140 000000C8
+D2000000 00000000

@@ -1,0 +1,42 @@
+Bravely Second: End Layer (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1759/
+----------------------------------------------------
+
+[99999999 pg]
+0ADD3914 0098967F
+
+[Max potions]
+0ADD1D18 00000063
+
+[Max Phoenix Down]
+0ADD1E80 00000063
+
+[Max antidote]
+0ADD1DB0 00000063
+
+[99 eye drops]
+0ADD1DB8 00000063
+
+[99 echo herbs]
+0ADD1DC0 00000063
+
+[99 teleport stones]
+0ADD1E58 00000063
+
+[Max High Potions]
+0ADD1E40 00000063
+
+[Max ethers]
+0ADD1E38 00000063
+
+[Max Awakening Bell]
+0ADD1DD0 00000063
+
+[Max Cure All]
+0ADD1E30 00000063
+
+[Max Money]
+0AEE6878 0098967F

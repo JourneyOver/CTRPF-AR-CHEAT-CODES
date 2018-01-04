@@ -1,0 +1,21 @@
+Mushibugyo (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game790/
+----------------------------------------------------
+
+[Jinbei Max Exp.]
+00353B68 000FFFFF
+
+[Mugai Max Exp.]
+00353C68 000FFFFF
+
+[Hibachi Max Exp.]
+00353CE8 000FFFFF
+
+[Shungiku Max Exp.]
+00353DE8 000FFFFF
+
+[Tenma Max Exp.]
+00353EE8 000FFFFF

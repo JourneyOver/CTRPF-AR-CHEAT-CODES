@@ -1,0 +1,10 @@
+3D Streets of Rage (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1756/
+----------------------------------------------------
+
+[Always MAX HP]
+D3000000 00000000
+287DA650 00000068

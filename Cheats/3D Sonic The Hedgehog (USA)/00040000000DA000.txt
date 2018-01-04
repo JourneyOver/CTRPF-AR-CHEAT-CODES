@@ -1,0 +1,21 @@
+3D Sonic The Hedgehog (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1259/
+----------------------------------------------------
+
+[255 Coins (Hit A)]
+DD000000 00000001
+1868CE18 000000FF
+D2000000 00000000
+
+[Max Lives (hit B)]
+DD000000 00000002
+2868CE0B 00000063
+D2000000 00000000
+
+[Reset Timer (Hit R)]
+DD000000 00000100
+2868CE1D 00000001
+D2000000 00000000

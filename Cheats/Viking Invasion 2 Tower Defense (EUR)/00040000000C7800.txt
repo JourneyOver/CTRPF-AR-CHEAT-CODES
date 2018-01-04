@@ -1,0 +1,15 @@
+Viking Invasion 2: Tower Defense (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game344/
+----------------------------------------------------
+
+[100 Health]
+2017C868 00000064
+
+[255 Upgrade Gems]
+001CE44B 000000FF
+
+[9,999 Gold]
+1017C860 0000270F

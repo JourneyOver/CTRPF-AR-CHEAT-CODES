@@ -1,0 +1,24 @@
+Mighty Switch Force 2 (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1527/
+----------------------------------------------------
+
+[Low Time]
+98090296 00000000
+28090295 00000000
+D2000000 00000000
+
+[Moon Jump B Button]
+DD000000 00000002
+98090296 00000000
+B8090060 00000000
+00000308 3EC00000
+D2000000 00000000
+
+[Infinite Health]
+98090296 00000000
+B8090060 00000000
+20000310 00000003
+D2000000 00000000

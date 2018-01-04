@@ -1,0 +1,33 @@
+10-in-1 Arcade Collection (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1512/
+----------------------------------------------------
+
+[Black Nightmares Lives]
+2875470C 00000003
+
+[Brick Breaker Lives]
+287056AC 00000003
+
+[Special Delivery Lives]
+287546DC 00000003
+
+[Tangled Space Lives]
+287546E4 00000009
+
+[Lander Lives]
+286BDF74 00000003
+
+[Lander Double Shot]
+286BDFC4 0000000A
+
+[Lander Single Shot]
+286BDFC0 0000000A
+
+[Saucer Room Lives]
+28705E30 0000000A
+
+[Devil Maze Lives]
+286BDFA0 00000003

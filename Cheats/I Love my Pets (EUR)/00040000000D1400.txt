@@ -1,0 +1,32 @@
+I Love my Pets (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game602/
+----------------------------------------------------
+
+[Increased FOV]
+0010E0AC 3E800000
+
+[Music Pitch]
+DD000000 00000200
+00133870 40200000
+D0000000 00000000
+DD000000 00000100
+00133870 3F000000
+D0000000 00000000
+DD000000 00000020
+00133870 3F800000
+D0000000 00000000
+
+[Corrupted Pets]
+0017F9D0 BF980000
+
+[Weird Music]
+001AFA08 40000000
+
+[Funny Music]
+00218170 40400000
+
+[No Music]
+00346AD0 00000000

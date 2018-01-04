@@ -1,0 +1,31 @@
+Sonic Lost World (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game462/
+----------------------------------------------------
+
+[Max Lives]
+081E8F44 00000063
+
+[Max Rings]
+D3000000 80000000
+681E8F48 00000000
+B81E8F48 00000000
+00000000 000003E7
+D2000000 00000000
+
+[Max Orbs In Special Stage]
+081E91C4 000003E7
+
+[All Items x99]
+C0000000 00000008
+08180920 00000063
+DC000000 00000001
+D1000000 00000000
+
+[All RCs x99]
+C0000000 00000023
+081808F4 00000063
+DC000000 00000001
+D1000000 00000000
