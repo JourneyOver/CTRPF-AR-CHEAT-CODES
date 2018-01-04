@@ -15,7 +15,7 @@ FAQS Before README UPDATE --
 
 [Early release of the CTRPF AR](https://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/page-6#post-7750475)
 
-[Some little additional guide for CTRPF AR](https://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/page-6#post-7750475)
+[Some little additional guide for CTRPF AR](https://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/page-13#post-7766294)
 
 1.)Where can I put my cheat codes?
 Put them inside a text file called cheats.txt or <Title ID of the game>.txt.
