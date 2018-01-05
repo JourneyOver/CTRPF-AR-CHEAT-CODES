@@ -1,0 +1,34 @@
+Senran Kagura Burst (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game657/
+----------------------------------------------------
+
+[Infinite Health]
+104B1B4F 000043AA
+
+[Highest Combo 9999]
+004B1FA0 0000270F
+
+[0 Ninja Art Used]
+004B1FBC 00000000
+
+[Infinite Combo Timer]
+204B1F9B 00000042
+
+[Max Exp]
+004B1EE8 0098967F
+
+[Infinite Ninja Art]
+D9000000 004B1E34
+D6000000 004B1E30
+D2000000 00000000
+
+[Infinite Health]
+D9000000 004B1B50
+D6000000 004B1B4C
+D2000000 00000000
+
+[Max Exp without fighting]
+0045BAEC 0098967F

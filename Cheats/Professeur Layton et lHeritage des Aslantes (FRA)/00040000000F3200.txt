@@ -1,0 +1,13 @@
+Professeur Layton et lHeritage des Aslantes (FRA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game601/
+----------------------------------------------------
+
+[Max/Inf Hint Coins]
+003FE17A 000003E7
+003FE17C 000003E7
+
+[9999 Pikarat]
+003FE178 0000270F

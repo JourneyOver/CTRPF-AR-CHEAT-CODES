@@ -1,0 +1,31 @@
+Disney Magical World (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game857/
+----------------------------------------------------
+
+[Max Coins]
+086E45D4 000F423F
+
+[Max Likes]
+086E7250 0000270F
+
+[Max Red Stones (Battle)]
+086E62EC 00000063
+
+[Max Magic (Battle)]
+086E724C 00000002
+
+[Max Health (Battle)]
+086E7248 00000078
+
+[Invincible (Battle)]
+288C162A 00000030
+
+[999,999 Coins]
+086E45D4 000F423F
+
+[All new]
+084A2194 0000270F
+084A2198 0000270F

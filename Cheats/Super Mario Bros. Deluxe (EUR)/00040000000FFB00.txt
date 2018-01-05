@@ -1,0 +1,24 @@
+Super Mario Bros. Deluxe (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game688/
+----------------------------------------------------
+
+[99 Coins]
+2892CBC2 00000063
+
+[Refill Time push R]
+DD000000 00000100
+2892CB4E 00000002
+D2000000 00000000
+
+[Invincible]
+2892CBAB 00000001
+
+[Always Fire Mario]
+2892CB95 00000001
+2892CB9E 00000001
+
+[Infinite Lives]
+2892CB4F 00000009

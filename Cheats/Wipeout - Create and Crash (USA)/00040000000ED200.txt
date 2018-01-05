@@ -1,0 +1,9 @@
+Wipeout - Create and Crash (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game454/
+----------------------------------------------------
+
+[Max Coins]
+08B6711C 0098967F

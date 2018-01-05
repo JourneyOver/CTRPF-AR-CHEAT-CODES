@@ -1,0 +1,26 @@
+SpeedX 3D Hyper Edition (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1557/
+----------------------------------------------------
+
+[2 billion points]
+08072724 77359400
+
+[Have Bonus]
+28072728 00000003
+
+[Display shield or fuel]
+DD000000 00000010
+28072729 00000002
+D0000000 00000000
+DD000000 00000020
+28072729 00000000
+D0000000 00000000
+DD000000 00000080
+28072729 00000001
+D0000000 00000000
+
+[Max/Inf shield]
+28072714 00000004

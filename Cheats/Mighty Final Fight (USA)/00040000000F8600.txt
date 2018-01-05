@@ -1,0 +1,12 @@
+Mighty Final Fight (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1464/
+----------------------------------------------------
+
+[Infinite Lives]
+2888C206 00000008
+
+[Infinite Health]
+2888C202 00000068

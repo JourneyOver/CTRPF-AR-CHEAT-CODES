@@ -1,0 +1,12 @@
+Professor Layton und das Vermaechtnis von Aslant (GER)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game521/
+----------------------------------------------------
+
+[9999 Pikarat]
+103FE178 0000270F
+
+[Max/Inf Hint Coins]
+003FE17A 03E703E7

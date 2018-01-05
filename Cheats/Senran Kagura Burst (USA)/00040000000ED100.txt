@@ -1,0 +1,28 @@
+Senran Kagura Burst (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1940/
+----------------------------------------------------
+
+[Infinite Health]
+D9000000 004B1B58
+D6000000 004B1B54
+D2000000 00000000
+
+[Infinite Ninja Art]
+D9000000 004B1E3C
+D6000000 004B1E38
+D2000000 00000000
+
+[Max Exp]
+004B1EF0 0098967F
+
+[0 Ninja Art Used]
+004B1FC4 00000000
+
+[Infinite Combo Timer]
+204B1FA3 00000042
+
+[Combo 9999]
+004B1FA8 0000270F

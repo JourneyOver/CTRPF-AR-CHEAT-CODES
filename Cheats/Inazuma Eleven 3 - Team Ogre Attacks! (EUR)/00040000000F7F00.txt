@@ -1,0 +1,37 @@
+Inazuma Eleven 3 - Team Ogre Attacks! (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game636/
+----------------------------------------------------
+
+[Max Money]
+087E8F30 000F423F
+
+[Max Passion Points]
+087E8F34 000F423F
+
+[100Char.Stats(resets at lvl up)]
+D3000000 15000000
+C0000000 00000064
+002BC3EC 03E703E7
+002BC3F0 03E703E7
+002BC3F4 FFFFFFFF
+002BC3F8 FFFFFFFF
+002BC3FC FFFFFFFF
+102BC400 0000FFFF
+DC000000 00000098
+D1000000 00000000
+
+[100Char.Stats(resets at lvl up)]
+D3000000 15000000
+C0000000 00000064
+002BFF80 000F423F
+DC000000 0000006C
+D1000000 00000000
+
+[All items/equip./techs x99]
+C0000000 000003F5
+287E8B19 00000063
+DC000000 00000001
+D1000000 00000000

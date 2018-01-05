@@ -1,0 +1,18 @@
+Steamworld Dig (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1055/
+----------------------------------------------------
+
+[5000 Gold (in shop)]
+09019CC0 00001388
+09019E70 00001388
+09024F08 00001388
+09024F24 00001388
+
+[5000 Blue Orb (in shop)]
+09019CC4 00001388
+09019E74 00001388
+09024F0C 00001388
+09024F38 00001388

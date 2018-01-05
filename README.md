@@ -1,7 +1,5 @@
 # [Database] CTRPF AR CHEAT CODES
 
-NO MORE NEED TO USE BootNTR/BootNTR mode 3 for CTRPluginFramework plugins
-
 ## How to use
 
 1. Download `Luma3DS 9.0 - Plugin loader` and `CTRPluginFramework - Action Replay` (Included in this repository or you can download from [here](https://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/page-6#post-7750475))
@@ -21,7 +19,9 @@ NO MORE NEED TO USE BootNTR/BootNTR mode 3 for CTRPluginFramework plugins
 3. Make sure format is as `Cheats/<gamename (region)>/<tid>.txt` or `Cheats/<gamename (update #.#) (region)>/<tid>.txt` Example: `Cheats\Mario and Luigi Dream Team Bros. (Update 1.1) (EUR)/0004000E000D9000.txt`
 4. Once done send a pull request back to my repository
 
-language CODES
+Region CODES
+
+If you do not know the correct Region code to give to, just input the titleID into the search on [3dsdb](http://www.3dsdb.com/) and see what flag it gives you.
 
 1. USA = United States
 2. FRA = French
@@ -31,4 +31,11 @@ language CODES
 6. GER = Germany
 7. CHN = China
 8. KOR = Korean
-9. ...
+9. GLO = Global
+10. ...
+
+
+## Notes
+
+1. Various folder names will be fixed up in due time.
+2. Inazuma Eleven 3 (EUR) games have 2 different `.txt` files, have to look into which ones are correct at some point.

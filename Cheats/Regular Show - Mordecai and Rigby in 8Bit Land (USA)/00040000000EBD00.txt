@@ -1,0 +1,41 @@
+Regular Show - Mordecai and Rigby in 8Bit Land (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game465/
+----------------------------------------------------
+
+[Inf (99) Lives]
+D3000000 10000000
+263CEDB7 00000063
+
+[Inf Money]
+D3000000 10000000
+263CEDB4 000003E7
+
+[(STATIC) Inf Time *v1.0]
+D3000000 10000000
+663F5E04 00000000
+B63F5E04 00000000
+20000090 0000007B
+D2000000 00000000
+
+[Inf Walkman (purse looking thingy) ((second item on bottom screen))]
+D3000000 10000000
+263CEDB6 00000063
+
+[99 Continues]
+D3000000 10000000
+263CEDB6 00000063
+
+[Unlock all VHS (beat a level)]
+D3000000 10000000
+C0000000 0000000B
+263CED6C 00000001
+263CED7B 00000001
+263CED8A 00000001
+263CED99 00000001
+
+[Inf. Time]
+D3000000 10000000
+163D49D0 000003E7

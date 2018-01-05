@@ -1,0 +1,44 @@
+Teenage Mutant Ninja Turtles (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game573/
+----------------------------------------------------
+
+[999999 Money]
+003ACE6C 000F423F
+
+[Infinite Lives]
+203ADA36 00000009
+
+[Michelangelo Infintie Power Bar]
+0036D9D8 45880000
+
+[Michelangelo Infinite HP]
+DA000000 0036DA94
+D7000000 0036DA90
+D2000000 00000000
+
+[Donatello Infintie Power Bar]
+0036AFA0 45880000
+
+[Donatello Infinite HP]
+DA000000 0036B05C
+D7000000 0036B058
+D2000000 00000000
+
+[Raphael Infintie Power Bar]
+0036C4BC 45880000
+
+[Raphael Infinite HP]
+DA000000 0036C578
+D7000000 0036C574
+D2000000 00000000
+
+[Leonardo Infintie Power Bar]
+00369A84 45880000
+
+[Leonardo Infinite HP]
+DA000000 00369B40
+D7000000 00369B3C
+D2000000 00000000

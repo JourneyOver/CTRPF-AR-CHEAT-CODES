@@ -1,0 +1,25 @@
+Kenka Banchou 6 Soul and Blood (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1524/
+----------------------------------------------------
+
+[Max Money]
+0808F124 05F5E0FF
+
+[Main Character Max HP]
+1808F0F6 0000270F
+1808F0FA 0000270F
+
+[Main Character Max Stamina]
+1808F0FC 0000270F
+1808F100 0000270F
+
+[Main Character Level 99]
+2808F110 00000063
+
+[Main Character Max Stats]
+0808F118 012C012C
+0808F11C 012C012C
+1808F120 0000012C

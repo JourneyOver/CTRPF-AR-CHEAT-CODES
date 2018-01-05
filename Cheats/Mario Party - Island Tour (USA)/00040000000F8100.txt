@@ -1,0 +1,15 @@
+Mario Party - Island Tour (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game484/
+----------------------------------------------------
+
+[Max Money]
+00482ED4 000F423F
+
+[Unlock all]
+C0000000 00000059
+20482ED8 00000000
+DC000000 00000001
+D1000000 00000000

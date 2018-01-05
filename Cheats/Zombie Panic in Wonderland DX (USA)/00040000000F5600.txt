@@ -1,0 +1,15 @@
+Zombie: Panic in Wonderland DX (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1257/
+----------------------------------------------------
+
+[Infinite Grenade]
+1064537C 0000270F
+
+[Infinite Flamethrower Fuel]
+10645378 0000270F
+
+[Infinite Heavy Machine Gun Ammo]
+10645374 0000270F
