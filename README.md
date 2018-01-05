@@ -1,6 +1,6 @@
 # [Database] CTRPF AR CHEAT CODES
 
-NO MORE NEED TO USE BootNTR/BootNTR mode 3
+NO MORE NEED TO USE BootNTR/BootNTR mode 3 for CTRPluginFramework plugins
 
 ## How to use
 
