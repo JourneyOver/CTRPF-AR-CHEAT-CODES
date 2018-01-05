@@ -21,7 +21,7 @@
 3. Place the contents from `CTRPluginFramework - Action Replay.7z` into `SD:/luma/plugins/<Title ID of the game folder>/`
 4. Either download or clone this repository or search in the cheats folder for the game you want to cheat on and download the `.txt` file in the folder
 5. Move the `.txt` file to either `sd:/cheats/` (txt files are conviently already named correctly if placing here)
-6. Or place in same folder as the `plugin.plg` from #4 and rename the `.txt` to `cheats.txt`
+6. Or place in same folder as the `plugin.plg` from #3 and rename the `.txt` to `cheats.txt`
 7. Open up BOOTNTR and wait for it to do it's thing
 8. Load up game (if you get a green screen during load then it worked) and cheat to your hearts content!
 9. To open CTRPluginFramework menu press `select` once in game
@@ -53,7 +53,6 @@ If you do not know the correct Region code to give to, just input the titleID in
 
 ## Notes
 
-1. Various folder names will be fixed up in due time.
-2. I will not test any/all cheats.
-3. Due to #2 some games may end up being multi-regional/work on all versions even if not marked as such and some cheats may just not work at all. If you find any that are marked as only one region but work for other reqions or any games that are marked for one only version but work on all versions or any cheats that just do not work throw an issue up.
-4. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. Need to look into this.
+1. I will not test any/all cheats.
+2. Due to #1 some games may end up being multi-regional/work on all versions even if not marked as such and some cheats may just not work at all. If you find any that are marked as only one region but work for other reqions or any games that are marked for one only version but work on all versions or any cheats that just do not work throw an issue up.
+3. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. Need to look into this.
