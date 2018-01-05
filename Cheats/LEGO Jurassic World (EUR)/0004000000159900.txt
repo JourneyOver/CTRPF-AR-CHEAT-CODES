@@ -1,0 +1,16 @@
+LEGO Jurassic World (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1772/
+----------------------------------------------------
+
+[Max Studs]
+00519560 3B9AC9FF
+
+[Infinite Health]
+604FF378 00000000
+B04FF378 00000000
+50000000 0000FF00
+20000078 000000C8
+D2000000 00000000

@@ -1,0 +1,18 @@
+Mighty Gunvolt (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1718/
+----------------------------------------------------
+
+[99999999 Pts, Game v2.0.0]
+085A70B0 05F5E0FF
+
+[Infinite Lives, Game v2.0.0]
+28764886 00000009
+
+[Infinite Health, Game v2.0.0]
+98641AF6 0000085A
+B8641AF4 00000000
+20000030 00000020
+D2000000 00000000

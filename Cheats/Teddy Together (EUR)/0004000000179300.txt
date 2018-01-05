@@ -1,0 +1,12 @@
+Teddy Together (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1905/
+----------------------------------------------------
+
+[Max Money 99999]
+0056EFD8 0001869F
+
+[Max Stars 999]
+0054ACBA 000003E7

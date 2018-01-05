@@ -1,0 +1,13 @@
+Freakyforms Deluxe (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game208/
+----------------------------------------------------
+
+[Max Coins]
+005CF928 0001869F
+0895ECB4 0001869F
+
+[Max Hearts]
+205CF94B 00000005

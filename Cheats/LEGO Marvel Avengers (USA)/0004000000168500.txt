@@ -1,0 +1,16 @@
+LEGO Marvel Avengers (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1855/
+----------------------------------------------------
+
+[Infinite Health]
+6056B58C 00000000
+B056B58C 00000000
+50000000 0000FF00
+20000090 000000C8
+D2000000 00000000
+
+[Max Studs]
+00575030 FFFFFFFF

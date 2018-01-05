@@ -1,0 +1,29 @@
+Dragon Ball Heroes: Ultimate Mission 2 (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1111/
+----------------------------------------------------
+
+[Max Coins]
+009FCDE4 0098967F
+
+[All Cards]
+C0000000 00000817
+209FC5C8 000000FF
+DC000000 00000001
+D1000000 00000000
+
+[Hero Cards Stats]
+109FDEF0 0000270F
+109FDEF4 0000270F
+109FDEF8 0000270F
+
+[Hero Cards Something 99]
+209FDF00 00000063
+
+[Hero Card Level 99]
+209FDEC0 00000063
+
+[Hero Card Remain Exp 0]
+009FDEC4 00000000

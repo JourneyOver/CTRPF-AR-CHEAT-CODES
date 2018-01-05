@@ -1,0 +1,26 @@
+Nintendo Pocket Football Club (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1057/
+----------------------------------------------------
+
+[All cards x9]
+C0000000 00000007
+004220C8 09090909
+DC000000 00000004
+D1000000 00000000
+
+[No fatigue]
+204220C7 00000000
+
+[All initial Players Rank S]
+C0000000 00000018
+00422D0E 73737373
+00422D12 73737373
+00422D16 73737373
+00422D1A 73737373
+00422D1E 73737373
+00422D22 73737373
+DC000000 00000098
+D1000000 00000000

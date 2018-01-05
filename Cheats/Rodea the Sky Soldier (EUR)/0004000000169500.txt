@@ -1,0 +1,10 @@
+Rodea the Sky Soldier (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1780/
+----------------------------------------------------
+
+[Max Lives]
+D3000000 10000000
+041F32A0 00000064

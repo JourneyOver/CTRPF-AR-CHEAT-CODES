@@ -1,0 +1,23 @@
+Johnny Kung Fu (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1584/
+----------------------------------------------------
+
+[Lives]
+201E83F8 00000003
+
+[1 Enemy Left: L + Up]
+DD000000 00000240
+201E8400 00000001
+D0000000 00000000
+
+[1 Remaining Bounce: L + Down]
+DD000000 00000280
+28007520 00000001
+D0000000 00000000
+
+[60 Minutes]
+201E85B0 0000003C
+201E85AC 00000000

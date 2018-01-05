@@ -1,0 +1,240 @@
+Mega Man Legacy Collection (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1887/
+----------------------------------------------------
+
+[Infinite Health (Megaman 1)]
+28E342B5 0000001C
+
+[Infinite Lives (Megaman 1)]
+28E342F1 00000063
+
+[Infinite Rolling Cutter Gauge (Megaman 1)]
+28E342B6 0000001C
+
+[Infinite Ice Slasher Gauge (Megaman 1)]
+28E342B7 0000001C
+
+[Infinite Hyper Bomb Gauge (Megaman 1)]
+28E342B8 0000001C
+
+[Infinite Fire Storm Gauge (Megaman 1)]
+28E342B9 0000001C
+
+[Infinite Thunder Beam Gauge (Megaman 1)]
+28E342BA 0000001C
+
+[Infinite Super Arm Gauge (Megaman 1)]
+28E342BB 0000001C
+
+[Infinite Magnet Beam Gauge (Megaman 1)]
+28E342BC 0000001C
+
+[Infinite Health (Megaman 2)]
+28EFEFDB 0000001C
+
+[Infinite Lives (Megaman 2)]
+28EFE9C3 00000064
+
+[Unlock All Weapons (Megaman 2)]
+18EFE9B5 00000FFF
+
+[Infinite Atomic Fire Gauge (Megaman 2)]
+28EFE9B7 0000001C
+
+[Infinite Air Shooter Gauge (Megaman 2)]
+28EFE9B8 0000001C
+
+[Infinite Leaf Shield Gauge (Megaman 2)]
+28EFE9B9 0000001C
+
+[Infinite Bubble Lead Gauge (Megaman 2)]
+28EFE9BA 0000001C
+
+[Infinite Quick Boomerang Gauge (Megaman 2)]
+28EFE9BB 0000001C
+
+[Infinite Time Stopper Gauge (Megaman 2)]
+28EFE9BC 0000001C
+
+[Infinite Metal Blade Gauge (Megaman 2)]
+28EFE9BD 0000001C
+
+[Infinite Crash Bomber Gauge (Megaman 2)]
+28EFE9BE 0000001C
+
+[Infinite Item 1 Gauge (Megaman 2)]
+28EFE9BF 0000001C
+
+[Infinite Item 2 Gauge (Megaman 2)]
+28EFE9C0 0000001C
+
+[Infinite Item 3 Gauge (Megaman 2)]
+28EFE9C1 0000001C
+
+[Infinite Lives (Megaman 3)]
+28F22DC1 00000099
+
+[Infinite Health (Megaman 3)]
+28F22DB5 0000009C
+
+[Infinite Gemini Laser Gauge (Megaman 3)]
+28F22DB6 0000009C
+
+[Infinite Needle Cannon Gauge (Megaman 3)]
+28F22DB7 0000009C
+
+[Infinite Hard Knuckle Gauge (Megaman 3)]
+28F22DB8 0000009C
+
+[Infinite Magnet Missile Gauge (Megaman 3)]
+28F22DB9 0000009C
+
+[Infinite Top Spin Gauge (Megaman 3)]
+28F22DBA 0000009C
+
+[Infinite Search Snake Gauge (Megaman 3)]
+28F22DBB 0000009C
+
+[Infinite Rush Coil Gauge (Megaman 3)]
+28F22DBC 0000009C
+
+[Infinite Spark Shock Gauge (Megaman 3)]
+28F22DBD 0000009C
+
+[Infinite Shadow Blade Gauge (Megaman 3)]
+28F22DBE 0000009C
+
+[Infinite Rush Marine Gauge (Megaman 3)]
+28F22DBF 0000009C
+
+[Infinite Rush Jet Gauge (Megaman 3)]
+28F22DC0 0000009C
+
+[Infinite Lives & Infinite "E" (Megaman 4)]
+18F451D0 00009999
+
+[Infinite Health (Megaman 4)]
+28F451DF 0000009C
+
+[Infinite Rush Coil Gauge (Megaman 4)]
+28F451E0 0000009C
+
+[Infinite Rush Jet Gauge (Megaman 4)]
+28F451E1 0000009C
+
+[Infinite Rush Marine Gauge (Megaman 4)]
+28F451E2 0000009C
+
+[Infinite Rain Flush Gauge (Megaman 4)]
+28F451E3 0000009C
+
+[Infinite Wire Gauge (Megaman 4)]
+28F451E4 0000009C
+
+[Infinite Balloon Gauge (Megaman 4)]
+28F451E5 0000009C
+
+[Infinite Dive Missile Gauge (Megaman 4)]
+28F451E6 0000009C
+
+[Infinite Ring Boomerang Gauge (Megaman 4)]
+28F451E7 0000009C
+
+[Infinite Drill Bomb Gauge (Megaman 4)]
+28F451E8 0000009C
+
+[Infinite Dust Crusher Gauge (Megaman 4)]
+28F451E9 0000009C
+
+[Infinite Pharaoh Shot Gauge (Megaman 4)]
+28F451EA 0000009C
+
+[Infinite Flash Stopper Gauge (Megaman 4)]
+28F451EB 0000009C
+
+[Infinite Skull Barrier Gauge (Megaman 4)]
+28F451EC 0000009C
+
+[Infinite Lives (Megaman 5)]
+28F6961A 00000009
+
+[Infinite Health (Megaman 5)]
+28F6960B 0000009C
+
+[Infinite "E" (Megaman 5)]
+28F69618 00000009
+
+[Infinite "M" (Megaman 5)]
+28F69619 00000009
+
+[Infinite Water Wave Gauge (Megaman 5)]
+28F6960C 0000009C
+
+[Infinite Gyro Attack Gauge (Megaman 5)]
+28F6960D 0000009C
+
+[Infinite Crystal Eye Gauge (Megaman 5)]
+28F6960E 0000009C
+
+[Infinite Napalm Bomb Gauge (Megaman 5)]
+28F6960F 0000009C
+
+[Infinite Super Arrow Gauge (Megaman 5)]
+28F69610 0000009C
+
+[Infinite Power Stone Gauge (Megaman 5)]
+28F69611 0000009C
+
+[Infinite Gravity Hold Gauge (Megaman 5)]
+28F69612 0000009C
+
+[Infinite Charge Kick Gauge (Megaman 5)]
+28F69613 0000009C
+
+[Infinite Star Crasher Gauge (Megaman 5)]
+28F69614 0000009C
+
+[Infinite Rush Coil Gauge (Megaman 5)]
+28F69615 0000009C
+
+[Infinite Rush Jet Gauge (Megaman 5)]
+28F69616 0000009C
+
+[Infinite Lives (Megaman 6)]
+28F8BA20 00000009
+
+[Infinite Health (Megaman 6)]
+28F8BD5C 0000001B
+
+[Infinite Jet Megaman Gauge (Megaman 6)]
+28F8BA13 00000013
+
+[Infinite Yamato Spear Gauge (Megaman 6)]
+28F8C000 0000001B
+
+[Infinite Wind Storm Gauge (Megaman 6)]
+28F8C001 0000001B
+
+[Infinite Blizzard Attack Gauge (Megaman 6)]
+28F8C002 0000001B
+
+[Infinite Flame Blast Gauge (Megaman 6)]
+28F8C003 0000001B
+
+[Infinite Plant Barrier Gauge (Megaman 6)]
+28F8C004 0000001B
+
+[Infinite Knight Crush Gauge (Megaman 6)]
+28F8C005 0000001B
+
+[Infinite Silver Tomahawk Gauge (Megaman 6)]
+28F8C006 0000001B
+
+[Infinite Centaur Flash Gauge (Megaman 6)]
+28F8C007 0000001B
+
+[Infinite Beat Gauge (Megaman 6)]
+28F8C008 0000001B

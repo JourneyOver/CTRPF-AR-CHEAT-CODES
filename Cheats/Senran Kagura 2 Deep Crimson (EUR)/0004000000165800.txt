@@ -1,0 +1,38 @@
+Senran Kagura 2: Deep Crimson (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1863/
+----------------------------------------------------
+
+[CPU Player Quick Level 50]
+D9000000 08344FBC
+D6000000 08344FB8
+D2000000 00000000
+
+[CPU Player Infinite Ninja Arts]
+D9000000 08344F58
+D6000000 08344F54
+D2000000 00000000
+
+[CPU Player Infinite Health]
+D9000000 08344F4C
+D6000000 08344F44
+D6000000 08344F44
+D2000000 00000000
+
+[Player Quick Level 50]
+D9000000 0834386C
+D6000000 08343868
+D2000000 00000000
+
+[Player Infinite Ninja Arts]
+D9000000 08343808
+D6000000 08343804
+D2000000 00000000
+
+[Player Infinite Health]
+D9000000 083437FC
+D6000000 083437F4
+D6000000 083437F4
+D2000000 00000000

@@ -1,0 +1,12 @@
+Cardfight!! Vanguard Lock On Victory!! (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1006/
+----------------------------------------------------
+
+[9999 CP]
+0096FF88 0000270F
+
+[9999 VP]
+0096FF84 0000270F

@@ -1,0 +1,15 @@
+Professor Layton vs. Phoenix Wright: Ace Attorney (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game691/
+----------------------------------------------------
+
+[9999 Pikarat]
+1037F1B4 0000270F
+
+[Max/Inf Hint Coins]
+0037F1A9 03E703E7
+
+[Inf tries in court]
+2037F300 00000000

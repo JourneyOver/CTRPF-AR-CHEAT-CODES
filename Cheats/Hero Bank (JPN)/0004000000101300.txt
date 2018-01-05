@@ -1,0 +1,25 @@
+Hero Bank (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game737/
+----------------------------------------------------
+
+[Max Money]
+0804DCF8 FFFFFFFF
+
+[Hero Level 99]
+08052C10 00000063
+
+[Hero Max HP]
+18052C18 0000270F
+
+[Hero Max Stats]
+18052C1A 03E703E7
+08052C1E 03E703E7
+
+[All items x9]
+C0000000 0000003D
+280574CC 00000009
+DC000000 00000001
+D1000000 00000000

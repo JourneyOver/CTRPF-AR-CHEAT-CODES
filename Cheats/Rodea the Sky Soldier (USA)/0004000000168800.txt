@@ -1,0 +1,20 @@
+Rodea the Sky Soldier (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1779/
+----------------------------------------------------
+
+[99x All Mech Pieces]
+D3000000 00170C28
+DC000000 14000000
+C0000000 0000001F
+00000000 00000063
+DC000000 00000002
+D1000000 00000000
+D3000000 00170C6E
+DC000000 14000000
+C0000000 00000002
+00000000 00000063
+DC000000 0000000A
+D1000000 00000000

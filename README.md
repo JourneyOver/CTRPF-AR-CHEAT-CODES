@@ -56,4 +56,4 @@ If you do not know the correct Region code to give to, just input the titleID in
 1. Various folder names will be fixed up in due time.
 2. I will not test any/all cheats.
 3. Due to #2 some games may end up being multi-regional/work on all versions even if not marked as such and some cheats may just not work at all. If you find any that are marked as only one region but work for other reqions or any games that are marked for one only version but work on all versions or any cheats that just do not work throw an issue up.
-4. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA) have 2 different `.txt` files. Need to look into this.
+4. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. Need to look into this.

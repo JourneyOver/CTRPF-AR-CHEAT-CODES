@@ -1,0 +1,21 @@
+Chibi-Robo! Zip Lash (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1820/
+----------------------------------------------------
+
+[999 BATERY]
+605B7A70 00000000
+B05B7A70 00000000
+00001234 4479BFFF
+D2000000 00000000
+
+[9 SPARE BATERY/JET PACKS]
+2800337C 00000009
+28003384 00000009
+2800355C 00000009
+28003564 00000009
+
+[120 in. ZIP LASH]
+18002800 00000113

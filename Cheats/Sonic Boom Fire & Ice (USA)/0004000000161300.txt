@@ -1,0 +1,24 @@
+Sonic Boom: Fire & Ice (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1944/
+----------------------------------------------------
+
+[999999999 Rings]
+0835EDE6 3B9AC9FF
+
+[Time = 0]
+081E10DC 00000000
+
+[999 Green Diamonds]
+181E10E8 000003E7
+
+[99 Brown thing]
+281E10F0 00000063
+
+[99 Hammers]
+281E10EC 00000063
+
+[99 Puzzles]
+281E10E4 00000063

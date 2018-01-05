@@ -1,0 +1,28 @@
+Adventure Time - Explore the Dungeon Because I DONT KNOW! (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game569/
+----------------------------------------------------
+
+[Unlock all weapons and coins]
+D3000000 10000000
+C0000000 00000088
+24FD8CF0 00000001
+DC000000 00000001
+D1000000 00000000
+
+[999 Treasure]
+D3000000 10000000
+14FD8C38 000003E7
+
+[All upgrade coins x99]
+D3000000 10000000
+C0000000 00000028
+24FD8CA7 00000063
+DC000000 00000001
+D1000000 00000000
+
+[99 Keys]
+D3000000 10000000
+24FD8C48 00000063

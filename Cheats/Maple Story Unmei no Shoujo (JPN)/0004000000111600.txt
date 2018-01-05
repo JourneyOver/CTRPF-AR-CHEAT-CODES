@@ -1,0 +1,18 @@
+Maple Story: Unmei no Shoujo (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game917/
+----------------------------------------------------
+
+[Max Money]
+088D1D90 000F423F
+
+[9999 HP]
+18C82E18 0000270F
+
+[9999 MP]
+18C82E1C 0000270F
+
+[Level 99]
+28C82E0C 00000063

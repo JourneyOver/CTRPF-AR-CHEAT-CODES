@@ -1,0 +1,33 @@
+Dragon Ball Z: Extreme Butôden (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1815/
+----------------------------------------------------
+
+[Gogeta S. Saiyen 4]
+004AA4D8 000003F2
+
+[Rank S]
+104AA494 00000003
+
+[Adventure mode Max Zenis]
+00494F04 0098967F
+
+[Adventure mode all items x99]
+C0000000 00000034
+00494F08 00000063
+DC000000 00000001
+D1000000 00000000
+
+[Infinite Health Left Side]
+6069DC64 00000000
+B069DC64 00000000
+00000900 00002EE0
+D2000000 00000000
+
+[Infinite Health Right Side]
+6069DC68 00000000
+B069DC68 00000000
+00000900 00002EE0
+D2000000 00000000

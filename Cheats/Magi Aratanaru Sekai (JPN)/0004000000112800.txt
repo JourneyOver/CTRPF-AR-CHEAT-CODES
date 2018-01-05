@@ -1,0 +1,28 @@
+Magi: Aratanaru Sekai (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game667/
+----------------------------------------------------
+
+[Max Money]
+0812CDC8 000F423F
+
+[Consumable items x99]
+0812CB0A 00630063
+0812CB0E 00630063
+0812CB12 00630063
+0812CB16 00630063
+2812CB1C 00000063
+
+[Upgrade Points]
+0812A92A 270F270F
+0812A92E 270F270F
+0812A932 270F270F
+0812A936 270F270F
+
+[All Equipables x99]
+C0000000 00000150
+2812CB20 00000063
+DC000000 00000002
+D1000000 00000000

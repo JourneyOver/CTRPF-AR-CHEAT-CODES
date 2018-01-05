@@ -1,0 +1,14 @@
+Tekken 3D - Prime Edition (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game101/
+----------------------------------------------------
+
+[L+DOWN Instant Kill CPU/P2]
+DD000000 00000280
+204B7322 00000000
+D2000000 00000000
+
+[P1 Infinite Health]
+204B6A0A 000000B4

@@ -1,0 +1,12 @@
+Metal Fight Beyblade: 4D x Zero-G Ultimate Tournament (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game859/
+----------------------------------------------------
+
+[Beyblade 4D Max Money]
+00400268 0098967F
+
+[Beyblade ZeroG Max Money]
+00400558 0098967F

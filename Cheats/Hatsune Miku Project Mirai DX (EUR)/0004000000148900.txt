@@ -1,0 +1,9 @@
+Hatsune Miku: Project Mirai DX (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1803/
+----------------------------------------------------
+
+[Infinite MP (Fixed)]
+0065EE70 000F423F

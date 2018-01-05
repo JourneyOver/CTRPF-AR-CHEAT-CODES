@@ -1,0 +1,12 @@
+Kung Fu (NES) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1884/
+----------------------------------------------------
+
+[Freeze Energy]
+08836596 00000032
+
+[Infinite Lives]
+0883614C 00000003

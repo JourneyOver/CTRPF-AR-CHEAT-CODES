@@ -1,0 +1,29 @@
+Fantasy Life (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1321/
+----------------------------------------------------
+
+[Inf. Dosh (9,999,999)]
+00720C0C 0098967F
+
+[Max Level]
+00720C04 004F5A5B
+
+[Infinite Magic]
+D3000000 10000000
+16EB2DA6 000042C8
+
+[Infinite HP (200)]
+D3000000 10000000
+16EB2DA2 00004348
+
+[Have 99 Stat Points]
+00720C00 00000063
+
+[999 gold lunares coins]
+00720EC4 000003E7
+
+[999 silver lunares coins]
+00720EC8 000003E7

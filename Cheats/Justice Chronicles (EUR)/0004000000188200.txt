@@ -1,0 +1,33 @@
+Justice Chronicles (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1896/
+----------------------------------------------------
+
+[Kline Max EXP]
+080CCA24 0098967F
+
+[Anne Max EXP]
+080CD93C 0098967F
+
+[Vil Max EXP]
+080CD434 0098967F
+
+[Max Gold]
+00E5CBF8 05F5E0FF
+
+[All Items x99]
+C0000000 00000471
+20E5E241 00000063
+DC000000 00000001
+D1000000 00000000
+
+[Alia Max EXP]
+080CCF2C 0098967F
+
+[Anne Max EXP]
+080CD93C 0098967F
+
+[Paola Max EXP]
+080CE34C 0098967F

@@ -1,0 +1,13 @@
+BOXBOY! (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1723/
+----------------------------------------------------
+
+[No blocks used]
+D3000000 10000000
+64E912D4 00000000
+B4E912D4 00000000
+200005B0 00000000
+D2000000 00000000

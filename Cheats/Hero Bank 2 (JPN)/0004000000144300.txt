@@ -1,0 +1,38 @@
+Hero Bank 2 (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1340/
+----------------------------------------------------
+
+[Max Money]
+080C2C00 D4A50FFF
+280C2C06 000000E8
+
+[Always 5 Gacha Tries]
+280CBAC2 00000005
+
+[Gacha Coins]
+180CBABC 000003E7
+180CBABE 000003E7
+180CBAC0 000003E7
+
+[All characters Always Max Happy]
+C0000000 00000011
+280C35FD 00000004
+DC000000 00000018
+D1000000 00000000
+
+[All characters Level 99 After Battle]
+C0000000 00000011
+080C3600 003FFFFF
+DC000000 00000018
+D1000000 00000000
+
+["Pig" 1 Money (when in red)]
+080C2C08 00000000
+280C2C0C 00000001
+
+["Pig" Max Money (when in green)]
+080C2C08 D4A50FFF
+280C2C0C 000000E8

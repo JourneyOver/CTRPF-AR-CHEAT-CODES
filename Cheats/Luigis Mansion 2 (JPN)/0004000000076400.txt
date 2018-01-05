@@ -1,0 +1,17 @@
+Luigis Mansion 2 (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game359/
+----------------------------------------------------
+
+[Flash Light Quick Charge]
+00356040 42800000
+
+[Infinite Dark Light Power]
+D3000000 00000000
+E0899C00 00000010
+EDDF0A01 EEB00A60
+EAEEC3C9 7F800000
+0044AB30 EA113C32
+D2000000 00000000

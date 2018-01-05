@@ -1,0 +1,93 @@
+Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1846/
+----------------------------------------------------
+
+[Money x999.999]
+0814D294 000F423F
+
+[Lives x9]
+14097CAC 00000009
+
+[Super Mushroom x99]
+0814C1F0 00000063
+
+[Fireflower x99]
+0814C1F8 00000063
+
+[Super Leaf x99]
+0814C200 00000063
+
+[Iceflower x99]
+0814C208 00000063
+
+[Ghost Mushroom x99]
+0814C210 00000063
+
+[Poison Mushroom x99]
+0814C240 00000063
+
+[P-Wing x99]
+0814C248 00000063
+
+[Star Coin x99]
+0814C288 00000063
+
+[Big Star Coin x99]
+0814C250 00000063
+
+[Green Star Coin x99]
+0814C290 00000063
+
+[Big green Star Coin x99]
+0814C250 00000063
+
+[Gold Mushroom x99]
+0814C298 00000063
+
+[Big Gold Mushroom x99]
+0814C260 00000063
+
+[Super Star x99]
+0814C2A0 00000063
+
+[Big Super Star x99]
+0814C268 00000063
+
+[Comet Coin x99]
+0814C2A8 00000063
+
+[Big Comet Coin x99]
+0814C270 00000063
+
+[Berry x99]
+0814C2B0 00000063
+
+[Rare Berry x99]
+0814C2C0 00000063
+
+[Bowser Shell x99]
+0814C2B8 00000063
+
+[Big Bowser Shell x99]
+0814C2C8 00000063
+
+[Starjewel x99]
+0814C330 00000063
+
+[Goomba Coin x99]
+0814C378 00000063
+
+[Cheep-Cheep Coin x99]
+0814C380 00000063
+
+[Fire-Chomp Coin x99]
+0814C388 00000063
+
+[Lakitu Coin x99]
+0814C390 00000063
+
+[Boo-Hoo Coin x99]
+0814C398 00000063
