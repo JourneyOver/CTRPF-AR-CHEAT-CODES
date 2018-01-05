@@ -1,0 +1,18 @@
+Retro City Rampage: DX (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1188/
+----------------------------------------------------
+
+[Some Cars Are Out of Control]
+003AFFC2 00006FFF
+003B0A42 00006FFF
+003B07A2 00006FFF
+
+[Invincibility]
+003B1C57 00000064
+
+[Press L+X to fly (Y to fall)]
+DD000000 00000600
+203B1C54 00000025

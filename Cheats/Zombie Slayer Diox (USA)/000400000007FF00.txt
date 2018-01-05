@@ -1,0 +1,18 @@
+Zombie Slayer Diox (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1579/
+----------------------------------------------------
+
+[Zero Misses]
+101D95F4 00000000
+
+[Max Streak]
+001D95F8 000003E6
+
+[Max Score]
+001D95E8 000F423F
+
+[Infinite Health]
+101D9604 00000064

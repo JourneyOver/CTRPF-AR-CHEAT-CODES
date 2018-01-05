@@ -1,0 +1,9 @@
+Spy Hunter (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game307/
+----------------------------------------------------
+
+[Max Money]
+002E47E1 E6FFFFFF

@@ -1,0 +1,16 @@
+LEGO The Hobbit (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game808/
+----------------------------------------------------
+
+[99999999 Studs]
+004267B8 05F5E0FF
+
+[Infinite Health]
+60414DC0 00000000
+B0414DC0 00000000
+50000000 0000FF00
+200000C8 000000C8
+D2000000 00000000

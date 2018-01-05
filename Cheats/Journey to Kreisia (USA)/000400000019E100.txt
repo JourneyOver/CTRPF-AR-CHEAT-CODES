@@ -1,0 +1,24 @@
+Journey to Kreisia (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1917/
+----------------------------------------------------
+
+[Quick Level Gain]
+003D6154 00000001
+003D6158 00000001
+003D615C 00000001
+003D6160 00000001
+
+[Max Kreisia Points]
+003A9794 0001869F
+
+[Max Gold]
+003D5E00 05F5E0FF
+
+[Max Battle Coins]
+103D5DDC 0000270F
+
+[Infinite Warding Card Time]
+203D6126 000000C8

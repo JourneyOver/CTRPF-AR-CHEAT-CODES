@@ -1,0 +1,18 @@
+Nano Assault (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game53/
+----------------------------------------------------
+
+[Infinite Lives]
+08AF4364 00000063
+
+[Start with 99 Lives, not Infinite]
+08AF5558 00000063
+
+[Infinite Nano Coins]
+08AF55FC 00000063
+
+[Infinite Energy]
+28AF430A 00000080

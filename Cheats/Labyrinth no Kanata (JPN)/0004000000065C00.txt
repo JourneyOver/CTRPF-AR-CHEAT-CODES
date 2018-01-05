@@ -1,0 +1,24 @@
+Labyrinth no Kanata (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game355/
+----------------------------------------------------
+
+[99999 Maximum Magic Points]
+08092328 0001869F
+
+[99999 Current Magic Points]
+08092324 0001869F
+
+[99999 EXP]
+08092340 0001869F
+
+[Infinite Items]
+08092150 00FF00FF
+08092154 000000FF
+08092158 00FF00FF
+0809215C 000000FF
+
+[Infinite HP: Girl]
+080922E4 000009C4

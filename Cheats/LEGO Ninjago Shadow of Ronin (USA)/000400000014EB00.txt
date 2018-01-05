@@ -1,0 +1,26 @@
+LEGO Ninjago: Shadow of Ronin (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1699/
+----------------------------------------------------
+
+[99999999 Studs, Game v1.0]
+005D7CF0 05F5E0FF
+
+[Infinite Health, Game v1.0]
+605BEC0C 00000000
+B05BEC0C 00000000
+50000000 0000FF00
+20000078 000000C8
+D2000000 00000000
+
+[99999999 Studs, Game v2.0]
+005D6AB8 05F5E0FF
+
+[Infinite Health, Game v2.0]
+605BD9D4 00000000
+B05BD9D4 00000000
+50000000 0000FF00
+20000078 000000C8
+D2000000 00000000

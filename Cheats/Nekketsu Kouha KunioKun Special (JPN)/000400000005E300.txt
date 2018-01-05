@@ -1,0 +1,26 @@
+Nekketsu Kouha KunioKun Special (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game755/
+----------------------------------------------------
+
+[Max Money]
+08001914 000F423F
+
+[Hero Max Stats]
+080018FB FFFFFFFF
+080018FF 00FFFFFF
+28001904 000000FF
+
+[Hero Max HP]
+18001902 0000FFFF
+
+[Hero Max Exp]
+28001918 000000FF
+
+[All items x99]
+C0000000 00000063
+0800191C 63636363
+DC000000 00000001
+D1000000 00000000

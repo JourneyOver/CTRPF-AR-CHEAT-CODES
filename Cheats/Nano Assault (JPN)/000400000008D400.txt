@@ -1,0 +1,15 @@
+Nano Assault (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game225/
+----------------------------------------------------
+
+[Infinite Nano Coins]
+08AF5A6C 00000063
+
+[Start With 99 Lives, not Infinite]
+08AF59C8 00000063
+
+[Infinite Lives]
+08AF47D4 00000063

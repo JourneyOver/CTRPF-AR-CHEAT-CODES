@@ -1,0 +1,18 @@
+Kirby Triple Deluxe (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game948/
+----------------------------------------------------
+
+[Max Lives after losing]
+D3000000 10000000
+05A9E69C 00000064
+
+[99 Stars]
+D3000000 10000000
+2400008C 00000063
+
+[99 Lives]
+D3000000 10000000
+24000088 00000063

@@ -1,0 +1,15 @@
+Yo-Kai Watch 2: Bony Spirits (AUS)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1925/
+----------------------------------------------------
+
+[Unlimited Money]
+08759BE0 000F423F
+
+[Infinite Stamina]
+28001E4E 00000080
+
+[Infinite Crank-A-Kai Spins]
+0875DC04 00000003

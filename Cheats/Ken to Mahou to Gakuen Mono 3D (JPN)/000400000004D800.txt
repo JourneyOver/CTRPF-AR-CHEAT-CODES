@@ -1,0 +1,12 @@
+Ken to Mahou to Gakuen Mono 3D (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game356/
+----------------------------------------------------
+
+[Initial BP for upgrade]
+202E1B18 00000063
+
+[Max Money]
+002F36F0 05F5E0FF

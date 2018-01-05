@@ -1,0 +1,55 @@
+Shovel Knight (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1791/
+----------------------------------------------------
+
+[Max Money, Game v2.0]
+00548B84 0001869F
+
+[Infinite Tonics, Game v2.0]
+20548B80 00000005
+
+[Max Money, Game v2.1]
+005DB504 0001869F
+
+[Infinite Tonics, Game v2.1]
+205DB500 00000005
+
+[Max Money game v1.0]
+00548B84 0001869F
+
+[Magic Max upgraded game v1.0]
+20548B8C 00000014
+
+[Life Max upgraded game v1.0]
+20548B78 0000000A
+
+[Armor slot change item game v1.0]
+20548B94 00000007
+
+[Magic Max upgraded game v2.1]
+205DB50C 00000014
+
+[Life Max upgraded game v2.1]
+205DB4F8 0000000A
+
+[Armor slot change item game v2.1]
+205DB514 00000007
+
+[Infinite HP (ver. 2.2)]
+D3000000 30000000
+61493714 00000000
+B1493714 00000000
+DA000000 0000037A
+D7000000 00000376
+D2000000 00000000
+
+[Infinite MP (ver. 2.2)]
+D3000000 30000000
+61493714 00000000
+B1493714 00000000
+DB000000 000005F2
+D8000000 000005F1
+D2000000 00000000

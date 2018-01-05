@@ -1,0 +1,21 @@
+Medarot Dual - Kabuto Ver. (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game608/
+----------------------------------------------------
+
+[Max Money]
+004ED100 000F423F
+
+[Rank 1]
+204ED104 00000000
+
+[9999 Medals]
+104ED106 0000270F
+
+[All Parts x99]
+C0000000 00000AE9
+204EE23B 00000001
+DC000000 00000001
+D1000000 00000000

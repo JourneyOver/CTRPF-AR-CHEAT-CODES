@@ -1,0 +1,19 @@
+Metroid (NES) (v2) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1078/
+----------------------------------------------------
+
+[Push R MoonJump Straight Up Only]
+DD000000 00000100
+2884C6A0 00000080
+D2000000 00000000
+
+[Infinite Missiles]
+DB000000 0884FD52
+D8000000 0884FD51
+D2000000 00000000
+
+[Infinite Health]
+1884C49E 00006990

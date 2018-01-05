@@ -1,0 +1,15 @@
+Pocket Soccer League: Calciobit (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game724/
+----------------------------------------------------
+
+[No fatigue]
+2036ABDB 00000000
+
+[All cards x9]
+C0000000 00000007
+0036ABDC 09090909
+DC000000 00000004
+D1000000 00000000

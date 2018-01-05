@@ -1,0 +1,25 @@
+Fire Emblem - Awakening (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game235/
+----------------------------------------------------
+
+[Money to 999999]
+009DD510 000F423F
+
+[Renown]
+009DD514 0001869F
+
+[Y+B to Move Again (First 20 Units)]
+DD000000 00000802
+D3000000 153824DC
+C0000000 00000014
+20000000 00000000
+DC000000 00000110
+D1000000 00000000
+D2000000 00000000
+
+[Money to 999999 works]
+D3000000 14000000
+009DD510 000F423F

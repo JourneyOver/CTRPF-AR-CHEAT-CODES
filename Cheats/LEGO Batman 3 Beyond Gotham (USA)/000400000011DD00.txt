@@ -1,0 +1,26 @@
+LEGO Batman 3: Beyond Gotham (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1274/
+----------------------------------------------------
+
+[Max Studs, Game v1.0]
+005F4568 3B9AC9FF
+
+[Infinite Health, Game v1.0]
+605DB7BC 00000000
+B05DB7BC 00000000
+50000000 0000FF00
+20000078 000000C8
+D2000000 00000000
+
+[Infinite Health, Game v1.1]
+605DC7C4 00000000
+B05DC7C4 00000000
+50000000 0000FF00
+20000078 000000C8
+D2000000 00000000
+
+[Max Studs, Game v1.1]
+005F5570 3B9AC9FF

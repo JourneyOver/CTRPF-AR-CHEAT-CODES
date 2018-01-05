@@ -1,0 +1,30 @@
+Tenkai Knights: Brave Battle (EUR), Tenkai Knights: Brave Battle (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1154/, http://www.fort42.com/gateshark/game1203/
+----------------------------------------------------
+
+[4 Main Materials x999]
+C0000000 00000003
+183570B0 000003E7
+DC000000 00000002
+D1000000 00000000
+
+[Remain Materials x9]
+C0000000 0000000F
+283570B8 00000009
+DC000000 00000001
+D1000000 00000000
+
+[4 Main Materials x999]
+C0000000 00000003
+183570B0 000003E7
+DC000000 00000002
+D1000000 00000000
+
+[Remain Materials x9]
+C0000000 0000000F
+283570B8 00000009
+DC000000 00000001
+D1000000 00000000

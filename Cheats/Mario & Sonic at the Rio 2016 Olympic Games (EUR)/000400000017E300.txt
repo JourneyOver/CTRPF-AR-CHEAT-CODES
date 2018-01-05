@@ -1,0 +1,15 @@
+Mario & Sonic at the Rio 2016 Olympic Games (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1912/
+----------------------------------------------------
+
+[All Fruits Max]
+208605E0 00000050
+208605E1 000000C3
+108605E2 000000E7
+108605E3 00000003
+
+[200 Training Points]
+20860620 000000C8

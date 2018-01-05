@@ -1,0 +1,39 @@
+The Legend of Zelda - Oracle of Ages (GBC) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1828/
+----------------------------------------------------
+
+[Full Hearths]
+189308E6 00003838
+
+[Infinite Rupees]
+289308E9 00000099
+289308EA 00000009
+
+[Infinite Keys]
+289308AF 00000009
+
+[Infinite Bombs]
+289308EC 00000020
+
+[Infinite Amber Seeds]
+289308F5 00000020
+
+[Infinite Mystery Seeds]
+289308F9 00000020
+
+[Can Access Advance Shop]
+28931071 0000000C
+28931171 000000DE
+28934071 0000000C
+28934171 000000DE
+
+[Walk Through Walls (see note)]
+DD000000 00000202
+28815DB5 000000AF
+D0000000 00000000
+DD000000 00000102
+28815DB5 0000001A
+D0000000 00000000

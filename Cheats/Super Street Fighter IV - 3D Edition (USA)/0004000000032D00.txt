@@ -1,0 +1,48 @@
+Super Street Fighter IV - 3D Edition (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game35/
+----------------------------------------------------
+
+[999 Perfects]
+0850AE20 000003E7
+
+[999 Ultra Finishes]
+0850AE1C 000003E7
+
+[999 Super Finishes]
+0850AE18 000003E7
+
+[999 Focus Attacks]
+0850AE14 000003E7
+
+[999 Ultras landed]
+0850AE10 000003E7
+
+[999 Supers Landed]
+0850AE0C 000003E7
+
+[999 EX Moves used]
+0850AE08 000003E7
+
+[999 Special Moves used]
+0850AE04 000003E7
+
+[9999900 FP]
+08578158 0001869F
+
+[Have All Titles]
+C0000000 0000003B
+2850AED7 000000FF
+DC000000 00000001
+D2000000 00000000
+
+[Have All Icons]
+2850AF15 000000FF
+1850AF16 0000FFFF
+0850AF18 FFFFFFFF
+0850AF1C FFFFFFFF
+0850AF20 FFFFFFFF
+0850AF24 FFFFFFFF
+0850AF28 FFFFFFFF

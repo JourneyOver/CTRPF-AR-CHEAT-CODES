@@ -1,0 +1,9 @@
+Wrecking Crew (NES) (v1) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1075/
+----------------------------------------------------
+
+[Infinite Lives]
+2883623C 00000006

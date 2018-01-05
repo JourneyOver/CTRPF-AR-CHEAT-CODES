@@ -1,0 +1,12 @@
+Luigis Mansion - Dark Moon (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game338/
+----------------------------------------------------
+
+[19,999G (Get 1g for all upgrades)]
+D3000000 10000000
+153C0444 00004E1F
+D3000000 10000000
+153C1A58 00004E1F

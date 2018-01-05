@@ -1,0 +1,9 @@
+Minna de Auto Race 3D (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game916/
+----------------------------------------------------
+
+[Max Money]
+00345BE0 05F5E0FF

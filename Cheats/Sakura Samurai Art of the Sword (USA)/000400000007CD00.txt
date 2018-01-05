@@ -1,0 +1,24 @@
+Sakura Samurai: Art of the Sword (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1246/
+----------------------------------------------------
+
+[Max Precision Points]
+2038FF30 00000063
+
+[Infinite Whetstones]
+2890DF70 00000005
+
+[Infinite Throwing Daggers]
+2890DF30 0000000A
+
+[Infinite Frogs]
+2890DEF0 00000005
+
+[Infinite Sakura Rice Cakes]
+2890DEB0 00000005
+
+[Max Gold]
+08909EE8 000003E7

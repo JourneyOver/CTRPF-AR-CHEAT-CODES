@@ -1,0 +1,17 @@
+StarFox 64 3D DEMO (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game517/
+----------------------------------------------------
+
+[Unlimited Bombs]
+0066B200 000000FF
+00814B44 000000FF
+
+[Max Score]
+0066B4AC 000003E7
+00683054 000003E7
+
+[Max Gold Rings]
+00683050 00000003

@@ -1,0 +1,41 @@
+The Legend of Zelda (NES) (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game895/
+----------------------------------------------------
+
+[Infinite Keys]
+0884CCCE 00000009
+
+[Max Infinite HP]
+0884CCCF 000000FF
+0884CCD0 000000FF
+
+[Infinite Bombs]
+0884CCB8 00000009
+
+[Infinite Blue Candle Use]
+0884CB73 00000000
+
+[Push L+UP Freeze Enemy L+DOWN Unfreeze]
+DD000000 00000240
+0884CCCC 00000001
+D0000000 00000000
+DD000000 00000280
+0884CCCC 00000000
+D0000000 00000000
+
+[Max Rupees]
+0884CCCD 000000FF
+
+[Reset rupees]
+0884CCCD 00000000
+
+[Invincible]
+0884CB50 000000FF
+
+[Have Map and Compass]
+0884CCC7 0000003F
+0884CCC8 0000013F
+0884CCCA 00000001

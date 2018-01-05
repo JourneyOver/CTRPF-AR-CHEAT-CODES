@@ -1,0 +1,43 @@
+Kingdom Hearts 3D Dream Drop Distance (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game250/
+----------------------------------------------------
+
+[CONFETTI CANDY x99]
+0057EAE2 000007FF
+
+[HP refill entering new map]
+0057FF48 02000096
+005ACAC8 02000096
+005C2BE8 02000096
+
+[MUNNY]
+0057FFB8 021102B8
+081F0590 00803FB8
+081F0594 070000B8
+08234350 050032B8
+
+[Medals]
+00583C08 030000FF
+08250300 050032FF
+
+[Infinti Hp All Charter]
+D3000000 00000000
+002A830C E1C020BC
+002A8318 E1C020BC
+0030C08C E1A00000
+0030C0AC E1A00000
+
+[EXP Max after Battle]
+D3000000 00000000
+0030E74C E3A00899
+
+[Spirit EXP Max after Battle]
+D3000000 00000000
+001DDAB4 E3A00899
+
+[Max Exp after battle]
+D3000000 00000000
+0030E74C E3A00899

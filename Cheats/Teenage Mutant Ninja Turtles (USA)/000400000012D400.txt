@@ -1,0 +1,43 @@
+Teenage Mutant Ninja Turtles (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1110/
+----------------------------------------------------
+
+[99 All Materials]
+C0000000 00000007
+202EDF82 00000063
+DC000000 00000002
+D1000000 00000000
+D0000000 00000000
+
+[99 All Items]
+002EDFE4 63636363
+002EDFE8 63636363
+102EDFEC 00006363
+
+[$999,999,999 Money]
+002EDF60 3B9AC9FF
+
+[99 Skill Points]
+202EDBC6 00000063
+
+[Leo Health]
+202EDF7A 00000096
+
+[Raphael Health]
+202EDF7C 000000DC
+
+[Donnie Health]
+202EDF7E 000000AF
+
+[Mikey Health]
+202EDF80 0000007D
+
+[Y+UP Increase XP by 100]
+DD000000 00000840
+DA000000 002EDBC4
+D4000000 00000064
+D7000000 002EDBC4
+D2000000 00000000

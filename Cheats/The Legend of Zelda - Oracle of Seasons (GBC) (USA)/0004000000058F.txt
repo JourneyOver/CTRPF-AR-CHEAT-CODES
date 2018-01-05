@@ -1,0 +1,42 @@
+The Legend of Zelda - Oracle of Seasons (GBC) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1827/
+----------------------------------------------------
+
+[Max/Infinite Rupees]
+289302E1 00000099
+289302E2 00000009
+
+[Can Access Advance Shop]
+28930A50 0000000C
+28930B50 000000EA
+28933A50 0000000C
+28933B50 000000EA
+
+[Full Hearths]
+189302DE 00003838
+
+[Infinite Keys]
+289302AB 00000009
+
+[Infinite Bombs]
+289302E6 00000020
+
+[Infinite Amber Seeds]
+289302F1 00000020
+
+[Invincible]
+D3000000 00000000
+DB000000 089302DF
+D8000000 089302DE
+D2000000 00000000
+
+[Walk Through Walls (see note)]
+DD000000 00000202
+28815CA6 000000AF
+D0000000 00000000
+DD000000 00000102
+28815CA6 0000001A
+D0000000 00000000

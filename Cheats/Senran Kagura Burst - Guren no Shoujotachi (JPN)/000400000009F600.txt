@@ -1,0 +1,50 @@
+Senran Kagura Burst - Guren no Shoujotachi (JPN), Senran Kagura Burst - Guren no Shoujotachi (Rev01) (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game227/, http://www.fort42.com/gateshark/game909/
+----------------------------------------------------
+
+[Highest Combo 9999]
+00482A7C 0000270F
+
+[0 Ninja Art Used]
+00482A98 00000000
+
+[Infinite Combo Timer]
+20482A77 00000042
+
+[Max Exp]
+004829C4 0098967F
+
+[Infinite Ninja Art]
+D9000000 00482910
+D6000000 0048290C
+D2000000 00000000
+
+[Infinite Health]
+D9000000 0048262C
+D6000000 00482628
+D2000000 00000000
+
+[Infinite Combo Timer]
+20482A77 00000042
+
+[Highest Combo 9999]
+00482A7C 0000270F
+
+[0 Ninja Art Used]
+00482A98 00000000
+
+[Max Exp]
+004829C4 0098967F
+
+[Infinite Ninja Arts]
+D9000000 00482910
+D6000000 0048290C
+D2000000 00000000
+
+[Infinite Health]
+D9000000 0048262C
+D6000000 00482628
+D2000000 00000000

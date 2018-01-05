@@ -1,0 +1,16 @@
+LEGO The Lord of the Rings (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game289/
+----------------------------------------------------
+
+[99999999 Studs]
+00383120 05F5E0FF
+
+[Infinite Health]
+603254A0 00000000
+B03254A0 00000000
+50000000 0000FF00
+200000A0 000000C8
+D2000000 00000000

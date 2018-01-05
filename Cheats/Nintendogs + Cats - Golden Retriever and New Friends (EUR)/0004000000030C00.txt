@@ -1,0 +1,18 @@
+Nintendogs + Cats - Golden Retriever and New Friends (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game128/
+----------------------------------------------------
+
+[5.000 EUROS L+DOWN]
+DD000000 00000280
+D3000000 144276F4
+00000000 00001388
+D0000000 00000000
+
+[60.000 EUROS L+UP]
+DD000000 00000240
+D3000000 144276F4
+00000000 0000EA60
+D0000000 00000000

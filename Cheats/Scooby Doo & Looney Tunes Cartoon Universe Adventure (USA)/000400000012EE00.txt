@@ -1,0 +1,10 @@
+Scooby Doo & Looney Tunes Cartoon Universe: Adventure (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1064/
+----------------------------------------------------
+
+[65,535 Coins]
+D3000000 14000000
+10240BBC 0000FFFF

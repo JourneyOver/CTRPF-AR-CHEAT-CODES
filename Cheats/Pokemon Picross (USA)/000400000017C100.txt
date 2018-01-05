@@ -1,0 +1,18 @@
+Pokemon Picross (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1826/
+----------------------------------------------------
+
+[Maximum Picrites]
+00344400 0000FFFF
+
+[Energy level 255]
+00346304 000000FF
+
+[Timer Always Zero]
+7848EF26 F780087F
+B848EF24 00000000
+00000020 3F800000
+D2000000 00000000

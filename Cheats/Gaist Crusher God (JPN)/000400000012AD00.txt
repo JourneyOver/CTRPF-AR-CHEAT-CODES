@@ -1,0 +1,9 @@
+Gaist Crusher God (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1135/
+----------------------------------------------------
+
+[Max And Infinite Point]
+00C705D8 1111AF0A

@@ -1,0 +1,25 @@
+Lufia: The Legend Returns VC (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1901/
+----------------------------------------------------
+
+[Wain Max/Infinite IP]
+28A2F979 00000064
+
+[All Spells & Best IP Skills For Everyone (L+X)]
+DD000000 00000600
+D3000000 08A2F978
+C0000000 0000000B
+E0000002 00000011
+FEFFFFFF FFFFDDFF
+01C0FFFF FFFFFFFF
+00000003 00000000
+DC000000 000000CE
+D1000000 00000000
+D2000000 00000000
+
+[Max/Infinite Gold]
+18A2F8BA 00009896
+28A2F8B9 0000007F

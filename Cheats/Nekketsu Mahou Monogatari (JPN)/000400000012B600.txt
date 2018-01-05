@@ -1,0 +1,15 @@
+Nekketsu Mahou Monogatari (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1494/
+----------------------------------------------------
+
+[Max Money]
+002A9F20 000F423F
+
+[All items x99]
+C0000000 0000007F
+002AA170 63636363
+DC000000 00000004
+D1000000 00000000

@@ -1,0 +1,16 @@
+Gravity Falls: Legend of the Gnome Gemulets (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1789/
+----------------------------------------------------
+
+[10,000 Spores]
+182AB3C0 00002710
+
+[Max Health]
+282AB404 00000010
+282AB408 00000010
+
+[10,000 Level Spores]
+189D423C 00002710

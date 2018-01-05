@@ -1,0 +1,16 @@
+Pinball Hall of Fame - The Williams Collection (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game280/
+----------------------------------------------------
+
+[999 Credits]
+002C9F70 000003E7
+
+[Infinite Balls]
+003A3394 00000002
+
+[Left + A: Reset to Ball 1]
+DD000000 00000021
+003A3394 00000002

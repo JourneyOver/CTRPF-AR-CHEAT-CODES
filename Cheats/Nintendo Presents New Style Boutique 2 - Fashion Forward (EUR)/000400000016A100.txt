@@ -1,0 +1,11 @@
+Nintendo Presents: New Style Boutique 2 - Fashion Forward (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1819/
+----------------------------------------------------
+
+[MAX MONEY old 3ds]
+D1000000 00000000
+006DB860 05F5E100
+D0000000 00000000

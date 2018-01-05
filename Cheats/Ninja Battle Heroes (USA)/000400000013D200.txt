@@ -1,0 +1,31 @@
+Ninja Battle Heroes (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1279/
+----------------------------------------------------
+
+[99999 Spirit Souls]
+001FC8E0 0001869F
+0021E1D0 0001869F
+
+[Low Time]
+201FC901 00000000
+
+[9999 Kills]
+101FC8FC 0000270F
+
+[Current Max Combo 999]
+101FC8F8 000003E7
+
+[Max Spirit Bar]
+601FC8A0 00000000
+101FC8E4 0000012C
+D2000000 00000000
+
+[Infinite Health]
+601FC8A0 00000000
+B01FC8A0 00000000
+50000000 001F0398
+000002C0 00000050
+D2000000 00000000

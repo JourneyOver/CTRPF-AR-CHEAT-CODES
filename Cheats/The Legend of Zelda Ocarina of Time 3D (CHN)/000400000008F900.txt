@@ -1,0 +1,89 @@
+The Legend of Zelda: Ocarina of Time 3D (CHN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game222/
+----------------------------------------------------
+
+[Max/Inf Ruppees]
+10596018 000003E7
+
+[Max Health (Press L)]
+DD000000 00000200
+10596012 00000140
+
+[Max/Inf Health]
+00596012 01400140
+
+[100 golden Skulltulas]
+205960B8 00000064
+
+[3 Heartpieces (Press L)]
+DD000000 00000200
+2059608F 00000030
+
+[Namechanger]
+00595FEC 11112222
+00595FF0 33334444
+00595FF4 55556666
+00595FF8 77778888
+
+[Max/Inf Deku Sticks]
+20596076 00000063
+
+[Max/Inf Deku Nuts]
+20596077 00000063
+
+[Max/Inf slingshot munition]
+2059607C 00000063
+
+[Max/Inf Bombs]
+20596078 00000063
+
+[Unlock Small Magicbar (Press L)]
+DD000000 00000200
+2059601E 00000060
+
+[Refill Small Magicbar (Press R)]
+DD000000 00000100
+20596017 00000030
+
+[Max/Inf Magic]
+20596020 00000001
+20596017 00000060
+
+[Unlock all shields/swords/suits]
+10596086 00000777
+
+[Unlock all stones/stone of wisdom/Gerudopass]
+2059608E 0000007C
+
+[Unlock largest quiver/largest bomb bag/best powerglove/golden scale]
+00596088 000184D8
+
+[Unlock all medallions]
+2059608C 0000003F
+
+[Refill Health (Press R)]
+DD000000 00000100
+10596014 00000140
+
+[Unlock Large Magicbar (Press L)]
+DD000000 00000200
+20596020 00000001
+
+[Refill Large Magicbar (Press R)]
+DD000000 00000100
+20596017 00000060
+
+[Unlock Enhanced Defense]
+20596021 00000001
+
+[Max/Inf Arrows]
+20596079 00000063
+
+[Max/Inf Bombchuus]
+2059607E 00000063
+
+[Reset Amount of Rupees]
+10596018 00000000

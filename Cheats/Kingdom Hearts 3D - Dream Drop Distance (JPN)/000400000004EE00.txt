@@ -1,0 +1,52 @@
+Kingdom Hearts 3D - Dream Drop Distance (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game196/
+----------------------------------------------------
+
+[Max Money]
+0056C808 0098967F
+
+[999 droplets]
+1056C79C 000003E7
+
+[Max Medals for medal shop]
+10570248 000F423F
+
+[Sora Max Exp]
+0056C70C 05F5E0FF
+
+[Sora Max HP]
+0056C71C 03E703E7
+
+[Riku Max Exp]
+0056C788 05F5E0FF
+
+[Riku Max HP]
+0056C798 03E703E7
+
+[Dream Pieces and Training Toys x99]
+C0000000 00000066
+2056B2B2 00000063
+DC000000 00000004
+D1000000 00000000
+
+[All Spirits Max Exp]
+C0000000 00000064
+00564904 05F5E0FF
+DC000000 00000100
+D1000000 00000000
+
+[All spirits Link Points x9999]
+C0000000 00000064
+105648FA 0000270F
+DC000000 00000100
+D1000000 00000000
+
+[All spirits HP/Stats]
+C0000000 00000064
+10564910 000003E7
+0056491C FFFFFF00
+DC000000 00000100
+D1000000 00000000

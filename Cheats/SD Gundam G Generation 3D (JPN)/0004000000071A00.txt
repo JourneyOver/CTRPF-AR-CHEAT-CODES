@@ -1,0 +1,9 @@
+SD Gundam G Generation 3D (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game386/
+----------------------------------------------------
+
+[Infinite Money]
+004A8CB8 00098CA0

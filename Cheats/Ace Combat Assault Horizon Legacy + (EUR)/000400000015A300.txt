@@ -1,0 +1,12 @@
+Ace Combat: Assault Horizon Legacy + (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1623/
+----------------------------------------------------
+
+[Balance]
+308FE610 000F423F
+
+[Experience]
+308FE618 000F423F

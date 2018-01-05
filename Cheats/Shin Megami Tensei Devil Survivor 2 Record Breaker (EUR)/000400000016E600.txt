@@ -1,0 +1,33 @@
+Shin Megami Tensei: Devil Survivor 2 Record Breaker (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1816/
+----------------------------------------------------
+
+[Max Money]
+08267AE0 05F5E0FF
+
+[All char.fast lvl up]
+C0000000 0000000E
+18267498 0000FFFF
+DC000000 00000024
+D1000000 00000000
+
+[All Char. Max Stats]
+C0000000 0000000E
+0826749A 28282828
+DC000000 00000024
+D1000000 00000000
+
+[27 Demon fast lvl up]
+C0000000 0000001B
+182676D8 0000FFFF
+DC000000 00000020
+D1000000 00000000
+
+[27 Demon Max Stats]
+C0000000 0000001B
+082676DA 28282828
+DC000000 00000020
+D1000000 00000000

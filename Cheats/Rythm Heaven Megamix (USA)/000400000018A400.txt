@@ -1,0 +1,29 @@
+Rythm Heaven Megamix (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1918/
+----------------------------------------------------
+
+[Challenge always 3 lifes (train life)]
+28878001 00000003
+
+[perfect tries always 3]
+2835ED2B 00000003
+
+[99 gold turnips (infinite)]
+289270EC 00000063
+
+[Slot1 - All Songs 100 Points*]
+C0000000 00000035
+0835E254 27102710
+DC000000 00000004
+D2000000 00000000
+
+[Slot1 – Unlock all Songs/Perfect Rank/Art/Items]
+C0000000 00000025
+0835DCD4 06060606
+0835EE00 03030303
+0835EF14 03030303
+DC000000 00000004
+D1000000 00000000

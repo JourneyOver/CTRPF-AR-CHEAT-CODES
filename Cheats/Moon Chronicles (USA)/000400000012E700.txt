@@ -1,0 +1,27 @@
+Moon Chronicles (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1160/
+----------------------------------------------------
+
+[Infinite Moun Pistol Ammo]
+202F4018 0000000F
+
+[Infinite Quanta Rifle Ammo]
+202F4016 0000000F
+
+[Infinite Remote Access Droid Ammo]
+202F4015 0000000F
+
+[Infinite Fermion Sniper Ammo]
+202F401D 0000000F
+
+[Infinite Lepton Spread Ammo]
+202F401B 0000000F
+
+[Infinite Oxid Cannon Ammo]
+202F401F 0000000F
+
+[Infinite Seeker Pods Ammo]
+202F4021 0000000F

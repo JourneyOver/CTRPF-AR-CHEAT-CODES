@@ -1,0 +1,17 @@
+Dead or Alive - Dimensions (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game49/
+----------------------------------------------------
+
+[Infinite Health]
+DA000000 0074B02C
+D7000000 0074B028
+D0000000 00000000
+
+[push L+R+DOWN Instant Kill CPU]
+DD000000 00000380
+D3000000 00000000
+1074B568 00000000
+D2000000 00000000

@@ -1,0 +1,10 @@
+Hako Boy! Mouhito Hako (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1858/
+----------------------------------------------------
+
+[No blocks used]
+D3000000 30000000
+20FABDFC 00000001

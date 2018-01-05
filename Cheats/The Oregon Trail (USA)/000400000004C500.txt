@@ -1,0 +1,14 @@
+The Oregon Trail (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game152/
+----------------------------------------------------
+
+[Infinite Money]
+D3000000 10000000
+15DB7640 0000270F
+
+[Infinte Bullets]
+D3000000 10000000
+15DB7642 0000270F

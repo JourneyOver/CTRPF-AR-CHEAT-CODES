@@ -1,0 +1,24 @@
+Dragon Ball Z: Extreme Butōden (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1798/
+----------------------------------------------------
+
+[Adv. mode 99999999 Zeni]
+00494F04 05F5E0FF
+
+[Adventure mode all items x99]
+C0000000 00000034
+00494F08 00000063
+DC000000 00000001
+D1000000 00000000
+
+[Adventure Mode Max Zeni]
+00673904 05F5E0FF
+
+[Adventure Mode All Items x99]
+C0000000 00000034
+00673908 00000063
+DC000000 00000001
+D1000000 00000000

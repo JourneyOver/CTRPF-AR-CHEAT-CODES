@@ -1,0 +1,16 @@
+Dillons Rolling Western (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1248/
+----------------------------------------------------
+
+[999,999 Coins]
+088215C8 000F423F
+
+[Unlimited Health]
+28821654 00000005
+28821658 00000005
+
+[999 Scrogs]
+28822518 000003E7

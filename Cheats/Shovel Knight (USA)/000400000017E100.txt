@@ -1,0 +1,36 @@
+Shovel Knight (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1792/
+----------------------------------------------------
+
+[Max Money, Game v2.0]
+00549B84 0001869F
+
+[Infinite Tonics, Game v2.0]
+20549B80 00000005
+
+[Max Money, Game v2.2]
+005DC584 0001869F
+
+[nfinite Tonics, Game v2.2]
+205DC580 00000005
+
+[Magic Max upgraded game v2.0]
+20549B8C 00000014
+
+[Life Max upgraded game v2.0]
+20549B78 0000000A
+
+[Armor slot change item game v2.0]
+20549B94 00000007
+
+[Magic Max upgraded game v2.2]
+205DC58C 00000014
+
+[Life Max upgraded game v2.2]
+205DC578 0000000A
+
+[Armor slot change item game v2.2]
+205DC594 00000007

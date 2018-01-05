@@ -1,0 +1,23 @@
+Naruto Powerful Shippuden (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game651/
+----------------------------------------------------
+
+[Max Exp (Naruto)]
+004187DC 0000C350
+
+[Max Exp (Lee)]
+00418838 0000C350
+
+[Max Chakra (Battles Only)]
+00419E40 00000078
+
+[Max chakra (Stages Only)]
+2041A178 00000078
+20419FDC 00000078
+2041A314 00000078
+2041A984 00000078
+2041AE58 00000078
+2041A64C 00000078

@@ -1,0 +1,12 @@
+The Amazing Spider-Man 2 (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game951/
+----------------------------------------------------
+
+[Infinite Health]
+60458690 00000000
+B0458690 00000000
+00000E4E 000044FA
+D2000000 00000000
