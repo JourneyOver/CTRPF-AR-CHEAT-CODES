@@ -1,0 +1,14 @@
+Dragon Ball Fusions (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1928/
+----------------------------------------------------
+
+[burst illimiter]
+D3000000 00000000
+005D6B20 E5917010
+005D6B24 E5817004
+005D6B28 E1A07000
+005D6B2C E12FFF1E
+001093F8 EB1335C8

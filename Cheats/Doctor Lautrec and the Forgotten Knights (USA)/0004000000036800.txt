@@ -1,0 +1,9 @@
+Doctor Lautrec and the Forgotten Knights (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game118/
+----------------------------------------------------
+
+[65,535 RP]
+103E8A90 0000FFFF

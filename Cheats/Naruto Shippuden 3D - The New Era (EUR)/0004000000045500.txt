@@ -1,0 +1,39 @@
+Naruto Shippuden 3D - The New Era (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game285/
+----------------------------------------------------
+
+[9999 Rolls]
+28000DFC 0000270F
+
+[Med-pack x9]
+28000E2C 00000009
+
+[Food x9]
+28000E30 00000009
+
+[Summon Roll x9]
+28000E34 00000009
+
+[Lifes x9]
+28000E38 00000009
+
+[Unlock all trainings]
+C0000000 00000037
+28000D85 00000001
+DC000000 00000001
+D1000000 00000000
+
+[Unlock all stages coins]
+C0000000 0000001F
+28000DBC 00000001
+DC000000 00000001
+D1000000 00000000
+
+[Unlock all training coins]
+C0000000 0000001A
+28000DDC 00000001
+DC000000 00000001
+D1000000 00000000

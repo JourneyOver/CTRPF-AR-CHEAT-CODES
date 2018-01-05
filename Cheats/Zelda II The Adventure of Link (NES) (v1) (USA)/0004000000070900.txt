@@ -1,0 +1,42 @@
+Zelda II: The Adventure of Link (NES) (v1) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1083/
+----------------------------------------------------
+
+[Max Life Level]
+2886CC81 00000008
+
+[Max Magic Level]
+2886CC80 00000008
+
+[Max Attack Level]
+2886CC7F 00000008
+
+[Have All Items]
+2886CC8D 00000001
+1886CC8E 00000101
+0886CC90 01010101
+2886CC94 00000001
+
+[Have All Magic Spells]
+2886CC83 00000001
+0886CC84 01010101
+1886CC88 00000101
+2886CC8A 00000001
+
+[Infinite MP]
+2886CC7C 0000007F
+
+[Infinite Keys]
+2886CC9B 00000008
+
+[Infinite Lives]
+2886CC08 00000008
+
+[Infinite Health]
+2886CC7B 0000007F
+
+[Invincible]
+2886CA20 00000010

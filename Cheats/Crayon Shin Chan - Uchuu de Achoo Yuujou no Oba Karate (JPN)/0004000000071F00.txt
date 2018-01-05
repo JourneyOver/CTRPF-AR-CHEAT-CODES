@@ -1,0 +1,18 @@
+Crayon Shin Chan - Uchuu de Achoo Yuujou no Oba Karate (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game379/
+----------------------------------------------------
+
+[Coins x9999]
+1047F176 0000270F
+
+[Max hearts]
+2047F220 0000000A
+
+[Max clover]
+2047F222 0000000A
+
+[Max watches]
+2047F221 0000000A

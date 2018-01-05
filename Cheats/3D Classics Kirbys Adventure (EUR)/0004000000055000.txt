@@ -1,0 +1,21 @@
+3D Classics: Kirbys Adventure (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1164/
+----------------------------------------------------
+
+[Max Lives after losing]
+D3000000 10000000
+05AAC01C 00000064
+
+[9999990 Score]
+080086DC 000F423F
+
+[Infinite Lives]
+080086E2 00000063
+0802ED08 00000063
+
+[Infinite Health]
+080086E1 000000FF
+0802ED07 000000FF

@@ -1,0 +1,19 @@
+The LEGO Movie Videogame (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game622/
+----------------------------------------------------
+
+[99999999 Blue Studs]
+0042D028 05F5E0FF
+
+[99999999 Gold Studs]
+0042D010 05F5E0FF
+
+[Infinite Health]
+60368BF8 00000000
+B0368BF8 00000000
+9000016A 00003C00
+20000168 000000C8
+D2000000 00000000

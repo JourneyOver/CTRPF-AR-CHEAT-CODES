@@ -1,0 +1,9 @@
+Kid Icarus - Uprising (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game138/
+----------------------------------------------------
+
+[999k hearts]
+00EE9820 000F423F

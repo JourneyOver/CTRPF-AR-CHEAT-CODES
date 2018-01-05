@@ -1,0 +1,25 @@
+Kid Icarus - Uprising (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game129/
+----------------------------------------------------
+
+[65,535 Hearts]
+20EE9820 0000FFFF
+
+[1st Power Uses x15]
+DD000000 00000804
+00E40984 0000000F
+00E4098C 0000000F
+D2000000 00000000
+
+[1st Power Remaining Time 30min]
+DD000000 00000103
+00E4B278 44E10000
+D2000000 00000000
+
+[Special Attack x2 (Air Battle)]
+DD000000 00000240
+00E40960 40000000
+D2000000 00000000

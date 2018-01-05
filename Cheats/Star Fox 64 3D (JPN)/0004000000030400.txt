@@ -1,0 +1,40 @@
+Star Fox 64 3D (JPN), Star Fox 64 3D (Rev03) (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game414/, http://www.fort42.com/gateshark/game1717/
+----------------------------------------------------
+
+[Max Silver Ring in Training]
+00681F6C 000003E7
+
+[Max Hits]
+0066A4A4 000003E7
+0068204C 000003E7
+
+[Max Gold Rings]
+00682048 00000003
+
+[Unlimited Bombs]
+0066A1F8 000000FF
+00813A14 000000FF
+
+[Infinite Lives]
+00685BE8 00000063
+
+[Infinite Lives]
+00685BE8 00000063
+
+[Unlimited Bombs]
+0066A1F8 000000FF
+00813A14 000000FF
+
+[Max Gold Rings]
+00682048 00000003
+
+[Max Hits]
+0066A4A4 000003E7
+0068204C 000003E7
+
+[Max Silver Ring in Training]
+00681F6C 000003E7

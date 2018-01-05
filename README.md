@@ -30,7 +30,7 @@
 
 1. Fork repository
 2. Add Cheats / Make changes to cheats / Other
-3. Make sure format is as `Cheats/<gamename (region)>/<tid>.txt` or `Cheats/<gamename (update #.#) (region)>/<tid>.txt` Example: `Cheats\Mario and Luigi Dream Team Bros. (Update 1.1) (EUR)/0004000E000D9000.txt`
+3. Make sure format is as `Cheats/<gamename (region)>/<tid>.txt` or `Cheats/<gamename (update #.# or Rev# or v#) (region)>/<tid>.txt` Example: `Cheats\Mario and Luigi Dream Team Bros. (Update 1.1) (EUR)/0004000E000D9000.txt`
 4. Once done send a pull request back to my repository
 
 If there are any mistakes in folder name, region, or other please make a pull request to fix it or make an issue to let me know!
@@ -54,4 +54,6 @@ If you do not know the correct Region code to give to, just input the titleID in
 ## Notes
 
 1. Various folder names will be fixed up in due time.
-2. Games Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) have 2 different `.txt` files. Need to look into this.
+2. I will not test any/all cheats.
+3. Due to #2 some games may end up being multi-regional/work on all versions even if not marked as such and some cheats may just not work at all. If you find any that are marked as only one region but work for other reqions or any games that are marked for one only version but work on all versions or any cheats that just do not work throw an issue up.
+4. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA) have 2 different `.txt` files. Need to look into this.

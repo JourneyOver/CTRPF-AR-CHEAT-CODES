@@ -1,0 +1,56 @@
+StarFox 64 3D (EUR), Star Fox 64 3D Update 1.2 (EUR), Star Fox 64 3D Update 1.3 (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game5/, http://www.fort42.com/gateshark/game1888/, http://www.fort42.com/gateshark/game1889/
+----------------------------------------------------
+
+[Infinite Lives]
+20685BE8 00000063
+
+[Unlimited bombs]
+2066A1F8 000000FF
+20813A14 000000FF
+
+[Have Hyper Laser]
+207F23D8 00000002
+
+[Falco Slippy Peppy Infinite HP]
+007F2324 000000FF
+007F2328 000000FF
+007F232C 000000FF
+
+[Max Hits]
+0066A4A4 000003E7
+0068204C 000003E7
+
+[Max Gold Rings]
+00682048 000003E7
+
+[Max Gold Rings (rev02)]
+00682048 000003E7
+
+[Max Hits (rev02)]
+0066A4A4 000003E7
+0068204C 000003E7
+
+[Unlimited Bombs (rev02)]
+0066A1F8 000000FF
+00813A14 000000FF
+
+[Infinite Lives (rev02)]
+00685BE8 00000063
+
+[Max Gold Rings (rev03)]
+00682048 000003E7
+
+[Max Hits (rev03)]
+0066A4A4 000003E7
+0068204C 000003E7
+
+[Unlimited Bombs (rev03)]
+0066A1F8 000000FF
+00813A14 000000FF
+
+[Infinite Lives (rev03)]
+00685BE8 00000063

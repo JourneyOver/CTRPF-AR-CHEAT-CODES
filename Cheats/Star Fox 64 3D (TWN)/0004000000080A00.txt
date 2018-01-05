@@ -1,0 +1,40 @@
+Star Fox 64 3D (TWN), Star Fox 64 3D (CHN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game372/, http://www.fort42.com/gateshark/game1890/
+----------------------------------------------------
+
+[Infinite Bombs]
+207EA12C 00000003
+
+[Infinite Lives]
+2065BEF0 00000063
+
+[999 Hits]
+10658354 000003E7
+
+[Have Hyper Laser]
+207C8AF0 00000002
+
+[Falco Slippy Peppy Infinite HP]
+007C8A3C 0000017F
+007C8A40 0000017F
+007C8A44 0000017F
+
+[Max Hits]
+00658354 000003E7
+
+[Infinite Bombs]
+007EA12C 00000003
+
+[Have Hyper Laser]
+007C8AF0 00000002
+
+[Infinite Lives]
+0065BEF0 00000063
+
+[Peppy Slippy Falco Infinite HP]
+007C8A3C 0000017F
+007C8A40 0000017F
+007C8A44 0000017F

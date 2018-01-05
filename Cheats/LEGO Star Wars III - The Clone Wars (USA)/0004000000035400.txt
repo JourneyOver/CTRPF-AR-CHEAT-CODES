@@ -1,0 +1,17 @@
+LEGO Star Wars III - The Clone Wars (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game73/
+----------------------------------------------------
+
+[Infinite health]
+202CADD9 00000004
+2033BE44 00000004
+
+[Max Bricks]
+002CAE78 FFFFFFFF
+
+[999999900 Coins]
+D3000000 00000000
+002CCA80 00989676

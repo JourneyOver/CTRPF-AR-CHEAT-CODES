@@ -1,0 +1,44 @@
+Azure Striker: Gunvolt 2 (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1935/
+----------------------------------------------------
+
+[Infinite EP (Copen)]
+10802734 0000C800
+
+[Max Score (Gunvolt + Copen)]
+00626C8C 05F5E0FF
+
+[Max Credit (Gunvolt)]
+00721DA0 000F423F
+
+[Lv 99 + All Skills (Gunvolt)]
+007225B8 00308DB0
+
+[Time 00:00:00 (Gunvolt + Copen)]
+00722734 00000000
+
+[Infinite Bonus Tries (Gunvolt + Copen)]
+2072264C 0000000F
+
+[Infinite Health (Gunvolt + Copen)]
+D9000000 085C7868
+D6000000 085C7864
+D2000000 00000000
+
+[Max Credit (Copen)]
+00722068 000F423F
+
+[Lv 99 (Copen)]
+007225F0 00308DB0
+
+[Infinite SP (Gunvolt)]
+1080275E 00001770
+
+[Infinite Bullit (Copen)]
+20802746 00000003
+
+[Infinite EP (Gunvolt)]
+20802746 00000014

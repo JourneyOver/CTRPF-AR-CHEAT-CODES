@@ -1,0 +1,44 @@
+3D Classics: Urban Champion (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1395/
+----------------------------------------------------
+
+[CPU has 999 Lifes]
+001ED9F8 000003E7
+001EFCA4 000003E7
+
+[CPU has 10 Lifes]
+001ED9F8 0000000A
+001EFCA4 0000000A
+
+[CPU has 5 Lifes]
+001ED9F8 00000005
+001EFCA4 00000005
+
+[CPU has 0 Life]
+001ED9F8 00000000
+001EFCA4 00000000
+
+[999 Lifes]
+001ED9F4 000003E7
+001EFEA8 000003E7
+
+[10 Lifes]
+001ED9F4 0000000A
+001EFEA8 0000000A
+
+[5 Lifes]
+001ED9F4 00000000
+001EFEA8 00000000
+
+[0 Life]
+001ED9F4 00000000
+001EFEA8 00000000
+
+[Freeze Time]
+201ED9D6 000000FF
+
+[Freeze Stamina]
+001EFEAC 000000C8

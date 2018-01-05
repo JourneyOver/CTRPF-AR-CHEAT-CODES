@@ -1,0 +1,15 @@
+3D After Burner II (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1571/
+----------------------------------------------------
+
+[Infinite Credits]
+28C3F799 00000009
+
+[Infinite Missiles]
+28C404AC 00000064
+
+[Infinite Lives]
+28C40026 00000009

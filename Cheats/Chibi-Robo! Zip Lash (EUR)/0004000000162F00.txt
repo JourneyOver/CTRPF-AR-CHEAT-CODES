@@ -1,0 +1,10 @@
+Chibi-Robo! Zip Lash (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1822/
+----------------------------------------------------
+
+[9999999 Cash]
+D3000000 00000000
+08004058 98967FFF

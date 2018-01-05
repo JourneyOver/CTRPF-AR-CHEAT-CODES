@@ -1,0 +1,24 @@
+WWE All Stars (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game86/
+----------------------------------------------------
+
+[P1 Infinite Health]
+60334500 00000000
+B0334500 00000000
+0000036C 000003E8
+D2000000 00000000
+
+[P1 Infinite Signature Moves]
+60334500 00000000
+B0334500 00000000
+0000265E 0000447A
+D2000000 00000000
+
+[P1 Infinite Finisher Moves]
+60334500 00000000
+B0334500 00000000
+0000266A 0000447A
+D2000000 00000000

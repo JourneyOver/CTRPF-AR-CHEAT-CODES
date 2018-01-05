@@ -1,0 +1,29 @@
+Dementium Remastered (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1818/
+----------------------------------------------------
+
+[Infinite Health]
+20291750 00000000
+
+[Infinite Pistol Ammo]
+20291753 000000FE
+20291754 000000FE
+
+[Infinite Shotgun Ammo]
+20291757 000000FE
+20291758 000000FE
+
+[Infinite Semi Automatic Ammo]
+20291759 000000FE
+2029175A 000000FE
+
+[Infinite Revolver Ammo]
+20219755 000000FE
+20219756 000000FE
+
+[Infinite Sniper Rifle Ammo]
+2029175B 000000FE
+2029175C 000000FE

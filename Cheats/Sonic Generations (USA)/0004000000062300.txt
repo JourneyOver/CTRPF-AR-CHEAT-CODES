@@ -1,0 +1,40 @@
+Sonic Generations (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game41/
+----------------------------------------------------
+
+[Freeze timer]
+00571928 00000000
+
+[Max Rings]
+10571934 000003E7
+
+[Max Lifes]
+20571930 00000063
+205715F4 00000063
+
+[Infinite Boost (Modern Sonic)]
+604D6760 00000000
+B04D6760 00000000
+10000F80 0000F401
+D2000000 00000000
+
+[Walk Through Enemies]
+604D6760 00000000
+B04D6760 00000000
+20000F3C 00000014
+D2000000 00000000
+
+[Freeze Timer (Special Stages)]
+604EFFDC 00000000
+B04EFFDC 00000000
+00000038 00000000
+D2000000 00000000
+
+[Infinite Oxygen]
+604D6760 00000000
+B04D6760 00000000
+10000F4C 00000000
+D2000000 00000000

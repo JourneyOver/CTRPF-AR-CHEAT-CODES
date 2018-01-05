@@ -1,0 +1,28 @@
+Terra Formars: Akaki Hoshi no Gekitou (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1727/
+----------------------------------------------------
+
+[All Upgrade Points x999]
+1838DED8 000003E7
+1838DEE8 000003E7
+1838DEF8 000003E7
+1838DF08 000003E7
+1838DF18 000003E7
+
+[Red Upgrade Points x999]
+1838DED8 000003E7
+
+[Blue Upgrade Points x999]
+1838DEE8 000003E7
+
+[Green Upgrade Points x999]
+1838DEF8 000003E7
+
+[Purple Upgrade Points x999]
+1838DF08 000003E7
+
+[Yellow Upgrade Points x999]
+1838DF18 000003E7

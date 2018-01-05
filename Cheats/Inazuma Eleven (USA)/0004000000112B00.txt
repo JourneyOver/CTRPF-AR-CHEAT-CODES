@@ -1,0 +1,35 @@
+Inazuma Eleven (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1269/
+----------------------------------------------------
+
+[Max Money]
+08682F60 000F423F
+
+[Max Passion Points]
+08682F64 000F423F
+
+[All items/equip./techs x99]
+C0000000 000001FE
+28682D49 00000063
+DC000000 00000001
+D1000000 00000000
+
+[All 32 Char.stats(resets at lvl up)]
+C0000000 0000001F
+08683D04 03E703E7
+08683D08 03E703E7
+08683D12 FFFFFFFF
+08683D16 FFFFFFFF
+08683D1A FFFFFFFF
+18683D1E 0000FFFF
+DC000000 00000188
+D1000000 00000000
+
+[32 Char.Lvl99 after match]
+C0000000 0000001F
+08683C58 000F423F
+DC000000 00000188
+D1000000 00000000

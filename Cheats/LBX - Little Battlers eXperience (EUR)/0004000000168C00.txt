@@ -1,0 +1,12 @@
+LBX - Little Battlers eXperience (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1823/
+----------------------------------------------------
+
+[Max LP]
+087F1CB4 0000270F
+
+[Max Automatic Pistol Bullets]
+087F1CD2 00007FFF

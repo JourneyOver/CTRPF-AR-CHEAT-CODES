@@ -1,0 +1,18 @@
+Castlevania (NES) (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1882/
+----------------------------------------------------
+
+[Instant Kill]
+0884C132 00000085
+
+[99 Lives]
+0884C11A 00000063
+
+[99x Hearts]
+0884C161 00000063
+
+[Freeze Energy and Timer]
+0884C131 00030000

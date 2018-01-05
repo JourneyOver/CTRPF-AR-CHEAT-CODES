@@ -1,0 +1,29 @@
+Sonic Generations (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game142/
+----------------------------------------------------
+
+[Max Lives]
+00571930 00000063
+
+[Max Rings]
+00571934 000003E7
+
+[Infinite Boost (Works Offline and Online)]
+604D6760 00000000
+B04D6760 00000000
+00000F80 00000FFF
+D2000000 00000000
+
+[Blinking Invincibility]
+604D6760 00000000
+B04D6760 00000000
+00000F3D 000000FF
+D2000000 00000000
+
+[Timer Hack]
+D3000000 00571928
+00000000 00000001
+D2000000 00000000

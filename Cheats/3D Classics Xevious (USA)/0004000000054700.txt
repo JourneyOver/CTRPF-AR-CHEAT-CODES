@@ -1,0 +1,14 @@
+3D Classics: Xevious (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1278/
+----------------------------------------------------
+
+[Max Lives]
+D3000000 00000000
+001ADB04 000000FF
+
+[Max Score]
+D3000000 00000000
+001ADB00 0098967F

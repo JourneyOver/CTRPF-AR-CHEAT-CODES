@@ -1,0 +1,14 @@
+Super Mario 3D Land (TWN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game371/
+----------------------------------------------------
+
+[Max Lives after losing 1]
+D3000000 00000000
+001391F0 E1C023BE
+
+[Max Infinite Time]
+D3000000 00000000
+0017722C E5802018

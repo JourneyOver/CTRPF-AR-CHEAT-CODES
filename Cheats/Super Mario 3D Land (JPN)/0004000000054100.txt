@@ -1,0 +1,14 @@
+Super Mario 3D Land (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game218/
+----------------------------------------------------
+
+[Max Lives after losing 1]
+D3000000 00000000
+00138C78 E1C023BE
+
+[Max Infinite Time]
+D3000000 00000000
+00176AEC E5802018

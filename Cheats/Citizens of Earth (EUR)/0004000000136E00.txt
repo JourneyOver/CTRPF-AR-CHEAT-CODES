@@ -1,0 +1,10 @@
+Citizens of Earth (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1582/
+----------------------------------------------------
+
+[Max Money (V1.1.0)]
+082E105C 0FFFFFFF
+08518A74 0FFFFFFF

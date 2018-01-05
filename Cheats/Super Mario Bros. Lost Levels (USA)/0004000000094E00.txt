@@ -1,0 +1,25 @@
+Super Mario Bros.: Lost Levels (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1401/
+----------------------------------------------------
+
+[99 Coins]
+2885E84E 00000063
+
+[Invincible]
+2885E88F 000000FF
+
+[Infinite Lives]
+2885E84A 00000008
+
+[Push R Rest Time to 990]
+DD000000 00000100
+2885E8DC 00000009
+2885E8DD 00000009
+D2000000 00000000
+
+[Always Fire Power Mario]
+2885E844 00000000
+2885E846 00000002

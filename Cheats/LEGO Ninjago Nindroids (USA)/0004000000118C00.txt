@@ -1,0 +1,17 @@
+LEGO Ninjago: Nindroids (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1100/
+----------------------------------------------------
+
+[99999999 Studs]
+003B97D8 05F5E0FF
+0042E5A8 05F5E0FF
+
+[Infinite Health]
+60399018 00000000
+B0399018 00000000
+50000090 0000FF00
+20000140 000000C8
+D2000000 00000000

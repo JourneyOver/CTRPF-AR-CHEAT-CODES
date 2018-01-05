@@ -1,0 +1,45 @@
+3D Classics: Kid Icarus (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1250/
+----------------------------------------------------
+
+[Have Map]
+202249E5 00000001
+
+[Have Pencil]
+202249E4 00000001
+
+[Have Torch]
+202249E3 00000001
+
+[Have Credit Card]
+202249DE 00000001
+
+[Have 99 Hammers]
+202249E1 00000063
+
+[Have 99 Wings]
+202249E2 00000063
+
+[Have Crystal Rod]
+202249D7 00000002
+202249DA 00000001
+
+[Have Sacred Bow]
+202249D6 00000001
+202249D9 00000001
+
+[Have Flaming Arrow]
+202249D5 00000000
+202249D8 00000001
+
+[Max Strength]
+202249D4 00000005
+
+[999 Hearts]
+102249D0 000003E7
+
+[Infinite Health]
+202249CE 00000063

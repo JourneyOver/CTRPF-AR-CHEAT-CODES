@@ -1,0 +1,9 @@
+Super Robot Taisen UX (JPN)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game351/
+----------------------------------------------------
+
+[Max Money]
+002C003C 05F5E0FF

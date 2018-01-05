@@ -1,0 +1,24 @@
+Mighty Switch Force! (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1172/
+----------------------------------------------------
+
+[Low Time]
+9807A80E 00000000
+2807A80D 00000000
+D2000000 00000000
+
+[Moon Jump B Button]
+DD000000 00000002
+9807A80E 00000000
+B807A620 00000000
+00000278 3EC00000
+D2000000 00000000
+
+[Infinite Health]
+9807A80E 00000000
+B807A620 00000000
+20000290 00000003
+D2000000 00000000

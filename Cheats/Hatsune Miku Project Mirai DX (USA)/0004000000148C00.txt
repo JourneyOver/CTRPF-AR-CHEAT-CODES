@@ -1,0 +1,9 @@
+Hatsune Miku: Project Mirai DX (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1804/
+----------------------------------------------------
+
+[1.000.000 MP]
+0065EE70 000F4240

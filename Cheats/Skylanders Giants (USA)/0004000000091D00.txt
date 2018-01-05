@@ -1,0 +1,10 @@
+Skylanders Giants (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game411/
+----------------------------------------------------
+
+[Max Coins (Press L+R)]
+DD000000 00000300
+08777DE8 0001869F

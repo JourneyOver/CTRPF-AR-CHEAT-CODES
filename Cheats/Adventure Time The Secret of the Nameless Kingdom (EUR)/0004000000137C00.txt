@@ -1,0 +1,42 @@
+Adventure Time: The Secret of the Nameless Kingdom (EUR)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game1344/
+----------------------------------------------------
+
+[Always 3 pieces of heart]
+2042CC14 00000003
+
+[999 Money]
+1042CC18 000003E7
+
+[99 purple tentacle]
+2042CC1C 00000063
+
+[99 beans]
+2042CC20 00000063
+
+[99 color candies]
+2042CC24 00000063
+
+[Item in baggy1 x99]
+2042CC28 00000063
+
+[Item in baggy2 x99]
+2042CC2C 00000063
+
+[Item in baggy3 x99]
+2042CC30 00000063
+
+[Item in baggy4 x99]
+2042CC34 00000063
+
+[Item in baggy5 x99]
+2042CC38 00000063
+
+[20 gums]
+2042CC3C 00000014
+
+[5 wood tables]
+2042CC40 00000005
