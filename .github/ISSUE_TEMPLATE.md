@@ -13,7 +13,11 @@
 
 ## Extra Information (only need to fill in if issuing for Broken Cheats)
 **Type of 3DS:** [e.g. New 3DS, Old 3DS, 2DS]
+
 **3DS Firmware Version:** [e.g. 11.6.0-39E]
+
 **Method Used:** [e.g. LUMAS3DS 9.0 Plugin Loader, BOOTNTR]
+
 **Game Version:** [e.g. 1.0, 1.1]
+
 **Language & Region:** [e.g. English & USA]
