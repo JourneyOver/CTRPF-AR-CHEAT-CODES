@@ -7,6 +7,7 @@
 - [ ] Multi-Region
 - [ ] Versioning
 - [ ] Wrong Game
+- [ ] Other
 
 ## Description
 <!-- Describe the issues -->
