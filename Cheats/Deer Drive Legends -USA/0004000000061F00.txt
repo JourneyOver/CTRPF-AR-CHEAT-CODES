@@ -1,0 +1,12 @@
+Deer Drive Legends (USA)
+CTR-AD2E
+Created by Smoker1
+----------------------------------------------------
+
+[Time at 1:25]
+D3000000 10000000
+044C0678 42AB3E40
+
+[Infinite Health]
+D3000000 10000000
+044EE288 42C80000

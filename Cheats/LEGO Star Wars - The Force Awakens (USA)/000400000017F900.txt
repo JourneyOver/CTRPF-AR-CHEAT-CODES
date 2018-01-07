@@ -7,3 +7,9 @@ http://www.fort42.com/gateshark/game1904/
 
 [Max Studs]
 00540AD0 05F5E0FF
+
+[Infinite Health - 3 Hearts]
+6050DF30 00000000
+B050DF30 00000000
+0000012C 00000064
+D2000000 00000000
