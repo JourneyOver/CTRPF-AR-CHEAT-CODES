@@ -27,7 +27,7 @@ If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNT
 5. Place the contents from `CTRPluginFramework - Action Replay.7z` into `SD:/plugin/<Title ID of the game folder>/`
 6. Either download or clone this repository or search in the cheats folder for the game you want to cheat on and download the `.txt` file in the folder
 7. Move the `.txt` file to either `sd:/cheats/` (txt files are conviently already named correctly if placing here)
-8. Or place in same folder as the `plugin.plg` from #3 and rename the `.txt` to `cheats.txt`
+8. Or place in same folder as the `plugin.plg` from #5 and rename the `.txt` to `cheats.txt`
 9. Open up BOOTNTR and wait for it to do it's thing
 10. Load up game (if you get a green screen during load then it worked) and cheat to your hearts content!
 11. To open CTRPluginFramework menu press `select` once in game
