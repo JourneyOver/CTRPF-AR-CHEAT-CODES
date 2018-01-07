@@ -1,3 +1,3 @@
-[Infinite Ammo-Needs Work]
+[Infinite Ammo-Enable AFTER Hunt Starts]
 D3000000 10000000
 04B6CC1C 00000007
