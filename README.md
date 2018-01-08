@@ -59,4 +59,5 @@ or
 4. `LUMA3DS 9.0 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg`
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
 6. If it gives you error,Try Deleting the `CTRPFData.bin` if it exists.
-7. NOTE: Games - Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. I Need to look into this.
+7. To turn off `LUMA3DS 9.0 Plugin Loader` restart your 3DS and don't enable the plugin loader again unless you need to.
+8. NOTE: Games - Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. I Need to look into this.
