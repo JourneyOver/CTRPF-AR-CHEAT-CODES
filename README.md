@@ -46,6 +46,17 @@ or
 2. If creating an issue for a broken cheat, it may take time for me to test and see if I can fix (if I can fix at all).
 3. I can't test every single cheat in this repository! Sorry :/
 
-## Notes
+## FAQS
 
-1. Games: Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. Need to look into this.
+1. Where can I put my cheat codes?
+- Put them inside a text file called `cheats.txt` or `<Title ID of the game>.txt`.
+2. Where should I put my `cheats.txt` or `<Title ID of the game>.txt`?
+- Put them in `SD/plugin/<Title ID of the game folder>/cheats.txt`
+- If your using the Luma Plugin Loader, Put them in `SD/luma/plugins/<title ID of the game folder>/cheats.txt`
+- Or put them in `SD/cheats/<Title ID of the game>.txt`
+3. Can I use both `cheats.txt` and `<Title ID of the game>.txt` files at the same time?
+- No, you don't/shouldn't use both if you already have 1 .txt file for the game in one of the directories. You only need either a `cheats.txt` or `<Title ID of the game>.txt` for a game not both.
+4. `LUMA3DS 9.0 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg`
+5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
+6. If it gives you error,Try Deleting the `CTRPFData.bin` if it exists.
+7. NOTE: Games - Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. I Need to look into this.
