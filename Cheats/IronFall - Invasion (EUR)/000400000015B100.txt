@@ -1,0 +1,19 @@
+IronFall - Invasion (EUR)
+Created by Smoker1
+----------------------------------------------------
+
+[Infinite Ammo-Rifle]
+D3000000 30000000
+006F7A2C 012C0001
+
+[Infinite Ammo Gauge-Rifle]
+D3000000 30000000
+006F7A30 00640018
+
+[Infinite Ammo-Pistol-NotWithRifle]
+D3000000 30000000
+066F7A20 001A0001
+
+[Infinite Ammo Gauge-Pistol-NotWithRifle]
+D3000000 30000000
+006F7A24 0032000C
