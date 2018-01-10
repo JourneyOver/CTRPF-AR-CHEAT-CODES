@@ -5,8 +5,8 @@ Credits and instructions:
 http://www.fort42.com/gateshark/game70/
 ----------------------------------------------------
 
-[99,999,999 Studs-Needs work]
-002D6450 05F5E0FF
+[1,000,000,000 Studs]
+0032A3A0 05F5E0FF
 
 [Infinite Health - 3 Hearts]
 602C2478 00000000
