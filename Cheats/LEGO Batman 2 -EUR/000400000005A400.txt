@@ -5,10 +5,10 @@ Credits and instructions:
 http://www.fort42.com/gateshark/game554/
 ----------------------------------------------------
 
-[999,999,999 Studs-Needs work]
-00308D58 3B9AC9FF
+[999,999,999 Studs]
+00357A00 05F5E0FF
 
-[Infinite Health-3Hearts]
+[Infinite Health]
 602CFA94 00000000
 B02CFA94 00000000
 00000114 3C000005
