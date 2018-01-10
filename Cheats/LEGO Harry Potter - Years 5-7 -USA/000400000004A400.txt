@@ -8,7 +8,7 @@ http://www.fort42.com/gateshark/game70/
 [1,000,000,000 Studs]
 0032A3A0 05F5E0FF
 
-[Infinite Health - 3 Hearts]
+[Infinite Health]
 602C2478 00000000
 B02C2478 00000000
 00000108 3C000005
