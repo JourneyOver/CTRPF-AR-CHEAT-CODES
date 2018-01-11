@@ -61,6 +61,8 @@ D0000000 00000000 – Terminator code
 Data Register Codes:
 ---------------------
 D4000000 XXXXXXXX – Adds XXXXXXXX to the data register
+D4000001 XXXXXXXX – data#1 = data#1 + data#2 + XXXXXXXX
+D4000002 XXXXXXXX - data#2 = data#2 + data#1 + XXXXXXXX
 D500000Z XXXXXXXX – Sets the data register #Z (0: data#1, 1: data#2) to XXXXXXXX
 D6000000 XXXXXXXX – (32bit) [XXXXXXXX+offset] = data ; offset += 4
 D7000000 XXXXXXXX – (16bit) [XXXXXXXX+offset] = data & 0xffff ; offset += 2
@@ -77,12 +79,22 @@ ZZZZZZZZ ZZZZZZZZ
 Input Codes:
 ----------------
 DD000000 XXXXXXXX – if KEYPAD has value XXXXXXXX execute next block (see SPECIAL KEY CODE for values)
-DE000000 WWXXYYZZ - if touchpos is between WW <= posX <= XX and YY <= posY <= ZZ execute next block
+DE000000 AAAABBBB - if touchpos X is between AAAA >= X >= BBBB execute next block
+DE000001 AAAABBBB - if touchpos Y is between AAAA >= Y >= BBBB execute next block
 
 Registers operations:
 -----------------------
-DFFFFFFF 00000000 - Conditional codes are compared to YYYY (immediate value)
-DFFFFFFF 00000001 - Conditional codes are compared to active data register
+DFFFFFFF 00000000 - Conditional codes: value of address is compared to YYYY (immediate value)
+DFFFFFFF 00000001 - Conditional codes: value of address is compared to active data register
+DFFFFFFF 00000002 - Conditional codes: active data register is compared to YYYY (immediate value)
+
+DFFFFFFE 000000YX - Set the active data register vfp state
+Y:
+   - 0: no conversion
+   - 1: convert from integer to float if X == 1, from float to integer if X == 0
+X:
+  - 0: Disable the vfp state
+  - 1: Enable the vfp state
 
 DF00XXXX YYYYZZZZ - Operations:
 -------------------------------
@@ -107,6 +119,7 @@ DF000002 00020001 - Copy data #2 to storage #2
 
 Custom Codes:
 ---------------
+F0000001 0000000X - Toggle float mode for F1, F2, F3 (X: 0 to disable, 1 to enable)
 F1XXXXXX YYYYYYYY - *(XXXXXX + offset) += YYYYYYYY
 F2XXXXXX YYYYYYYY - *(XXXXXX + offset) *= YYYYYYYY
 F3XXXXXX YYYYYYYY - *(XXXXXX + offset) /= YYYYYYYY
@@ -118,8 +131,12 @@ F8000000 YYYYYYYY - XOR - data ^= YYYYYYYY
 F9000000 00000000 - NOT - data = ~data
 FA000000 YYYYYYYY - Left shift - data <<= YYYYYYYY
 FB000000 YYYYYYYY - Right shift - data >>= YYYYYYYY
+
 FC000000 YYYYYYYY - Copy YYYYYYYY bytes from [offset#2] to [offset#1]
-FF000000 00000000 - Generate a random number, min/max can be respectively set in data#1, data#2
+FE00XXXX YYYYYYYY - Search pattern (Z) from offset to offset + Y, XXXX is pattern size (in bytes)
+ZZZZZZZZ ZZZZZZZZ   Next block of code is executed if the pattern is found and offset is updated with the address
+
+FFXXXXXX YYYYYYYY - Generate a random number between XXXXXX and YYYYYYYY
 
 ===================
 SPECIAL KEYPAD CODE
