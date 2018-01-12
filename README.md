@@ -34,7 +34,6 @@ After following either of the below you can look at this [video](https://www.you
 - If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
 
 1. Make sure to disable the plugin loader from Rosalina if you're using the `boot.firm` of `Luma3DS with Plugin Loader`
-- Only BOOTNTR 3.3 works if you're using the `boot.firm` of `Luma3DS with Plugin Loader`
 2. Download `ActionReplay.rar`
 - Included in this repository or you can download from [here](http://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/)
 3. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
@@ -45,7 +44,6 @@ After following either of the below you can look at this [video](https://www.you
   - txt files are conviently already named correctly if placing here
 - or place along side `plugin.plg` from #4 and rename the `.txt` to `cheats.txt`
 7. Open up BOOTNTR and let it do it's thing.
-- Reminder: if using alongside `Luma3DS with Plugin Loader` then use 3.3!
 8. Load up game
 - if you get a green screen during load then it worked
 - To open CTRPluginFramework menu press `select` once in game
