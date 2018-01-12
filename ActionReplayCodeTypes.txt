@@ -48,7 +48,8 @@ AXXXXXXX ZZZZYYYY – Not Equal To (YYYY != [XXXXXXX + offset] & ~ZZZZ)
 Offset Codes:
 --------------
 BXXXXXXX 00000000 – offset = *(XXXXXXX + offset)
-D3000000 XXXXXXXX – set offset to immediate value
+D3000000 XXXXXXXX – offset#1 = XXXXXXXX
+D3000001 XXXXXXXX - offset#2 = XXXXXXXX
 DC000000 XXXXXXXX – Adds an value to the current offset
 
 Loop Codes:
@@ -63,7 +64,8 @@ Data Register Codes:
 D4000000 XXXXXXXX – Adds XXXXXXXX to the data register
 D4000001 XXXXXXXX – data#1 = data#1 + data#2 + XXXXXXXX
 D4000002 XXXXXXXX - data#2 = data#2 + data#1 + XXXXXXXX
-D500000Z XXXXXXXX – Sets the data register #Z (0: data#1, 1: data#2) to XXXXXXXX
+D5000000 XXXXXXXX – data#1 = XXXXXXXX
+D5000001 XXXXXXXX - data#2 = XXXXXXXX
 D6000000 XXXXXXXX – (32bit) [XXXXXXXX+offset] = data ; offset += 4
 D7000000 XXXXXXXX – (16bit) [XXXXXXXX+offset] = data & 0xffff ; offset += 2
 D8000000 XXXXXXXX – (8bit) [XXXXXXXX+offset] = data & 0xff ; offset++
@@ -136,7 +138,7 @@ FC000000 YYYYYYYY - Copy YYYYYYYY bytes from [offset#2] to [offset#1]
 FE00XXXX YYYYYYYY - Search pattern (Z) from offset to offset + Y, XXXX is pattern size (in bytes)
 ZZZZZZZZ ZZZZZZZZ   Next block of code is executed if the pattern is found and offset is updated with the address
 
-FFXXXXXX YYYYYYYY - Generate a random number between XXXXXX and YYYYYYYY
+FFXXXXXX YYYYYYYY - data = random number between XXXXXX and YYYYYYYY
 
 ===================
 SPECIAL KEYPAD CODE
