@@ -75,7 +75,7 @@ or
 4. `LUMA3DS 9.0 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg` and `ActionReplay.plg`
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
 6. If it gives you error,Try Deleting the `CTRPFData.bin` if it exists.
-7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) and see if they possibly have it.
+7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) or [GameHacking](https://gamehacking.org/system/3ds) and see if they possibly have it.
 
 --
 
