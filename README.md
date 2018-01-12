@@ -2,7 +2,7 @@
 
 ## How to use
 
-After following either of the below you look at a [video](https://www.youtube.com/watch?v=c2258P9wKkA) to see how to use the editor and create codes.
+After following either of the below you can look at this [video](https://www.youtube.com/watch?v=c2258P9wKkA) to see how to use the editor and create codes.
 
 # Using Luma3DS with Plugin Loader
 
