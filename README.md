@@ -6,11 +6,11 @@ After following either of the below you can look at this [video](https://www.you
 
 # Using Luma3DS with Plugin Loader
 
-1. Download `Luma3DS 9.0 - Plugin loader.rar` & `ActionReplay.rar`
+1. Download `Luma3DS 9.0 - Plugin loader.zip` & `ActionReplay.zip`
 - Included in this repository or you can download from [here](http://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/)
 2. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
-3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.0 - Plugin loader.rar` into the root of your SD card
-4. Place the conents from `ActionReplay.rar` into either
+3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.0 - Plugin loader.zip` into the root of your SD card
+4. Place the conents from `ActionReplay.zip` into either
 - `sd:/luma/plugins/<Title ID of the game folder>/`
   - Name of the plugin must be `plugin.plg` if placed here.
 - or `sd:/luma/plugins/ActionReplay/`
@@ -34,10 +34,10 @@ After following either of the below you can look at this [video](https://www.you
 - If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
 
 1. Make sure to disable the plugin loader from Rosalina if you're using the `boot.firm` of `Luma3DS with Plugin Loader`
-2. Download `ActionReplay.rar`
+2. Download `ActionReplay.zip`
 - Included in this repository or you can download from [here](http://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/)
 3. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
-4. Place the contents from `ActionReplay.rar` into `SD:/plugin/<Title ID of the game folder>/`
+4. Place the contents from `ActionReplay.zip` into `SD:/plugin/<Title ID of the game folder>/`
 5. Either download or clone this repository or search in the cheats folder for the game you want to cheat on and download the `.txt` file in the folder
 6. Move the `.txt` file to either
 - `sd:/cheats/`
