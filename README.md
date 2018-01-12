@@ -28,7 +28,7 @@ After following either of the below you can look at this [video](https://www.you
 --
 - Note: The plugin loader is automatically enabled on Old3DS because Mode3 games needs it.
 - Note: So on N3DS, you have to enable the plugin loader from Rosalina, and you can disable it too. You can't disable it for Mode3 games though.
-- Note: `Luma3DS 9.0 - Plugin loader` & `ActionReplay` are .rar files in this repository for convenience of updating with [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) as 7z files are not supported.
+- Note: `Luma3DS 9.0 - Plugin loader` & `ActionReplay` are .zip files in this repository for convenience of updating with [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater)
 
 # Using BOOTNTR
 - If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
