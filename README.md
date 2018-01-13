@@ -2,8 +2,6 @@
 
 ## How to use
 
-After following either of the below you can look at this [video](https://www.youtube.com/watch?v=c2258P9wKkA) to see how to use the editor and create codes.
-
 # Using Luma3DS with Plugin Loader
 
 1. Download `Luma3DS 9.0 - Plugin loader.zip` & `ActionReplay.zip`
@@ -47,6 +45,25 @@ After following either of the below you can look at this [video](https://www.you
 8. Load up game
 - if you get a green screen during load then it worked
 - To open CTRPluginFramework menu press `select` once in game
+
+## How To Add Cheats Using CTRPF AR On 3DS
+
+After following either of the above you can look at this [video](https://www.youtube.com/watch?v=c2258P9wKkA) to see how to use the editor and create codes and/or you can follow below.
+
+1. Open `CTRPF AR`
+- `SELECT` is default
+2. Press `ActionReplay`
+3. Press the `Circled Plus Icon`
+4. Press `Code`
+5. Name your Cheat
+6. Press the `Pencil Icon` on your currently added cheat
+7. Press `Code`
+8. Press `L` or `R` to add a 1 line of code
+- While on the currently chosen line of code, Pressing `L` will add a 1 line of code `above it`, Pressing `R` will add a 1 line of code `under it`
+9. Then type the code you want to add using the `Touch Screen`
+10. For `N3DS` only: Pressing `ZL` Will copy the currently chosen line of code to be pasted using the `L` or `R`, And Pressing `ZR` will `Clear the Clipboard`
+- which is the code that you copied
+11. When done Adding/Editing code,Press `B` to go back and Press `A` to `Mark a Check/Activate` the cheat, and leave the cheat menu and see if the cheat works
 
 ## If you wish to contribute
 
