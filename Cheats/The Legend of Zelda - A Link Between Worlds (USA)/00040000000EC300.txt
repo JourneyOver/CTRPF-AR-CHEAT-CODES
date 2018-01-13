@@ -67,3 +67,9 @@ DD000000 00000400
 0034275C BCCCCCCD
 D2000000 00000000
 {Press and hold X\nYou must be walking to move while jumping\nIs only good to get on cliffs}
+
+[One Hit Kills]
+D3000000 00000000
+004F7430 E3E0103F
+004F7438 E1C510B8
+D2000000 00000000
