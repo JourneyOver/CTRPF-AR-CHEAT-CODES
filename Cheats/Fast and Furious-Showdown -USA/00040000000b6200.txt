@@ -1,0 +1,13 @@
+Fast and Furious-Showdown
+00040000000b6200
+CTR-AFHE
+Posted on Max-Cheats
+Created by Eco95
+--------------------------------
+
+[Infinite Non-stop Nitro]
+60497D14 00000000
+B0497D14 00000000
+B000007C 00000000
+00000024 3F800000
+D2000000 00000000
