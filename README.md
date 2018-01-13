@@ -1,8 +1,8 @@
 # [Database] CTRPF AR CHEAT CODES
 
-# How to use
+## How to use
 
-## Using Luma3DS with Plugin Loader
+### Using Luma3DS with Plugin Loader
 
 1. Download `Luma3DS 9.0 - Plugin loader.zip` & `ActionReplay.zip`
 
@@ -36,7 +36,7 @@
 - Note: So on N3DS, you have to enable the plugin loader from Rosalina, and you can disable it too. You can't disable it for Mode3 games though.
 - Note: `Luma3DS 9.0 - Plugin loader` & `ActionReplay` are .zip files in this repository for convenience of updating with [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater)
 
-## Using BOOTNTR
+### Using BOOTNTR
 
 - If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
 
@@ -60,7 +60,7 @@
 - if you get a green screen during load then it worked
 - To open CTRPluginFramework menu press `select` once in game
 
-# How To Add Cheats Using CTRPF AR On 3DS
+## How To Add Cheats Using CTRPF AR On 3DS
 
 After following either of the above you can look at this [video](https://www.youtube.com/watch?v=c2258P9wKkA) to see how to use the editor and create codes and/or you can follow below.
 
@@ -74,18 +74,19 @@ After following either of the above you can look at this [video](https://www.you
 5. Name your Cheat
 6. Press the `Pencil Icon` on your currently added cheat
 7. Press `Code`
-8. Press `L` or `R` to add a 1 line of code
+8. Press `L` or `R` to add a 1 line of code, Pressing `Y` will delete the currently chosen line of code
 
 - While on the currently chosen line of code, Pressing `L` will add a 1 line of code `above it`, Pressing `R` will add a 1 line of code `under it`
 
 9. Then type the code you want to add using the `Touch Screen`
-10. For `N3DS` only: Pressing `ZL` Will copy the currently chosen line of code to be pasted using the `L` or `R`, And Pressing `ZR` will `Clear the Clipboard`
+10. For `N3DS` only: Pressing `ZL` Will `copy` the currently chosen line of code to be pasted using `L` or `R`, And Pressing `ZR` will `Clear the Clipboard`
 
 - which is the code that you copied
 
-11. When done Adding/Editing code,Press `B` to go back and Press `A` to `Mark a Check/Activate` the cheat, and leave the cheat menu and see if the cheat works
+11. When done Adding/Editing code, Press `B` to go back and Press `A` to `Mark a Check/Activate` the cheat, and leave the cheat menu and see if the cheat works
+12. Also there's a `Help` on the `Options` inside the `Code Editor` in case you didn't noticed it
 
-# If you wish to contribute
+## If you wish to contribute
 
 - codes that the CTRPF AR supports(Same as Gateshark but with more options!): [link](https://github.com/JourneyOver/CTRPF-AR-CHEAT-CODES/blob/master/ActionReplayCodeTypes.txt)
 
@@ -100,7 +101,7 @@ or
 - NOTE: I didn't create these cheats, and some cheats might not work.
   - If a cheat is not working, it just means that the cheat is wrong: no support will be done for cheats not working, I'm not here to fix all cheats, if you need help with broken codes either make an issue or add a comment in this [thread](https://gbatemp.net/threads/database-ctrpf-ar-cheat-codes.493220/) and somebody may be able to help you. Thank you!
 
-# FAQS
+## FAQS
 
 1. Where can I put my cheat codes?
 
