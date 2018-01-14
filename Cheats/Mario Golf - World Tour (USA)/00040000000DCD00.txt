@@ -8,7 +8,7 @@ http://www.fort42.com/gateshark/game960/
 [9999999 GP]
 0067E828 0098967F
 
-[Ball Goes In From Anywhere(Press L while the ball is in play.)]
+[Ball Goes In From Anywhere(Press L while the ball is in play)]
 D3000000 00000000
 002725D0 0A000003
 00271A48 2A0002E1
