@@ -10,7 +10,7 @@
 
 2. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
 3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.0 - Plugin loader.zip` into the root of your SD card
-4. Place the conents from `ActionReplay.zip` into either
+4. Place the contents from `ActionReplay.zip` into either
 
 - `sd:/luma/plugins/<Title ID of the game folder>/`
   - Name of the plugin must be `plugin.plg` if placed here.
@@ -22,13 +22,13 @@
 6. Move the `.txt` file to either
 
 - `sd:/cheats/`
-  - txt files are conviently already named correctly if placing here
+  - txt files are conveniently already named correctly if placing here
 - or place along side `plugin.plg` from #4 and rename the `.txt` to `cheats.txt`
 
 7. Use your button combo to load up `rosalina menu` (default is usually `L+Down+select`) and enable `plugin loader` if it isn't already and then load up your game
 
 - If you get a green screen during load then it worked
-- To open CTRPluginFramework menu press `select` once in game
+- To open CTRPluginFramework menu press `select` once in-game
 
 \--
 
@@ -51,14 +51,14 @@
 6. Move the `.txt` file to either
 
 - `sd:/cheats/`
-  - txt files are conviently already named correctly if placing here
+  - txt files are conveniently already named correctly if placing here
 - or place along side `plugin.plg` from #4 and rename the `.txt` to `cheats.txt`
 
-7. Open up BOOTNTR and let it do it's thing.
+7. Open up BOOTNTR and let it do its thing.
 8. Load up game
 
 - if you get a green screen during load then it worked
-- To open CTRPluginFramework menu press `select` once in game
+- To open CTRPluginFramework menu press `select` once in-game
 
 ## How To Add Cheats Using CTRPF AR On 3DS
 
@@ -84,7 +84,7 @@ After following either of the above you can look at this [video](https://www.you
 - which is the code that you copied
 
 11. When done Adding/Editing code, Press `B` to go back and Press `A` to `Mark a Check/Activate` the cheat, and leave the cheat menu and see if the cheat works
-12. Also there's a `Help` on the `Options` inside the `Code Editor` in case you didn't noticed it
+12. Also there's a `Help` on the `Options` inside the `Code Editor` in case you didn't notice it
 
 ## If you wish to contribute
 
@@ -110,7 +110,7 @@ or
 2. Where should I put my `cheats.txt` or `<Title ID of the game>.txt`?
 
 - Put them in `SD/plugin/<Title ID of the game folder>/cheats.txt`
-- If your using the Luma Plugin Loader, Put them in `SD/luma/plugins/<title ID of the game folder>/cheats.txt`
+- If you're using the Luma Plugin Loader, Put them in `SD/luma/plugins/<title ID of the game folder>/cheats.txt`
 - Or put them in `SD/cheats/<Title ID of the game>.txt`
 
 3. Can I use both `cheats.txt` and `<Title ID of the game>.txt` files at the same time?
@@ -119,7 +119,7 @@ or
 
 4. `LUMA3DS 9.0 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg` and `ActionReplay.plg`
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
-6. If it gives you error,Try Deleting the `CTRPFData.bin` if it exists.
+6. If it gives you error, try Deleting the `CTRPFData.bin` if it exists.
 7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) or [GameHacking](https://gamehacking.org/system/3ds) and see if they possibly have it.
 
 \--
