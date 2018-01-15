@@ -1,0 +1,9 @@
+PilotWings Resort (USA)
+Downloaded From Fort42: GateShark
+
+Credits and instructions:
+http://www.fort42.com/gateshark/game30/
+----------------------------------------------------
+
+[Mission Time ONLY is Always 0:00]
+1030EC78 00000000

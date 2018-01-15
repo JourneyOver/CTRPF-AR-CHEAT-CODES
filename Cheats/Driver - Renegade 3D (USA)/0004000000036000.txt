@@ -1,0 +1,15 @@
+Driver-Renegade 3D
+0004000000036000
+CTR-ADRE
+Posted on Max-Cheats
+Created by Eco95
+----------------------
+
+[Infinite Nitro-Rage]
+102B5D10 00001000
+
+[No Damage]
+104CAE5E 0000FFFF
+
+[Time 0:00]
+002B5D18 00000000
