@@ -28,7 +28,7 @@
 7. Use your button combo to load up `rosalina menu` (default is usually `L+Down+select`) and enable `plugin loader` if it isn't already and then load up your game
 
 - If you get a green screen during load then it worked
-- To open CTRPluginFramework menu press `select` once in-game
+- To open CTRPluginFramework menu press `select` once in-game and click on `Action Replay` button to see the cheats.
 
 \--
 
@@ -58,7 +58,7 @@
 8. Load up game
 
 - if you get a green screen during load then it worked
-- To open CTRPluginFramework menu press `select` once in-game
+- To open CTRPluginFramework menu press `select` once in-game and click on `Action Replay` button to see the cheats.
 
 ## How To Add Cheats Using CTRPF AR On 3DS
 
