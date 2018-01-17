@@ -15,7 +15,7 @@ D3000000 08000000
 0083E852 000000C9
 D2000000 00000000
 
-[No Random Battles(R:On/L:Off)]
+[No Random Battles(R:On/L:Off. Have this code off when talking to the old man in Viridian City.)]
 D3000000 08000000
 DD000000 00000100
 208F602D 000000C9
