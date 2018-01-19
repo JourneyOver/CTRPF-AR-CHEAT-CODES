@@ -12,3 +12,12 @@ http://www.fort42.com/gateshark/game1348/
 [65,535 Points (LB + Up)]
 DD000000 00000240
 10364A80 0000FFFF
+
+[99,999 Points]
+00364A80 0001869F
+
+[No Crashes-Falls]
+203648C0 00000000
+
+[Low Time]
+203648D5 00000000
