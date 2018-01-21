@@ -1,0 +1,8 @@
+Best of Mahjong (EUR)
+000400000012C300
+CTR-JVMP
+Created by Smoker1
+--------------------------
+
+[Infinite Hints]
+28058930 00000063
