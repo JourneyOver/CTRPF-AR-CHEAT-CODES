@@ -1,0 +1,11 @@
+[Healing Fruit x99 v1.1 Citra]
+00617098 00000063
+
+[Vulnerary (Small) x99 v1.1 Citra]
+00617070 00000063
+
+[Roseberry x99 v1.1 Citra]
+006160A8 00000063
+
+[Fruit Shop Item 1 x99 v1.1 Citra]
+005E9666 00000063
