@@ -1,11 +1,38 @@
+[Cactus Pulp x99 v1.1 Citra]
+00616170 00000063
+
 [Healing Fruit x99 v1.1 Citra]
 00617098 00000063
 
 [Vulnerary (Small) x99 v1.1 Citra]
 00617070 00000063
 
+[Vulnerary (Medium) x99 v1.1 Citra]
+00617078 00000063
+
 [Roseberry x99 v1.1 Citra]
 006160A8 00000063
+
+[Eagle Mirror x99 v1.1 Citra]
+00615F60 00000063
+
+[Darkness Ring x99 v1.1 Citra]
+00615E28 00000063
+
+[Desert Turbant x99 v1.1 Citra]
+00615C00 00000063
+
+[Nut Ring x99 v1.1 Citra]
+00615E20 00000063
+
+[Transparent Wing x99 v1.1 Citra]
+006163C8 00000063
+
+[Glass Stone x99 v1.1 Citra]
+00616148 00000063
+
+[Whirlybead x99 v1.1 Citra]
+006161E0 00000063
 
 [Fruit Shop Item 1 x99 v1.1 Citra]
 005E9666 00000063
