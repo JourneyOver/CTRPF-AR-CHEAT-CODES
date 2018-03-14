@@ -120,6 +120,7 @@ or
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
 6. If it gives you error, try Deleting the `CTRPFData.bin` if it exists.
 7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) or [GameHacking](https://gamehacking.org/system/3ds) and see if they possibly have it.
+8. If by chance you can't get `CTRPluginFramework` to come up after loading the game and having `plugin loaded` show, try using the `ActionReplay_ALT`.
 
 \--
 
