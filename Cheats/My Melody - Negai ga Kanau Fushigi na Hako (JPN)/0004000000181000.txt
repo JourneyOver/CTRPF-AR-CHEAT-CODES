@@ -1,6 +1,6 @@
 [Max Points v1.0 Citra]
 0032AE0C 0098967F
 
-[Invincible v1.0 Citra (only enable in a level)]
+[Invincible v1.0 Citra (enable in a level, disable after finishing it)]
 080266E0 00000005
 08026ADC 00000005
