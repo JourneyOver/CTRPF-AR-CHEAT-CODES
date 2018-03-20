@@ -1,5 +1,9 @@
 # [Database] CTRPF AR CHEAT CODES
 
+# Notice
+
+<b>Code updates will be on hold for a unknown time frame as I figure out a couple things. As [Sharkive](https://github.com/BernardoGiordano/Sharkive) is now back in production there may be some changes to my repository that are going to be made moving forward. In a few days or so I will post an update on where/how things stand [here](https://gbatemp.net/threads/database-ctrpf-ar-cheat-codes.493220).</b>
+
 ## How to use
 
 ### Using Luma3DS with Plugin Loader

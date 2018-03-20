@@ -1,0 +1,6 @@
+
+
+[Drop Piece to Clear Lines(The piece must be dropped on the left side of the board.)]
+D3000000 08000000
+2080216E 00000000
+D2000000 00000000
