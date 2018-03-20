@@ -1,5 +1,9 @@
 # [Database] CTRPF AR CHEAT CODES
 
+# Notice
+
+<b>Code updates will be on hold for a unknown time frame as I figure out a couple things. As [Sharkive](https://github.com/BernardoGiordano/Sharkive) is now back in production there may be some changes to my repository that are going to be made moving forward. In a few days or so I will post an update on where/how things stand [here](https://gbatemp.net/threads/database-ctrpf-ar-cheat-codes.493220).</b>
+
 ## How to use
 
 ### Using Luma3DS with Plugin Loader
@@ -120,6 +124,7 @@ or
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
 6. If it gives you error, try Deleting the `CTRPFData.bin` if it exists.
 7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) or [GameHacking](https://gamehacking.org/system/3ds) and see if they possibly have it.
+8. If by chance you can't get `CTRPluginFramework` to come up after loading the game and having `plugin loaded` show, try using the `ActionReplay_ALT`.
 
 \--
 
