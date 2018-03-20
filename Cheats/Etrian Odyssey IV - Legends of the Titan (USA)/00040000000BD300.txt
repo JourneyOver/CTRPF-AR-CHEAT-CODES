@@ -1,9 +1,4 @@
-Etrian Odyssey IV: Legends of the Titan (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game239/
-----------------------------------------------------
 
 [Max Money]
 08205DC8 05F5E0FF

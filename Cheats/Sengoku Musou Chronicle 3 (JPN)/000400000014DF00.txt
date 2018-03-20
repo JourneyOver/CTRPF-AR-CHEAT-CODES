@@ -1,9 +1,4 @@
-Sengoku Musou Chronicle 3 (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1410/
-----------------------------------------------------
 
 [Rembu Point 9999999(ver1.0)]
 005F99E0 0098967F

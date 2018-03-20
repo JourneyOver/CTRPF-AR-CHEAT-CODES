@@ -1,9 +1,4 @@
-Pokemon Crystal (GBC) (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1103/
-----------------------------------------------------
 
 [Use Bike (Press START)]
 DD000000 00000008

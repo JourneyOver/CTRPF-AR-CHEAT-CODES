@@ -1,9 +1,4 @@
-Metal Max 4 - Gekkou no Diva (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game563/
-----------------------------------------------------
 
 [NO1HP no reduce]
 DA000000 003D3BBC

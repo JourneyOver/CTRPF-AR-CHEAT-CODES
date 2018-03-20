@@ -1,9 +1,4 @@
-StreetPass Mii Plaza (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1832/
-----------------------------------------------------
 
 [Tickets x65535]
 D3000000 10000000

@@ -1,9 +1,4 @@
-Gyakuten Saiban 123: Naruhodo Selection (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game877/
-----------------------------------------------------
 
 [Chapter 1 Unlimited Error]
 003B1CD3 00000006

@@ -1,9 +1,4 @@
-Labyrinth no Kanata (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game355/
-----------------------------------------------------
 
 [99999 Maximum Magic Points]
 08092328 0001869F

@@ -1,9 +1,4 @@
-Fire Emblem Fates: Birthright (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1868/
-----------------------------------------------------
 
 [(SELECT+Y)Max Money v1.0]
 DD000000 00000804

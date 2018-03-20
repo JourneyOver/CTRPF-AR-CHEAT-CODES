@@ -1,9 +1,4 @@
-One Piece Unlimited Cruise SP (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game127/
-----------------------------------------------------
 
 [Max Health Luffy (Press L)]
 DD000000 00000200

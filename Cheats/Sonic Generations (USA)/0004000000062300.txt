@@ -1,9 +1,4 @@
-Sonic Generations (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game41/
-----------------------------------------------------
 
 [Freeze timer]
 00571928 00000000

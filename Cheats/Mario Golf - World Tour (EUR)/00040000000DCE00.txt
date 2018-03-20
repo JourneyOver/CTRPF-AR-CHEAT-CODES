@@ -1,9 +1,4 @@
-Mario Golf World Tour (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game935/
-----------------------------------------------------
 
 [9999999 GP]
 0067E828 0098967F

@@ -1,9 +1,4 @@
-Bravely Second: End Layer (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1894/
-----------------------------------------------------
 
 [Money and infinite]
 28FDC878 0000007F

@@ -1,9 +1,4 @@
-Fantasy Life (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1151/
-----------------------------------------------------
 
 [9.999.999 Dosh Max/Inf Money]
 00725C0C 0098967F

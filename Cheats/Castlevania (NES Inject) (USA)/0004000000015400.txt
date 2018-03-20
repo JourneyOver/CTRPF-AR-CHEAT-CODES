@@ -1,9 +1,4 @@
-Castlevania (NES) (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1882/
-----------------------------------------------------
 
 [Instant Kill]
 0884C132 00000085

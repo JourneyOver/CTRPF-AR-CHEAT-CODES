@@ -1,9 +1,4 @@
-Story of Seasons (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1696/
-----------------------------------------------------
 
 [Set money to 4 million]
 084CF9E0 003D0900

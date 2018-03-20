@@ -1,9 +1,4 @@
-Demon King Box (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1170/
-----------------------------------------------------
 
 [All Food x999]
 C0000000 00000021

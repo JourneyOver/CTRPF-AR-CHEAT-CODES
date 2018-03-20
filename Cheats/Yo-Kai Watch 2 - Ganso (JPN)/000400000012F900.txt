@@ -1,9 +1,4 @@
-Youkai Watch 2: Ganso (JPN), Youkai Watch 2: Ganso (Rev03) (JPN), Youkai Watch 2: Ganso (Rev02) (JPN), Youkai Watch 2: Ganso (Rev01) (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1062/, http://www.fort42.com/gateshark/game1220/, http://www.fort42.com/gateshark/game1223/, http://www.fort42.com/gateshark/game1224/
-----------------------------------------------------
 
 [Max Money]
 08722BF8 000F423F

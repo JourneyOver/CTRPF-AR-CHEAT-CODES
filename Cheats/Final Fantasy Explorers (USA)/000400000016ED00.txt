@@ -1,9 +1,4 @@
-Final Fantasy Explorers (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1852/
-----------------------------------------------------
 
 [9,999,999 gil]
 6072E168 00000000

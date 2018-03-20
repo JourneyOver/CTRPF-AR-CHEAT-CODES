@@ -1,9 +1,4 @@
-Donkey Kong Country Returns 3D (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game232/
-----------------------------------------------------
 
 [Infinite Health, Slot1]
 08A6C2F4 00000003

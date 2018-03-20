@@ -1,9 +1,4 @@
-Harvest Moon 3D - A New Beginning (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game257/
-----------------------------------------------------
 
 [Max money]
 085AF0DC FFFFFF5F

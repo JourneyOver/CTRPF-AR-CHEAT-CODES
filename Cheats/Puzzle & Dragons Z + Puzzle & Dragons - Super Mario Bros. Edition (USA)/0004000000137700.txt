@@ -1,9 +1,4 @@
-Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1847/
-----------------------------------------------------
 
 [PADZ: All Eggs x96]
 C0000000 00000040

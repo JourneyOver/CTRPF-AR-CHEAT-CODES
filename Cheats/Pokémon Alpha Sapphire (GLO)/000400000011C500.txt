@@ -1,9 +1,4 @@
-Pokemon Alpha Sapphire (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1332/
-----------------------------------------------------
 
 [Inf. Money (9,999,999)]
 08C71DB0 0098967F

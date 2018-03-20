@@ -1,9 +1,4 @@
-Pokemon Omega Ruby (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1333/
-----------------------------------------------------
 
 [Max/Inf HP v1.4]
 481FB58C 08200000

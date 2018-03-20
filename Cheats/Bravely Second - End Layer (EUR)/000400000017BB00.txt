@@ -1,9 +1,4 @@
-Bravely Second: End Layer (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1873/
-----------------------------------------------------
 
 [Max Pg O3DS]
 08FDC878 0098967F

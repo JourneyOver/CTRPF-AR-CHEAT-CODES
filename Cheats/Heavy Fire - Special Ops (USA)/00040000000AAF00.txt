@@ -1,8 +1,4 @@
-Heavy Fire-Special Ops (USA)
-00040000000AAF00
-CTR-JHFE
-Created by Smoker 1
----------------------------------
+
 
 [Infinite Health]
 602DBD34 00000000

@@ -1,9 +1,4 @@
-Nekketsu Kouha KunioKun Special (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game755/
-----------------------------------------------------
 
 [Max Money]
 08001914 000F423F

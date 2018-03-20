@@ -1,9 +1,4 @@
-Pokemon Ultra Sun (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1964/
-----------------------------------------------------
 
 [100%Catch(Gateshark2NTR only)]
 00666FDC E5D00008

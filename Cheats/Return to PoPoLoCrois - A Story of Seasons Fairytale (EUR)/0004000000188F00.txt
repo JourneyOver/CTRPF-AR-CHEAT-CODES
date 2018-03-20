@@ -1,9 +1,4 @@
-Return to PopoloCrois: A STORY OF SEASONS Fairytale (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1870/
-----------------------------------------------------
 
 [Max Money]
 003735C4 05F5E0FF

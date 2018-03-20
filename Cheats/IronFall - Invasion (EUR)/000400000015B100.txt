@@ -1,6 +1,4 @@
-IronFall - Invasion (EUR)
-Created by Smoker1
-----------------------------------------------------
+
 
 [Infinite Ammo-Rifle]
 D3000000 30000000

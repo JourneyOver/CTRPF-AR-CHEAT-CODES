@@ -1,9 +1,4 @@
-Steamworld Dig (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1055/
-----------------------------------------------------
 
 [5000 Gold (in shop)]
 09019CC0 00001388

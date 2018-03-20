@@ -1,9 +1,4 @@
-Monster Hunter: Generations (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1907/
-----------------------------------------------------
 
 [Armor skill extension slot +24 v1.0]
 00000000 00000000

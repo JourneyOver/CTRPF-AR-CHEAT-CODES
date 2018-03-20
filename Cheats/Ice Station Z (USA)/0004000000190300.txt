@@ -1,9 +1,4 @@
-Ice Station Z (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1965/
-----------------------------------------------------
 
 [Drive Vehicles Without Fuel]
 D3000000 00490844

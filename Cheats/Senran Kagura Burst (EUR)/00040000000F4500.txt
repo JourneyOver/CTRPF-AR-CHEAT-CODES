@@ -1,9 +1,4 @@
-Senran Kagura Burst (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game657/
-----------------------------------------------------
 
 [Infinite Health]
 104B1B4F 000043AA

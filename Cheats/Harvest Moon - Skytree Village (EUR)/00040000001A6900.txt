@@ -1,9 +1,4 @@
-Harvest Moon: Skytree Village (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1959/
-----------------------------------------------------
 
 [65535 Gold]
 09070624 0000FFFF

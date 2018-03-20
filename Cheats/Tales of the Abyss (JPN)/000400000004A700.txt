@@ -1,9 +1,4 @@
-Tales of the Abyss (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game226/
-----------------------------------------------------
 
 [Max STR Luke (Press R)]
 DD000000 00000100

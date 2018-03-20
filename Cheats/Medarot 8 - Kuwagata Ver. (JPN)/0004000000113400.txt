@@ -1,9 +1,4 @@
-Medarot 8: Kuwagata Ver. (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1132/
-----------------------------------------------------
 
 [Max Money]
 0832C180 05F5E0FF

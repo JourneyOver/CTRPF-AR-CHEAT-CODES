@@ -1,9 +1,4 @@
-Youkai Watch 2: Honke (JPN), Youkai Watch 2: Honke (Rev01) (JPN), Youkai Watch 2: Honke (Rev03) (JPN), Youkai Watch 2: Honke (Rev02) (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1060/, http://www.fort42.com/gateshark/game1219/, http://www.fort42.com/gateshark/game1221/, http://www.fort42.com/gateshark/game1222/
-----------------------------------------------------
 
 [Max Money]
 08724BF8 000F423F

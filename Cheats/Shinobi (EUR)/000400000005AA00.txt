@@ -1,9 +1,4 @@
-Shinobi (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game54/
-----------------------------------------------------
 
 [Max Score, No Save File]
 58314F90 00005544

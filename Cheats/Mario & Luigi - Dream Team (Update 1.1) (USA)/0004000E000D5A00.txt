@@ -1,9 +1,4 @@
-Mario & Luigi - Dream Team (USA), Mario and Luigi: Dream Team Bros. Update 1.1 (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game477/, http://www.fort42.com/gateshark/game1879/
-----------------------------------------------------
 
 [Max EXP]
 106E8448 0000F23F

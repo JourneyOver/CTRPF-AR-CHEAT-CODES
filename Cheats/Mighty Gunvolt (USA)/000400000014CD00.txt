@@ -1,9 +1,4 @@
-Mighty Gunvolt (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1159/
-----------------------------------------------------
 
 [99999999 Pts, Game v1.0]
 085A72B0 05F5E0FF

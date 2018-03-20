@@ -1,9 +1,4 @@
-I Love my Pets (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game602/
-----------------------------------------------------
 
 [Increased FOV]
 0010E0AC 3E800000

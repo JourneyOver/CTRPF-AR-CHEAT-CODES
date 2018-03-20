@@ -1,9 +1,4 @@
-Mario & Luigi - Paper Jam Bros. (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1874/
-----------------------------------------------------
 
 [999,999 Coins]
 007BB1C4 000F423F

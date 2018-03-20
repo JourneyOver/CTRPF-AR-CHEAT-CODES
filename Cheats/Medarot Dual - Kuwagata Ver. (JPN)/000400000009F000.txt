@@ -1,9 +1,4 @@
-Medarot Dual - Kuwagata Ver. (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game613/
-----------------------------------------------------
 
 [Max Money]
 004ED100 000F423F

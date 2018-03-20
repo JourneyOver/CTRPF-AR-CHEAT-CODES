@@ -1,9 +1,4 @@
-Sonic Generations (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game142/
-----------------------------------------------------
 
 [Max Lives]
 00571930 00000063

@@ -1,9 +1,4 @@
-Nekketsu Kouha Kunio-Kun SP - Rantou Kyousoukyoku (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game766/
-----------------------------------------------------
 
 [Max Money]
 08002728 000F423F

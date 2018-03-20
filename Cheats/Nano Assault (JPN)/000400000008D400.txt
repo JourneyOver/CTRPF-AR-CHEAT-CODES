@@ -1,9 +1,4 @@
-Nano Assault (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game225/
-----------------------------------------------------
 
 [Infinite Nano Coins]
 08AF5A6C 00000063

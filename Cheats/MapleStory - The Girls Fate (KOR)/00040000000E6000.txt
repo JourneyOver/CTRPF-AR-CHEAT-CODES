@@ -1,9 +1,4 @@
-MapleStory: The Girls Fate (KOR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game649/
-----------------------------------------------------
 
 [Max Money]
 088D3A08 000F423F

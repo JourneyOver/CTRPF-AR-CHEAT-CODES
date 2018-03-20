@@ -1,9 +1,4 @@
-Digimon World Re-Digitize: Decode (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game567/
-----------------------------------------------------
 
 [Max Money]
 004FB6B4 0098967F

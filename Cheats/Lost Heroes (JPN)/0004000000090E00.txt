@@ -1,9 +1,4 @@
-Lost Heroes (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game907/
-----------------------------------------------------
 
 [Max Money]
 004828FC 0098967F

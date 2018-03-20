@@ -1,7 +1,4 @@
-Deer Drive Legends (USA)
-CTR-AD2E
-Created by Smoker1
-----------------------------------------------------
+
 
 [Time at 1:25]
 D3000000 10000000

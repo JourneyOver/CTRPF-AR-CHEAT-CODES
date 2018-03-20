@@ -1,9 +1,4 @@
-Bravely Default (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game489/
-----------------------------------------------------
 
 [Ringabel Mana 9999]
 180AF9C0 0000270F

@@ -1,9 +1,4 @@
-Kenka Banchou 6 Soul and Blood (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1524/
-----------------------------------------------------
 
 [Max Money]
 0808F124 05F5E0FF

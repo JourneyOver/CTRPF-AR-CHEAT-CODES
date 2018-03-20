@@ -1,9 +1,4 @@
-Sonic Lost World (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game625/
-----------------------------------------------------
 
 [Max Rc Vehicle (in stage)]
 081A9604 00000009

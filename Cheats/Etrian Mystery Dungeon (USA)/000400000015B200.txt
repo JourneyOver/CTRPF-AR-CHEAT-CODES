@@ -1,9 +1,4 @@
-Etrian Mystery Dungeon (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1722/
-----------------------------------------------------
 
 [Max Money]
 007E7E10 000F423F

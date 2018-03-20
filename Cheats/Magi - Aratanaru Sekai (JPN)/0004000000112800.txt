@@ -1,9 +1,4 @@
-Magi: Aratanaru Sekai (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game667/
-----------------------------------------------------
 
 [Max Money]
 0812CDC8 000F423F

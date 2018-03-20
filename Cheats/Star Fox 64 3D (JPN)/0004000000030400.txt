@@ -1,9 +1,4 @@
-Star Fox 64 3D (JPN), Star Fox 64 3D (Rev03) (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game414/, http://www.fort42.com/gateshark/game1717/
-----------------------------------------------------
 
 [Max Silver Ring in Training]
 00681F6C 000003E7

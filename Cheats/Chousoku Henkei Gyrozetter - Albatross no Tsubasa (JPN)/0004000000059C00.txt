@@ -1,9 +1,4 @@
-Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game509/
-----------------------------------------------------
 
 [6 POINTS CENTER]
 D3000000 10000000

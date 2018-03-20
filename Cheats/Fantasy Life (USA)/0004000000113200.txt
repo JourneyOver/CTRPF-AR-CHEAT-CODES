@@ -1,9 +1,4 @@
-Fantasy Life (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1321/
-----------------------------------------------------
 
 [Inf. Dosh (9,999,999)]
 00720C0C 0098967F

@@ -1,9 +1,4 @@
-Metroid Samus Returns (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1962/
-----------------------------------------------------
 
 [Invincible L-Start/R-Start]
 DD000000 00000208

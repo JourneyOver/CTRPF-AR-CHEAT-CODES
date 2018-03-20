@@ -1,9 +1,4 @@
-Pokemon Moon (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1922/
-----------------------------------------------------
 
 [Raises the all Status of a Pokemon by 6 stage(Fix) v1.0]
 D3000000 00000000

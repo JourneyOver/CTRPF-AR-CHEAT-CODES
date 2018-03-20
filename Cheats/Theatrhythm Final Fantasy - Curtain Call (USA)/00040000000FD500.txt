@@ -1,9 +1,4 @@
-Theatrhythm Final Fantasy: Curtain Call (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1142/
-----------------------------------------------------
 
 [Zack Max EXP, HP, Stats & CP (L+R)]
 DD000000 00000300

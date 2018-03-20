@@ -1,9 +1,4 @@
-Fire Emblem Echoes: Shadows of Valentia (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1957/
-----------------------------------------------------
 
 [Change casual mode v1.0]
 B05C5CF4 00000000

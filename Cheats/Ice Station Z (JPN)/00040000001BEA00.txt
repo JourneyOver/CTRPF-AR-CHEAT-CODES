@@ -1,9 +1,4 @@
-Ice Station Z (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1967/
-----------------------------------------------------
 
 [Infinite Health]
 00483614 0000270F

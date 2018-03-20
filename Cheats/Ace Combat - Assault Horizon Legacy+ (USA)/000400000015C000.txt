@@ -1,8 +1,4 @@
-Ace Combat-Assault Horizon Legacy+
-000400000015C000
-CTR-BCRE
-Created by Smoker1
------------------------------------------
+
 
 [Infinite Missiles]
 603B8B80 00000000

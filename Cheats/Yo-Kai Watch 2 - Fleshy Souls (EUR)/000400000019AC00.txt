@@ -1,9 +1,4 @@
-Yo-Kai Watch 2: Fleshy Souls (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1953/
-----------------------------------------------------
 
 [Infinite Stamina]
 28001E4E 00000080

@@ -1,9 +1,4 @@
-Dragon Quest Monsters - Terry no Wonderland 3D (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game195/
-----------------------------------------------------
 
 [Max Money]
 0058649C 000F423F

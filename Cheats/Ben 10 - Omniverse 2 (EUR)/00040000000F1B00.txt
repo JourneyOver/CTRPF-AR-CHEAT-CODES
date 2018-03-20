@@ -1,9 +1,4 @@
-Ben 10: Omniverse 2 (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game596/
-----------------------------------------------------
 
 [Infinite Health]
 6039E258 00000000

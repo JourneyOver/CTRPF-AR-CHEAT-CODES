@@ -1,9 +1,4 @@
-Etrian Odyssey V: Beyond the Myth (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1963/
-----------------------------------------------------
 
 [5x experience after battle]
 0045EFC0 EE102A10

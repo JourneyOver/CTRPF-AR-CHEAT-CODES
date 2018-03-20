@@ -1,9 +1,4 @@
-Resident Evil - Revelations (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game103/
-----------------------------------------------------
 
 [999.999 BP]
 D3000000 08000000

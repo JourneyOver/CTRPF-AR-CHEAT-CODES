@@ -1,9 +1,4 @@
-Shovel Knight (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1312/
-----------------------------------------------------
 
 [Max Money, Game v1.2]
 0043635C 0001869F

@@ -1,9 +1,4 @@
-Mario Party - Island Tour (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game593/
-----------------------------------------------------
 
 [Max Money]
 00484ED4 000F423F

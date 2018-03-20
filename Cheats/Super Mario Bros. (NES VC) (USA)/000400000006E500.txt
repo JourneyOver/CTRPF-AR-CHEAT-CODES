@@ -1,9 +1,4 @@
-Super Mario Bros. (NES) (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1080/
-----------------------------------------------------
 
 [99 Coins]
 2883684E 00000063

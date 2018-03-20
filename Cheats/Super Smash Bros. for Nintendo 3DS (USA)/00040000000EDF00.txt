@@ -1,9 +1,4 @@
-Super Smash Bros. for Nintendo 3DS (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1192/
-----------------------------------------------------
 
 [Character Modifier]
 20C959C6 00000000

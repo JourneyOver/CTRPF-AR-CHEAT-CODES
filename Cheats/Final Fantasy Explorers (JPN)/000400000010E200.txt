@@ -1,9 +1,4 @@
-Final Fantasy Explorers (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1450/
-----------------------------------------------------
 
 [Monster3 Infinite Health]
 980CF12E F7FF0800

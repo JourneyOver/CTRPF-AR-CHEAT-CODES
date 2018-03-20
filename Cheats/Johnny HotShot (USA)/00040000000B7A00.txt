@@ -1,9 +1,4 @@
-Johnny HotShot (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1583/
-----------------------------------------------------
 
 [Infinite Ammo]
 28006EF8 0000000C

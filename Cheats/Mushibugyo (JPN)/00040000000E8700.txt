@@ -1,9 +1,4 @@
-Mushibugyo (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game790/
-----------------------------------------------------
 
 [Jinbei Max Exp.]
 00353B68 000FFFFF

@@ -1,9 +1,4 @@
-The Legend of Dark Witch (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1252/
-----------------------------------------------------
 
 [inf hearts]
 210E70D0 0000007F

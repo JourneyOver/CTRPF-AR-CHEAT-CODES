@@ -1,9 +1,4 @@
-The Legend of Legacy (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1805/
-----------------------------------------------------
 
 [Character Slot 1 Inf HP]
 0032F9A8 0000FFFF

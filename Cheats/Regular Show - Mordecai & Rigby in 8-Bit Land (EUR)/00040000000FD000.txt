@@ -1,9 +1,4 @@
-Regular Show - Mordecai and Rigby in 8Bit Land (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game581/
-----------------------------------------------------
 
 [Unlock all VHS (beat a level)]
 D3000000 10000000
