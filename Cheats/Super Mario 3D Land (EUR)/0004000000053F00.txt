@@ -1,9 +1,4 @@
-Super Mario 3D Land (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game4/
-----------------------------------------------------
 
 [Max Infinite TIme Rev02]
 D3000000 00000000

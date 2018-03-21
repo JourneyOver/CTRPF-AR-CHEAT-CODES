@@ -1,9 +1,4 @@
-LEGO Star Wars III - The Clone Wars (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game73/
-----------------------------------------------------
 
 [Infinite health]
 202CADD9 00000004

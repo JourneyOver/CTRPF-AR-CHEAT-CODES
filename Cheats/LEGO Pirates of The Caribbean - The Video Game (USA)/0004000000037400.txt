@@ -1,9 +1,4 @@
-LEGO Pirates of The Caribbean - The Video Game (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game71/
-----------------------------------------------------
 
 [99999999 Studs]
 0030B390 05F5E0FF

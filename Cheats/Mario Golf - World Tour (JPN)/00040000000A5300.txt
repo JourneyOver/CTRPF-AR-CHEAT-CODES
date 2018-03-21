@@ -1,9 +1,4 @@
-Mario Golf World Tour (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game938/
-----------------------------------------------------
 
 [9999999 GP]
 0067E828 0098967F

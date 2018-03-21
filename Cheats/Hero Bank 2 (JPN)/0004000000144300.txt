@@ -1,9 +1,4 @@
-Hero Bank 2 (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1340/
-----------------------------------------------------
 
 [Max Money]
 080C2C00 D4A50FFF

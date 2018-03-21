@@ -1,9 +1,4 @@
-Etrian Odyssey Untold - The Millennium Girl (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game426/
-----------------------------------------------------
 
 [Exp After Battle]
 1042F674 00007FFF

@@ -1,9 +1,4 @@
-Stella Glow (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1787/
-----------------------------------------------------
 
 [Items x99 (Incomplete)]
 080D4D90 00000063

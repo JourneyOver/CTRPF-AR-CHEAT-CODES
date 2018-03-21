@@ -1,9 +1,4 @@
-Adventure Bar Story (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1677/
-----------------------------------------------------
 
 [Max/Inf Money]
 08128A60 0098967F

@@ -1,8 +1,4 @@
-Heavy Fire-Black Arms 3D (EUR)
-00040000000FBE00
-CTR-JHVP
-Created by Smoker1
---------------------------------------
+
 
 [Infinite Ammo 99Rnds]
 603200AC 00000000

@@ -1,9 +1,4 @@
-Justice Chronicles (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1896/
-----------------------------------------------------
 
 [Kline Max EXP]
 080CCA24 0098967F

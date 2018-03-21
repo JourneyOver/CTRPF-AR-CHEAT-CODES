@@ -1,9 +1,4 @@
-LBX: Little Battlers eXperience (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1825/
-----------------------------------------------------
 
 [Infinite Health (1vs1)]
 08A8F020 7FFFFFFF

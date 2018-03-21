@@ -1,9 +1,4 @@
-Zoo Resort 3D (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game412/
-----------------------------------------------------
 
 [Max/Inf Money]
 003BD428 000F423F

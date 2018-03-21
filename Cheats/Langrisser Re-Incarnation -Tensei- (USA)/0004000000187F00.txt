@@ -1,9 +1,4 @@
-Langrisser Re:Incarnation -TENSEI- (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1895/
-----------------------------------------------------
 
 [All Items x99]
 C0000000 0000003C

@@ -1,9 +1,3 @@
-Code of Princess (USA)
-Downloaded From Fort42: GateShark
-
-Credits and instructions:
-http://www.fort42.com/gateshark/game256/
-----------------------------------------------------
 
 [Max G]
 00530178 05F5E0FF

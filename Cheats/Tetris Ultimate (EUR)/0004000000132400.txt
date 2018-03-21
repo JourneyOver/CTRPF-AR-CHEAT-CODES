@@ -1,9 +1,4 @@
-Tetris Ultimate (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1285/
-----------------------------------------------------
 
 [Max Record points]
 08261F0C FFFFFFFF

@@ -1,9 +1,4 @@
-Yo-Kai Watch 2: Fleshy Souls (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1924/
-----------------------------------------------------
 
 [Infinite Crank-A-Kai Spins]
 0875DC04 00000003

@@ -1,9 +1,4 @@
-LEGO The Lord of the Rings (GER)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game293/
-----------------------------------------------------
 
 [Max studs]
 00383168 FFFFFFFF

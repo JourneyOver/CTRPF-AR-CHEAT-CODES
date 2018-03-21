@@ -1,9 +1,4 @@
-Retro City Rampage: DX (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1188/
-----------------------------------------------------
 
 [Some Cars Are Out of Control]
 003AFFC2 00006FFF

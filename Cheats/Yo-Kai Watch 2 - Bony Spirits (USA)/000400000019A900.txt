@@ -1,9 +1,4 @@
-Yo-Kai Watch 2: Bony Spirits (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1923/
-----------------------------------------------------
 
 [All non Equipment /Key item x99]
 5FFFA000 00000FE0

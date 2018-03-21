@@ -1,9 +1,4 @@
-Zelda II: The Adventure of Link (NES) (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1083/
-----------------------------------------------------
 
 [Max Life Level]
 2886CC81 00000008

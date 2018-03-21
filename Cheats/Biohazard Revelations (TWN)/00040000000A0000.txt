@@ -1,9 +1,4 @@
-Biohazard Revelations (TWN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game219/
-----------------------------------------------------
 
 [Infinite HP]
 4852FEF8 08000000

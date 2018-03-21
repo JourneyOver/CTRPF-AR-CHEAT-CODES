@@ -1,9 +1,4 @@
-Mega Man Legacy Collection (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1887/
-----------------------------------------------------
 
 [Infinite Health (Megaman 1)]
 28E342B5 0000001C

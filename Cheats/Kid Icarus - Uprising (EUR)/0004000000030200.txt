@@ -1,9 +1,4 @@
-Kid Icarus - Uprising (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game129/
-----------------------------------------------------
 
 [65,535 Hearts]
 20EE9820 0000FFFF

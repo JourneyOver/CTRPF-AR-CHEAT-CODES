@@ -1,9 +1,4 @@
-Journey to Kreisia (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1917/
-----------------------------------------------------
 
 [Quick Level Gain]
 003D6154 00000001

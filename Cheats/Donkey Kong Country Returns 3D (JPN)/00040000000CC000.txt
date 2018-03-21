@@ -1,9 +1,4 @@
-Donkey Kong Country Returns 3D (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game757/
-----------------------------------------------------
 
 [500 Banana Coins, Slot1]
 08A6BFF0 000001F4

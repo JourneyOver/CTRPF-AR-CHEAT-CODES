@@ -1,9 +1,4 @@
-Theatrhythm Final Fantasy: Curtain Call (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1145/
-----------------------------------------------------
 
 [Max Rhythmia]
 0056F79C 000F423F

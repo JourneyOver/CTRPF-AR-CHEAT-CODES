@@ -1,9 +1,4 @@
-Zombie Slayer Diox (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1579/
-----------------------------------------------------
 
 [Zero Misses]
 101D95F4 00000000

@@ -1,9 +1,4 @@
-Pokemon Super Mystery Dungeon (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1782/
-----------------------------------------------------
 
 [9999 Gold Bars]
 00A14AD8 0000270F

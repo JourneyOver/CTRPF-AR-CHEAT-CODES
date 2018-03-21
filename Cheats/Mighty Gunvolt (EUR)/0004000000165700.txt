@@ -1,9 +1,4 @@
-Mighty Gunvolt (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1718/
-----------------------------------------------------
 
 [99999999 Pts, Game v2.0.0]
 085A70B0 05F5E0FF

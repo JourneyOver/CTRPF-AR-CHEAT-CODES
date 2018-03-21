@@ -1,9 +1,4 @@
-Youkai Watch 2: Shinuchi (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1418/
-----------------------------------------------------
 
 [v1.2 - Infinite Youkai Gasha (capsule machine)]
 28726C18 000000FF

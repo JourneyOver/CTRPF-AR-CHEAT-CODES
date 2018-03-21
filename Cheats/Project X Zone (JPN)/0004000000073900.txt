@@ -1,9 +1,4 @@
-Project X Zone (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game211/
-----------------------------------------------------
 
 [Max exp. all characters]
 C0000000 00000019

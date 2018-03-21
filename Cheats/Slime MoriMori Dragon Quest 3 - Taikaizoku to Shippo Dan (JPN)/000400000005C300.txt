@@ -1,9 +1,4 @@
-Slime MoriMori Dragon Quest 3 - Taikaizoku to Shippo Dan (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game197/
-----------------------------------------------------
 
 [Max Money]
 0817E2D0 0098967F

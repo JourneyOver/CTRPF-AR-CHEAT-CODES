@@ -1,9 +1,4 @@
-Metroid (NES) (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1078/
-----------------------------------------------------
 
 [Push R MoonJump Straight Up Only]
 DD000000 00000100

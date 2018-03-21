@@ -1,9 +1,4 @@
-Sonic Lost World (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game462/
-----------------------------------------------------
 
 [Max Lives]
 081E8F44 00000063

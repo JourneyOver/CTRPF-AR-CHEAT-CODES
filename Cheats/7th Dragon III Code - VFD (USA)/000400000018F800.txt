@@ -1,9 +1,4 @@
-7th Dragon III Code: VFD (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1949/
-----------------------------------------------------
 
 [Max AZ v1.0]
 00310C2C 000F423F

@@ -1,3 +1,5 @@
+
+
 [1st Player Max Magic]
 081B7B78 0001869F
 081B7C84 0001869F

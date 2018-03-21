@@ -1,9 +1,4 @@
-Super Mario Bros. Deluxe (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game688/
-----------------------------------------------------
 
 [99 Coins]
 2892CBC2 00000063

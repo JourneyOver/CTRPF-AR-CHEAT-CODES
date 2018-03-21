@@ -1,9 +1,4 @@
-Pokemon Y (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game443/
-----------------------------------------------------
 
 [Max/Inf HP v1.5]
 481FB284 08200000

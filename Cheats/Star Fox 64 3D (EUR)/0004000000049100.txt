@@ -1,9 +1,4 @@
-StarFox 64 3D (EUR), Star Fox 64 3D Update 1.2 (EUR), Star Fox 64 3D Update 1.3 (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game5/, http://www.fort42.com/gateshark/game1888/, http://www.fort42.com/gateshark/game1889/
-----------------------------------------------------
 
 [Infinite Lives]
 20685BE8 00000063

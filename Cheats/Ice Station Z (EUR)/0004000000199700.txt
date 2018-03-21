@@ -1,9 +1,4 @@
-Ice Station Z (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1966/
-----------------------------------------------------
 
 [Infinite Health]
 00483614 00000064

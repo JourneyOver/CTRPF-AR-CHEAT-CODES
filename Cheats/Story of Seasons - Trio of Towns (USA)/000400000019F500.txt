@@ -1,9 +1,4 @@
-Story of Seasons: Trio of Towns (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1945/
-----------------------------------------------------
 
 [Season Modifier (Not fully tested)]
 00799532 00000000

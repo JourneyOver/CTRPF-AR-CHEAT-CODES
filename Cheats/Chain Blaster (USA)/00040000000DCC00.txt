@@ -1,9 +1,4 @@
-Chain Blaster (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1415/
-----------------------------------------------------
 
 [Max Chain Blast Gauge]
 D3000000 10000000

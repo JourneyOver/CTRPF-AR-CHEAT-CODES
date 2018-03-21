@@ -1,9 +1,4 @@
-StreetPass Mii Plaza (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1830/
-----------------------------------------------------
 
 [Hat Changer]
 D3000000 30000000

@@ -1,9 +1,4 @@
-Resident Evil - Revelations (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game77/
-----------------------------------------------------
 
 [Infinite Ammo]
 4852FEF8 08000000

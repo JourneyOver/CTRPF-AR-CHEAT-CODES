@@ -1,9 +1,4 @@
-1001 Spikes (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1409/
-----------------------------------------------------
 
 [1001 Lives (Story Mode)]
 102085B8 000003E9

@@ -1,9 +1,4 @@
-Nano Assault EX (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1270/
-----------------------------------------------------
 
 [Infinite Nano Coins]
 089FBF34 00000063

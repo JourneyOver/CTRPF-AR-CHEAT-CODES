@@ -1,9 +1,4 @@
-The Legend of Legacy (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1566/
-----------------------------------------------------
 
 [Max Money]
 0031E3D4 000F423F

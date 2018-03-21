@@ -1,9 +1,4 @@
-Mario Sports Superstars (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1946/
-----------------------------------------------------
 
 [Unlimited coins]
 D3000000 00000000

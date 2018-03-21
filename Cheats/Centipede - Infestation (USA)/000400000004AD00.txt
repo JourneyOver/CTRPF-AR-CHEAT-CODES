@@ -1,9 +1,4 @@
-Centipede - Infestation (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game147/
-----------------------------------------------------
 
 [Infinite Lives]
 403FD394 14200000

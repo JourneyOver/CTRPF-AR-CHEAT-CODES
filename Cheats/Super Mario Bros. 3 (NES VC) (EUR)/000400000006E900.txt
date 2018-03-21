@@ -1,9 +1,4 @@
-Super Mario Bros. 3 (NES) (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1059/
-----------------------------------------------------
 
 [99 Coins]
 288B00AE 00000063

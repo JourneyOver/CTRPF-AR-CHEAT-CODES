@@ -1,9 +1,4 @@
-Freakyforms Deluxe: Your Creations, Alive! (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game208/
-----------------------------------------------------
 
 [Max Coins]
 005CF928 0001869F

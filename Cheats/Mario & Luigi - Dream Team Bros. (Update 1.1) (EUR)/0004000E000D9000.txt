@@ -1,9 +1,4 @@
-Mario and Luigi: Dream Team Bros. Update 1.1 (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game694/
-----------------------------------------------------
 
 [Mario MAX Stats]
 006E841E 03E703E7

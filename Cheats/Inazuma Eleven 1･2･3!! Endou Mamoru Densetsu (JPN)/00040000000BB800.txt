@@ -1,9 +1,4 @@
-Inazuma Eleven 1・2・3!! Endou Mamoru Densetsu (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game780/
-----------------------------------------------------
 
 [Inaz.1 Max Money]
 0863A13C 000F423F

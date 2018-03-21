@@ -1,9 +1,4 @@
-Asphalt 3D (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game105/
-----------------------------------------------------
 
 [9999999 Money]
 0808B448 0098967F

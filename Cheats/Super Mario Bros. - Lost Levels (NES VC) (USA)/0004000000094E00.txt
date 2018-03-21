@@ -1,9 +1,4 @@
-Super Mario Bros.: Lost Levels (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1401/
-----------------------------------------------------
 
 [99 Coins]
 2885E84E 00000063

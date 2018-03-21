@@ -1,9 +1,4 @@
-Chibi-Robo! Photo Finder (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1728/
-----------------------------------------------------
 
 [Inf Watts]
 28002C12 000000FF

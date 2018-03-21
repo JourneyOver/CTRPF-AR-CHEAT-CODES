@@ -1,9 +1,4 @@
-Star Fox 64 3D (TWN), Star Fox 64 3D (CHN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game372/, http://www.fort42.com/gateshark/game1890/
-----------------------------------------------------
 
 [Infinite Bombs]
 207EA12C 00000003

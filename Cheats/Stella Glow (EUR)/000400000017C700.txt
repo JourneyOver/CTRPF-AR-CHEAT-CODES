@@ -1,9 +1,4 @@
-Stella Glow (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1880/
-----------------------------------------------------
 
 [Max Gold]
 080D4450 05F5E0FF

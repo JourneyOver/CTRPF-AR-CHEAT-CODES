@@ -1,9 +1,4 @@
-Kingdom Hearts 3D - Dream Drop Distance (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game196/
-----------------------------------------------------
 
 [Max Money]
 0056C808 0098967F

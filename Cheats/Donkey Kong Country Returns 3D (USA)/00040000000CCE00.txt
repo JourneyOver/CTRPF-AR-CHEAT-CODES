@@ -1,9 +1,4 @@
-Donkey Kong Country Returns 3D (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game237/
-----------------------------------------------------
 
 [Infinite Inventory Items, Slot1]
 08A6C22C 00000009

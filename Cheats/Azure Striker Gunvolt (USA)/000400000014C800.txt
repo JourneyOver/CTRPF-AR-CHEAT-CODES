@@ -1,9 +1,4 @@
-Azure Striker Gunvolt (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1158/
-----------------------------------------------------
 
 [Unlock All Items]
 C0000000 00000069

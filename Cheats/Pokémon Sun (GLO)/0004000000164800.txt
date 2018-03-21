@@ -1,9 +1,7 @@
-Pokemon Sun (GLO)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1920/
-----------------------------------------------------
+
+[No Softban v1.2 (restart to turn off)]
+2045DD70 00000001
 
 [Max Money v1.0]
 D3000000 30000000
@@ -315,9 +313,6 @@ D3000000 00000000
 0059580C E0000190
 00595810 E8BD8002
 0048F1EC EB041983
-
-[Wild Pokemon Modifier v1.0]
-00000000 00000000
 
 [(START+L)Wild Pokemon Shiny, (START+R)Disable v1.0]
 D3000000 00000000
@@ -1292,9 +1287,6 @@ DD000000 00000108
 005976B4 EA000000
 D0000000 00000000
 
-[Wild Pokemon Modifier v1.1]
-00000000 00000000
-
 [EXP x10 after battle(Includes figure of a decimal point) v1.1]
 D3000000 00000000
 00597700 E1D002B2
@@ -1591,9 +1583,6 @@ B0000024 00000000
 B0000004 00000000
 100037B0 0000270F
 D2000000 00000000
-
-[Walk & Run Speed Multiplier v1.2]
-00000000 00000000
 
 [(Hold R)Walk through Walls v1.2]
 0039E560 EB01E8DC
@@ -2020,12 +2009,6 @@ DD000000 00000108
 005976B4 EA000000
 D0000000 00000000
 
-[Wild Pokemon Modifier v1.2]
-00000000 00000000
-
-[EXP multiplier after battle(Includes figure of a decimal point) v1.2]
-00000000 00000000
-
 [Camera zoom out(SELECT+L)Enable, (SELECT+R)Disable v1.2]
 60597724 ED940A1C
 00597724 ED940A1C
@@ -2298,9 +2281,6 @@ E2833001 E1540003
 1AFFFFEE E8BD9FFF
 006AF954 0063FCB8
 002EC944 EB0AAC45
-
-[Poke Finder get point multiplier v1.2]
-00000000 00000000
 
 [Hold SELECT/START to view IVs/EVs on Pokemon Status Screen v1.2]
 58010EAC EBFFFCE7

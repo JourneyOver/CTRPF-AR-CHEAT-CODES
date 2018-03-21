@@ -1,9 +1,4 @@
-Pokemon Red (GB) (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1108/
-----------------------------------------------------
 
 [(L+A) Max Coins]
 DD000000 00000201

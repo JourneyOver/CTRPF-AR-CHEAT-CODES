@@ -1,9 +1,4 @@
-Mario Tennis Open (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game249/
-----------------------------------------------------
 
 [Select+UP All Items Bought]
 DD000000 00000044

@@ -1,9 +1,4 @@
-Dragon Ball Heroes: Ultimate Mission 2 (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1111/
-----------------------------------------------------
 
 [Max Coins]
 009FCDE4 0098967F

@@ -1,9 +1,4 @@
-Dragon Quest VII: Fragments of the Forgotten Past (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1914/
-----------------------------------------------------
 
 [Gold x999888]
 00581EC8 000F41D0

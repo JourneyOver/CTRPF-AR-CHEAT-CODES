@@ -1,9 +1,4 @@
-Senran Kagura 2: Deep Crimson (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1863/
-----------------------------------------------------
 
 [CPU Player Quick Level 50]
 D9000000 08344FBC

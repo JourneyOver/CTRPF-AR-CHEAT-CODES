@@ -1,9 +1,4 @@
-Steel Diver: Sub Wars (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game900/
-----------------------------------------------------
 
 [Torpedoes hits changer]
 603E2020 00000000

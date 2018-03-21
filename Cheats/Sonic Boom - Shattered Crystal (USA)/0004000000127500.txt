@@ -1,9 +1,4 @@
-Sonic Boom: Shattered Crystal (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1275/
-----------------------------------------------------
 
 [6 blueprint pieces in stage]
 1834FD6C 00000006

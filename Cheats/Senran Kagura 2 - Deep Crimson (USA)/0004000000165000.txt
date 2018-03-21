@@ -1,9 +1,4 @@
-Senran Kagura 2: Deep Crimson (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1941/
-----------------------------------------------------
 
 [CPU Player Infinite Ninja Arts]
 D9000000 08344F58

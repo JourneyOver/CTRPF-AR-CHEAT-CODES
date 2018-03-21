@@ -1,9 +1,4 @@
-Pokemon Mystery Dungeon - Gates to Infinity (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game318/
-----------------------------------------------------
 
 [Max Money]
 009B2EAC 0001869F

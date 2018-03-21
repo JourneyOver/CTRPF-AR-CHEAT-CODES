@@ -1,9 +1,4 @@
-Harvest Moon 3D - The Tale of Two Towns (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game48/
-----------------------------------------------------
 
 [Villager Affection Multiplier]
 94000130 FFFB0000

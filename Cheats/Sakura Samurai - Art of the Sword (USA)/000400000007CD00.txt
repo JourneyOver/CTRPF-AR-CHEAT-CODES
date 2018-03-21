@@ -1,9 +1,4 @@
-Sakura Samurai: Art of the Sword (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1246/
-----------------------------------------------------
 
 [Max Precision Points]
 2038FF30 00000063

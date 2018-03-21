@@ -1,9 +1,4 @@
-Zoo Resort 3D (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game58/
-----------------------------------------------------
 
 [Max/Inf Money]
 0038C4C8 000F423F

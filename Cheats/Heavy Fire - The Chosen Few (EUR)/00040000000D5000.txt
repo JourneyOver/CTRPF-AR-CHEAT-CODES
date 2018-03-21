@@ -1,8 +1,4 @@
-Heavy Fire-The Chosen Few (EUR)
-00040000000D5000
-CTR-AHVP
-Created by Smoker1
---------------------------------------
+
 
 [Infinite Ammo-99Rnds]
 602EBD34 00000000

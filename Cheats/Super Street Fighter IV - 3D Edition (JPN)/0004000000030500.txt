@@ -1,9 +1,4 @@
-Super Street Fighter IV - 3D Edition (JPN)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game63/
-----------------------------------------------------
 
 [999 Perfects]
 0850AE20 000003E7

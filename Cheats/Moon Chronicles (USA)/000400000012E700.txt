@@ -1,9 +1,4 @@
-Moon Chronicles (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1160/
-----------------------------------------------------
 
 [Infinite Moun Pistol Ammo]
 202F4018 0000000F

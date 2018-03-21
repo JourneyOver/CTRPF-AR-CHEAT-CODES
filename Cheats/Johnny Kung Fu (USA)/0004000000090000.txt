@@ -1,9 +1,4 @@
-Johnny Kung Fu (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1584/
-----------------------------------------------------
 
 [Lives]
 201E83F8 00000003

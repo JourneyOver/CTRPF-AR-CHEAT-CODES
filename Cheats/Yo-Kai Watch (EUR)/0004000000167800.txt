@@ -1,9 +1,4 @@
-Yo-Kai Watch (EUR)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game1897/
-----------------------------------------------------
 
 [Max Money]
 0868D118 000F423F

@@ -1,9 +1,4 @@
-Cave Story 3D (USA)
-Downloaded From Fort42: GateShark
 
-Credits and instructions:
-http://www.fort42.com/gateshark/game37/
-----------------------------------------------------
 
 [Max Health]
 20200C40 000000FF
