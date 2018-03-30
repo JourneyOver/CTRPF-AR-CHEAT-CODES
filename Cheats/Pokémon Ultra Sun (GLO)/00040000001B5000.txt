@@ -1,5 +1,20 @@
 
 
+[No Softban v1.2]
+004790AC E3A04001
+
+[Infinite Island Scans v1.2]
+00455674 E2400000
+
+[QR Scan is 100 Points v1.2]
+0045559C E3510000
+
+[Always UB Wormhole v1.2]
+002DD36C E3A01000
+
+[Always Rainbow Pelago Beans v1.2]
+0044DEBC E3A0600E
+
 [No Softban v1.1 (restart to turn off)]
 204790A8 00000001
 
