@@ -1,0 +1,5 @@
+[Max Cookies]
+083E7E24 0001869F
+
+[Max Power Cookies]
+083E7E28 00000009
