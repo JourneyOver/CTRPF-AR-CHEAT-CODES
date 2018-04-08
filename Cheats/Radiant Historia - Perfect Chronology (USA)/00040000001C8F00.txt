@@ -10,6 +10,19 @@
 00315FB8 E8BD801C
 00248D94 EB033481
 
+[Inf HP (Hold START to Disable) v1.0]
+00315FA0 E59D300C
+00315FA4 E92D401C
+00315FA8 E59620BC
+00315FAC E5964028
+00315FB0 E3520000
+00315FB4 01E01004
+00315FB8 E8BD801C
+00248D94 EB033481
+DD000000 00000008
+00248D94 E59D300C
+D0000000 00000000
+
 [Inf MP v1.0]
 00315FE4 E92D401C
 00315FE8 E595209C
@@ -20,7 +33,7 @@
 00315FFC E8BD801C
 002736D8 EB028A41
 
-[Mana Gauge Max Fix v1.0]
+[Mana Gauge Max v1.0]
 00315F54 B5036720
 00315F58 31981C29
 00315F5C 28006848
@@ -65,7 +78,7 @@
 00266124 E1A00000
 00266378 E3A00001
 
-[No Encounter,Hold L to Encounter v1.0]
+[No Encounter, Hold L to Encounter v1.0]
 0026EC58 E1A00000
 DD000000 00000200
 0026EC58 DA000003
@@ -102,7 +115,7 @@ DD000000 00000002
 001F2274 E1A00000
 D0000000 00000000
 
-[Monsters Always Drop Rare v1.0]
+[Monsters Always Drop Their Normal & Rare & Super Rare Drops v1.0]
 0021F074 E1A00000
 0021F0B0 E1A00000
 0021F0C0 E1A00000
@@ -115,7 +128,7 @@ D0000000 00000000
 0021F0DC E3570003
 0021F0E0 BAFFFFDF
 
-[All Item x90(Enter Item Menu)v1.0]
+[All Item x90(Enter Item Menu) (Exclude Key Item) v1.0]
 00315F68 9A04B50C
 00315F6C 4B0A0A12
 00315F70 D10E429A
@@ -131,7 +144,7 @@ D0000000 00000000
 00315F98 00001DA4
 0022C32C FA03A70D
 
-[All Accessories x90(Enter Item Menu)v1.0]
+[All Accessories x90(Enter Item Menu) v1.0]
 00315F68 9A04B50C
 00315F6C 4B0A46C0
 00315F70 D10E429A
@@ -147,7 +160,7 @@ D0000000 00000000
 00315F98 001DA4E8
 0022C32C FA03A70D
 
-[All Char Equip All Weapons,Armors,Accessories v1.0]
+[All Character Equip All Weapons, Armors, Accessories v1.0]
 001DC7C8 E3A00001
 001DC7CC E12FFF1E
 001DC804 E3A00001
@@ -173,44 +186,44 @@ B0373BF4 00000000
 00001C4C 0098967F
 D2000000 00000000
 
-[Get Exp  x1 v1.0]
+[Get Exp After Battle x1 v1.0]
 0020CE24 E0821001
 
-[Get Exp  x2 v1.0]
+[Get Exp After Battle x2 v1.0]
 0020CE24 E0821081
 
-[Get Exp  x4 v1.0]
+[Get Exp After Battle x4 v1.0]
 0020CE24 E0821101
 
-[Get Exp  x8 v1.0]
+[Get Exp After Battle x8 v1.0]
 0020CE24 E0821181
 
-[Get Exp  x16 v1.0]
+[Get Exp After Battle x16 v1.0]
 0020CE24 E0821201
 
-[Get Exp  x32 v1.0]
+[Get Exp After Battle x32 v1.0]
 0020CE24 E0821281
 
-[Get Exp  x64 v1.0]
+[Get Exp After Battle x64 v1.0]
 0020CE24 E0821301
 
-[Get Money+Momento x1 v1.0]
+[Get Money & Momento After Battle x1 v1.0]
 0020CE14 E0821001
 
-[Get Money+Momento x2 v1.0]
+[Get Money & Momento After Battle x2 v1.0]
 0020CE14 E0821081
 
-[Get Money+Momento x4 v1.0]
+[Get Money & Momento After Battle x4 v1.0]
 0020CE14 E0821101
 
-[Get Money+Momento x8 v1.0]
+[Get Money & Momento After Battle x8 v1.0]
 0020CE14 E0821181
 
-[Get Money+Momento x16 v1.0]
+[Get Money & Momento After Battle x16 v1.0]
 0020CE14 E0821201
 
-[Get Money+Momento x32 v1.0]
+[Get Money & Momento After Battle x32 v1.0]
 0020CE14 E0821281
 
-[Get Money+Momento x64 v1.0]
+[Get Money & Momento After Battle x64 v1.0]
 0020CE14 E0821301

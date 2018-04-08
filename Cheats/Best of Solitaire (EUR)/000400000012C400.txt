@@ -1,0 +1,7 @@
+
+
+[Bring up Menu-Time Reset]
+0807C9B0 00000000
+ 
+[99 Hints]
+2807C9A8 00000063

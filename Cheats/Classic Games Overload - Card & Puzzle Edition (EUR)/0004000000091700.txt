@@ -1,0 +1,16 @@
+
+
+[99 Hints-Sol]
+280D73D4 00000063
+
+[99 Hints-Mahj]
+280B68B0 00000063
+
+[99 Hints-Puzzle]
+280B6FB8 00000063
+
+[Sol-Time-MenuReset]
+080D73DC 00000000
+
+[Mahj-Time-MenuResets]
+080BC120 00000000
