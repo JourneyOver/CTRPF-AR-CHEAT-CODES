@@ -55,9 +55,11 @@ DC000000 XXXXXXXX – Adds an value to the current offset
 Loop Codes:
 ------------
 CX000000 YYYYYYYY – Sets the repeat value to: YYYYYYYY (immediate value) if X == 0, data #1 if X == 1 or data #2 if X == 2
-D2000000 0000000X - Full terminator (0: legacy one, 1: exit code directly)
-D1000000 00000000 – Loop execute
 D0000000 00000000 – Terminator code
+D0000000 00000001 – Exit from a loop, isn't a terminator code anymore, it doesn't end blocks
+D1000000 00000000 – Loop execute
+D2000000 00000000 - Full terminator: end all conditional blocks, clear active offset and active data register
+D2000000 00000001 - Exit from code directly, isn't a terminator code anymore, it doesn't end block or clear register
 
 Data Register Codes:
 ---------------------
@@ -121,7 +123,7 @@ DF000002 00020001 - Copy data #2 to storage #2
 
 Custom Codes:
 ---------------
-F0000001 0000000X - Toggle float mode for F1, F2, F3 (X: 0 to disable, 1 to enable)
+F0000001 0000000X - Toggle float mode for F1, F2, F3, F4, F5 (X: 0 to disable, 1 to enable)
 F1XXXXXX YYYYYYYY - *(XXXXXX + offset) += YYYYYYYY
 F2XXXXXX YYYYYYYY - *(XXXXXX + offset) *= YYYYYYYY
 F3XXXXXX YYYYYYYY - *(XXXXXX + offset) /= YYYYYYYY
