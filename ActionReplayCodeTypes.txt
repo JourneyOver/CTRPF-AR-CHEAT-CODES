@@ -4,6 +4,8 @@
 #      CTRPluginFramework     #
 ###############################
 
+Those codes are all supported by CTRPF Beta 0.4.1 and higher.
+
 ==============
 INFO
 ==============
@@ -75,11 +77,6 @@ D9000000 XXXXXXXX – (32bit) sets data to [XXXXXXXX+offset]
 DA000000 XXXXXXXX – (16bit) sets data to [XXXXXXXX+offset] & 0xFFFF
 DB000000 XXXXXXXX – (8bit) sets data to [XXXXXXXX+offset] & 0xFF
 
-Patch Code:
---------------
-EXXXXXXX YYYYYYYY - Copy Y bytes (Z) to [XXXXXXX + offset]
-ZZZZZZZZ ZZZZZZZZ
-
 Input Codes:
 ----------------
 DD000000 XXXXXXXX – if KEYPAD has value XXXXXXXX execute next block (see SPECIAL KEY CODE for values)
@@ -121,7 +118,7 @@ DF000001 00020001 - Copy data #2 to offset #2
 DF000002 00020000 - Copy data #1 to storage #1
 DF000002 00020001 - Copy data #2 to storage #2
 
-Custom Codes:
+Arithmetic Codes:
 ---------------
 F0000001 0000000X - Toggle float mode for F1, F2, F3, F4, F5 (X: 0 to disable, 1 to enable)
 F1XXXXXX YYYYYYYY - *(XXXXXX + offset) += YYYYYYYY
@@ -136,10 +133,33 @@ F9000000 00000000 - NOT - data = ~data
 FA000000 YYYYYYYY - Left shift - data <<= YYYYYYYY
 FB000000 YYYYYYYY - Right shift - data >>= YYYYYYYY
 
+Patch Code:
+--------------
+EXXXXXXX YYYYYYYY - Copy Y bytes (Z) to [XXXXXXX + offset]
+ZZZZZZZZ ZZZZZZZZ
+
+Copy Code:
+--------------
 FC000000 YYYYYYYY - Copy YYYYYYYY bytes from [offset#2] to [offset#1]
+
+Hook Code:
+--------------
+FD0000WX YYYYYYYY - Create a hook at offset to custom code (ZZZZ), YYY is code size in bytes
+ZZZZZZZZ ZZZZZZZZ
+
+W - Manual Return (don't allow the assisted bx lr), set 1 to enable (default: 0)
+X - Don't Execute Overwritten Instruction Before custom code, set 1 to enable (default: 0)
+See more informations below
+
+FD100000 YYYYYYYY - Disable a hook at address YYYYYYYY if exists
+
+Search Code:
+--------------
 FE00XXXX YYYYYYYY - Search pattern (Z) from offset to offset + Y, XXXX is pattern size (in bytes)
 ZZZZZZZZ ZZZZZZZZ   Next block of code is executed if the pattern is found and offset is updated with the address
 
+Generator Code:
+-----------------
 FFXXXXXX YYYYYYYY - data = random number between XXXXXX and YYYYYYYY
 
 ===================
@@ -168,3 +188,12 @@ SPECIAL KEYPAD CODE
 0x20000000  CPad-Left
 0x40000000  CPad-Up
 0x80000000  CPad-Down
+
+Note about the hook system:
+----------------------------
+- A hook can only be created if the target address isn't already hooked
+- All hooks created by a code will be disabled when the code is disabled in the menu (or edited using the builtin code editor)
+- With default parameters (and except for instructions which are PC dependent), the overwritten instruction is executed before executing the custom code (ZZZZ)
+- A maximum of 90 enabled hooks is available in same time
+- No need for a code cave, the code will be placed into CTRPF's memory (so you can do really long code)
+- Without Manual Return bit enabled, LR is changed before jumping to the custom code, so you can return to the hook manager which will restore LR before returning to the game
