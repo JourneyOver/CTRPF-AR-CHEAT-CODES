@@ -2,6 +2,78 @@
 
 [++iSharingan's Cheats++]
 
+[++Miscelaneous Cheats++]
+
+[Gathering Count: 300]
+1862CA16 0000012C
+1862CF70 0000012C
+{For both gathering awards}
+
+[Instant Expeditions]
+086611B0 00000000
+{Expeditions end literally the nanosecond you start them.}
+
+[No PvP losses]
+185804C2 00000000
+1862DA4E 00000000
+{Almost like they never even happened... Now git gud and actually win for once :P}
+
+[EGG 1 WILL HATCH W/BLUE SADDLE]
+A85CD150 000000FF
+185CD180 0000010B
+D2000000 00000000
+{REPLACES TOP RIGHT GENE}
+
+[--]
+
+[++Weapon And Armor Level Codes++]
+
+[ALL WEAPONS LEVEL 5]
+D3000000 08579D74
+C0000000 000000C8
+A0000000 00007FFF
+20000004 00000005
+D0000000 00000000
+DC000000 00000024
+D1000000 00000000
+D2000000 00000000
+{breaks low rank weapons that upgrade to high rank at level 3}
+
+[ALL WEAPONS LEVEL 3]
+D3000000 08579D74
+C0000000 000000C8
+A0000000 00007FFF
+20000004 00000003
+D0000000 00000000
+DC000000 00000024
+D1000000 00000000
+D2000000 00000000
+{use for low rank weapons that dont upgrade to high at level 5}
+
+[ALL ARMOR LEVEL 5]
+D3000000 0857B994
+C0000000 000000C8
+A0000000 00007FFF
+20000004 00000005
+D0000000 00000000
+DC000000 00000024
+D1000000 00000000
+D2000000 00000000
+{breaks low rank armor that upgrades to high rank at level 3}
+
+[ALL ARMOR LEVEL 3]
+D3000000 0857B994
+C0000000 000000C8
+A0000000 00007FFF
+20000004 00000003
+D0000000 00000000
+DC000000 00000024
+D1000000 00000000
+D2000000 00000000
+{use for low rank armor that doesnt upgrade to high at level 5}
+
+[--]
+
 [++PLAYER CUSTOMIZATION++]
 
 [Match gender edits on Rider Card]
@@ -183,10 +255,11 @@ D2000000 00000000
 {PRESS R+DOWN RETURN TO NORMAL}
 
 [ONE HIT KILL]
-18646864 000003E7
-186468E4 000003E7
-186467E4 00A003E7
+18646864 0000FFFE
+186468E4 0000FFFE
+186467E4 00A0FFFE
 D2000000 00000000
+{Now does true one-hit-kill damage instead of just 999. FFFF makes you always miss. Damage number graphics may glitch slightly}
 
 [INFINITE HP]
 1862D784 000003E7
@@ -239,7 +312,7 @@ D2000000 00000000
 [PLAYER AGIL 999]
 1862D78C 000003E7
 D2000000 00000000
-{in PvP, only affects turn order for your point of view}
+{in PvP, only affects turn order for your point of view. can cause softlocks if results in a desynch}
 
 [Player Level 99]
 0862D79C 00000063
@@ -573,12 +646,21 @@ D2000000 00000000
 
 [++Vermil's Cheats++]
 
-[++SHRINE EFFECT 1st slot++]
-
 [UNLIMITED SHRINE EFFECT TIME]
-D3000000 00000000
-2862DA10 00000000
-D2000000 00000000
+2862D9f0 00000001
+1862DA04 00000101
+1862DA10 00000000
+1862DA12 0000176f
+{Now correctly activates the shrine if it was inactive before and sets time to 99:59}
+
+[END ALL SHRINE EFFECTS]
+2862D9f0 00000000
+1862DA04 00000000
+1862DA10 00000000
+1862DA12 00000000
+{added to end shrine effects early and clanly, as they're not always wanted at all times}
+
+[++SHRINE EFFECT 1st slot++]
 
 [EXP GAINED +255%]
 D3000000 00000000
@@ -960,12 +1042,5 @@ D2000000 00000000
 0013D4FC 43722664
 0013D500 18B26C4E
 0013D504 46C0644A
-
-[catch eggs]
-00A8FF20 E3A07000
-00A8FF24 E5C17000
-00A8FF28 E1A07001
-00A8FF2C E12FFF1E
-004D843C EB16DEB7
 
 [--]
