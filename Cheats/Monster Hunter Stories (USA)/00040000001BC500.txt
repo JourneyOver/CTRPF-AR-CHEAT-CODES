@@ -67,7 +67,7 @@ D2000000 00000000
 A85CD150 000000FF
 185CD180 0000010B
 D0000000 00000000
-{Replaces top right gene. You can replace the gene after hatching and the saddle will stay blue}
+{Replaces top left gene. You can replace the gene after hatching and the saddle will stay blue}
 
 [All eggs have no locked slots]
 D3000000 085CD150
