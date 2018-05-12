@@ -140,3 +140,6 @@ D2000000 00000000
 [Use Items Anywhere (V1.0)]
 0078891A 00000000
 00788918 00000000
+
+[Swamp Archery Score 2200 (Guarantees perfect score)]
+10779870 00000898
