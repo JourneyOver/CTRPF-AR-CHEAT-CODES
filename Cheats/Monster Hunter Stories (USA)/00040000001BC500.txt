@@ -44,7 +44,7 @@ D0000000 00000000
 A86462BE 00000000
 186462BE 0000FFFF
 D0000000 00000000
-{Allows you to still heal. Softlocks PvP}
+{Allows you to still heal. Doesn't block some buffs/status. Softlocks PvP}
 
 [ONE HIT KILL]
 A8646878 FFFE0001
@@ -57,17 +57,54 @@ A86467F8 FFFE0001
 186467E4 0000FFFE
 D0000000 00000000
 D2000000 00000000
-{Ignores enemy healing, and only affects the first hit in a string of hits - not that you need additional hits. Softlocks PvP}
+{Ignores enemy healing, and only affects the first hit in a string of hits - not that you need additional hits. Enemy non-attack skills cause them to die (lol). Doesnt break Fatalis (will KO, but takes 2-3 turns). Softlocks PvP}
 
 [--]
 
-[++Egg Carton Cheats++]
+[++Infinitely Redeemable Bonuses++]
+
+[Infinite Poogie Bonuses]
+28661415 00000000
+28661416 00000000
+28661417 00000000
+28661418 00000000
+28661419 00000000
+2866141A 00000000
+2866141B 00000000
+2866141C 00000000
+2866141D 00000000
+2866141E 00000000
+
+[Infinite Monster/Monstie Bonuses]
+D3000000 086611F1
+C0000000 00000070
+80000000 FF00001F
+20000000 00000000
+D0000000 00000000
+DC000000 00000001
+D1000000 00000000
+
+[--]
+
+[++Egg/Carton Cheats++]
+
+[Keep Egg From Nest: L+R=No, Start=Yes]
+D3000000 0862DA8C
+A0000000 FF0000FF
+DD000000 00000300
+20000001 00000000
+D0000000 00000000
+DD000000 00000008
+20000001 00000001
+D0000000 00000000
+D0000000 00000000
+{L+R will let you move faster while holding the egg, but you wont recieve the egg on exit. Start returns both the lower speed and ability to recieve the egg upon exit}
 
 [Egg 1 Haches with Blue Saddle]
 A85CD150 000000FF
 185CD180 0000010B
 D0000000 00000000
-{Replaces top left gene. You can replace the gene after hatching and the saddle will stay blue}
+{Replaces top left gene. You can channel over the gene after hatching and the saddle will stay blue}
 
 [All eggs have no locked slots]
 D3000000 085CD150
@@ -112,14 +149,12 @@ D2000000 00000000
 [Gathering Count: 300]
 7862CA16 0000012C
 1862CA16 0000012C
-1862CF70 0000012C
 D0000000 00000000
 {For both gathering awards}
 
 [50 S RANK BATTLE RESULTS]
 7862CA0E 00000032
 1862CA0E 00000032
-1862CF70 00000032
 D0000000 00000000
 {For award}
 
