@@ -100,6 +100,30 @@ D0000000 00000000
 D0000000 00000000
 {L+R will let you move faster while holding the egg, but you wont recieve the egg on exit. Start returns both the lower speed and ability to recieve the egg upon exit}
 
+[Start+up = copy held egg data]
+D3000000 0862DA88
+A0000004 FF0000FF
+DD000000 00000048
+C0000000 00000012
+D9000000 00000000
+D6000000 01000000
+D1000000 00000000
+D0000000 00000000
+D0000000 00000000
+{Use to save a good egg and check the rest of the eggs for a better one}
+
+[Start+down = replace held egg with coppied data]
+D3000000 0862DA88
+A1000004 FF000000
+DD000000 00000088
+C0000000 00000012
+D9000000 01000000
+D6000000 00000000
+D1000000 00000000
+D0000000 00000000
+D0000000 00000000
+{Use after copying if the rest of the eggs are crap. Egg look will not change}
+
 [Egg 1 Haches with Blue Saddle]
 A85CD150 000000FF
 185CD180 0000010B
