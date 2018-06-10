@@ -124,12 +124,6 @@ D0000000 00000000
 D0000000 00000000
 {Use after copying if the rest of the eggs are crap. Egg look will not change}
 
-[Egg 1 Haches with Blue Saddle]
-A85CD150 000000FF
-185CD180 0000010B
-D0000000 00000000
-{Replaces top left gene. You can channel over the gene after hatching and the saddle will stay blue}
-
 [All eggs have no locked slots]
 D3000000 085CD150
 C0000000 00000010
