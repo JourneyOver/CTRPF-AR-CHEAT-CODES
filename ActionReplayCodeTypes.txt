@@ -1,10 +1,10 @@
-###############################
+﻿###############################
 #        Action Replay        #
 #   Code Types supported by   #
 #      CTRPluginFramework     #
 ###############################
 
-Those codes are all supported by CTRPF Beta 0.4.1 and higher.
+Those codes are all supported by CTRPF Beta 0.4.1 and higher (check in Tools).
 
 ==============
 INFO
