@@ -1,13 +1,29 @@
-
-
 [Money x999.999]
 0814D294 000F423F
 
 [Lives x9]
 14097CAC 00000009
 
+[++Mushrooms++]
+
 [Super Mushroom x99]
 0814C1F0 00000063
+
+[Ghost Mushroom x99]
+0814C210 00000063
+
+[Poison Mushroom x99]
+0814C240 00000063
+
+[Gold Mushroom x99]
+0814C298 00000063
+
+[Big Gold Mushroom x99]
+0814C260 00000063
+
+[--]
+
+[++Items++]
 
 [Fireflower x99]
 0814C1F8 00000063
@@ -18,44 +34,14 @@
 [Iceflower x99]
 0814C208 00000063
 
-[Ghost Mushroom x99]
-0814C210 00000063
-
-[Poison Mushroom x99]
-0814C240 00000063
-
 [P-Wing x99]
 0814C248 00000063
-
-[Star Coin x99]
-0814C288 00000063
-
-[Big Star Coin x99]
-0814C250 00000063
-
-[Green Star Coin x99]
-0814C290 00000063
-
-[Big green Star Coin x99]
-0814C250 00000063
-
-[Gold Mushroom x99]
-0814C298 00000063
-
-[Big Gold Mushroom x99]
-0814C260 00000063
 
 [Super Star x99]
 0814C2A0 00000063
 
 [Big Super Star x99]
 0814C268 00000063
-
-[Comet Coin x99]
-0814C2A8 00000063
-
-[Big Comet Coin x99]
-0814C270 00000063
 
 [Berry x99]
 0814C2B0 00000063
@@ -72,6 +58,10 @@
 [Starjewel x99]
 0814C330 00000063
 
+[--]
+
+[++Coins++]
+
 [Goomba Coin x99]
 0814C378 00000063
 
@@ -87,37 +77,66 @@
 [Boo-Hoo Coin x99]
 0814C398 00000063
 
+[Comet Coin x99]
+0814C2A8 00000063
+
+[Big Comet Coin x99]
+0814C270 00000063
+
+[Star Coin x99]
+0814C288 00000063
+
+[Big Star Coin x99]
+0814C250 00000063
+
+[Green Star Coin x99]
+0814C290 00000063
+
+[Big green Star Coin x99]
+0814C250 00000063
+
+[--]
+
 [Max D-Volt]
 D3000000 08000000
 0012556C 05F5E0FF
 D2000000 00000000
+
+[++Eggs++]
 
 [99 Metal Dragon Egg]
 D3000000 08000000
 00124988 00000063
 D2000000 00000000
 
-[99 Melachon Egg]
+[99x Melachon Egg]
 D3000000 08000000
 001247E8 00000063
 D2000000 00000000
 
-[99 Kyos Egg]
+[99x Kyos Egg]
 D3000000 08000000
 001248C8 00000063
 D2000000 00000000
 
-[99 Flamie Chip]
+[--]
+
+[++Chip++]
+
+[99x Flamie Chip]
 D3000000 08000000
 001244C8 00000063
 D2000000 00000000
 
-[99 Melachios Chip]
+[99x Melachios Chip]
 D3000000 08000000
 00124568 00000063
 D2000000 00000000
 
-[99 Mega Flamie Chip]
+[99x Mega Flamie Chip]
 D3000000 08000000
 001244F0 00000063
 D2000000 00000000
+
+[--]
+
