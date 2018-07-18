@@ -8,3 +8,15 @@
 
 [Infinite Health]
 2888C5B2 0000003F
+
+[Hit Anywhere]
+D3000000 08000000
+208076BF 000000E0
+208076C0 00000000
+208076C2 00000044
+D2000000 00000000
+
+[Hawkmouth Always Open(Can leave the level without beating the boss and can go back to the previous level.)]
+D3000000 08000000
+20804DE2 00000000
+D2000000 00000000
