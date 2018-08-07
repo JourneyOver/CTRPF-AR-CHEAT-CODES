@@ -1,11 +1,5 @@
 
 
-[Armor skill extension slot +24 v1.0]
-00000000 00000000
-
-[Armor Skills v1.0]
-00000000 00000000
-
 [Except sharpness+2 v1.0]
 D3000000 00000000
 00C1EDC4 E3510053
@@ -275,9 +269,6 @@ D3000000 00000000
 
 [Pouch Item Slot 1 x99]
 28384314 00000063
-
-[Display Boss 1 & 2 HP v1.0]
-00000000 00000000
 
 [All items is sold(1948items) v1.0]
 D3000000 00000000

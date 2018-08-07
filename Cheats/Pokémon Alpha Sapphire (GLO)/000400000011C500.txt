@@ -64,12 +64,6 @@ DD000000 00000100
 182C9518 00000001
 182C76B8 00000001
 
-[Pokémon in Radar and Items (Hold R button)]
-00000000 00000000
-
-[Shiny Pokemon Radar v.2 (Hold R button)]
-00000000 00000000
-
 [DexNav Search Lv. 255 For All Seen Pokemon (Update 1.4)]
 D3000000 08C82668
 C0000000 000002D1

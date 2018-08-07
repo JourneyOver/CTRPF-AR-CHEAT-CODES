@@ -8,12 +8,12 @@
 
 ### Using Luma3DS with Plugin Loader
 
-1. Download `Luma3DS 9.0 - Plugin loader.zip` & `ActionReplay.zip`
+1. Download `Luma3DS 9.1 - Plugin loader.zip` & `ActionReplay.zip`
 
 - Included in this repository or you can download from [here](http://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/)
 
 2. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
-3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.0 - Plugin loader.zip` into the root of your SD card
+3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.1 - Plugin loader.zip` into the root of your SD card
 4. Place the contents from `ActionReplay.zip` into either
 
 - `sd:/luma/plugins/<Title ID of the game folder>/`
@@ -41,7 +41,7 @@
 
 ### Using BOOTNTR
 
-- If you decide to want to use `LUMAS3DS 9.0 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
+- If you decide to want to use `LUMAS3DS 9.1 Plugin Loader` alongside with `BOOTNTR` follow from the first step otherwise start at the second step!
 
 1. Make sure to disable the plugin loader from Rosalina if you're using the `boot.firm` of `Luma3DS with Plugin Loader`
 2. Download `ActionReplay.zip`
@@ -120,14 +120,8 @@ or
 
 - No, you don't/shouldn't use both if you already have 1 .txt file for the game in one of the directories. You only need either a `cheats.txt` or `<Title ID of the game>.txt` for a game not both.
 
-4. `LUMA3DS 9.0 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg` and `ActionReplay.plg`
+4. `LUMA3DS 9.1 Plugin Loader` only recognises `CTRPF (AR) Plugins` called `plugin.plg` and `ActionReplay.plg`
 5. Make sure your using only 1 `CTRPF (AR) Plugin`! And No Other Plugins included alongside it! (Such as `Gateshark2NTR`, `libshark2NTR` or any other `Plugins`).
 6. If it gives you error, try Deleting the `CTRPFData.bin` if it exists.
 7. If you can't find a game you are looking for, you can try [Max Cheats](https://www.max-cheats.com) or [GameHacking](https://gamehacking.org/system/3ds) and see if they possibly have it.
 8. If by chance you can't get `CTRPluginFramework` to come up after loading the game and having `plugin loaded` show, try using the `ActionReplay_ALT`.
-
-\--
-
-Extra Notes to myself
-
-- Games - Inazuma Eleven 3 (EUR), Teenage Mutant Ninja Turtles (USA) and (EUR), Shovel Knight (EUR) and (USA), LBX - Little Battlers eXperience (EUR) have 2 different `.txt` files. I Need to look into this.
