@@ -1,0 +1,7 @@
+
+
+[Infinite Health Left Side]
+188AC1C0 00007070
+
+[Infinite Health Right Side]
+188AC2C0 00007070

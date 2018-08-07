@@ -1,0 +1,22 @@
+
+
+[Infinite Red Blocks]
+204818FF 00000041
+
+[Infinite Yellow Spring]
+20481E50 00000009
+
+[Infinite Purple Spring]
+20481EDC 00000009
+
+[Infinite Purple Conveyor]
+2048186F 00000041
+
+[Infinite Green Pipe]
+20481ADC 00000009
+
+[Infinite Ladder]
+2048198B 00000041
+
+[Infinite Purple Blocks]
+20481A48 00000009
