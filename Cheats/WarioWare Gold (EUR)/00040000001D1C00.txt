@@ -1,0 +1,12 @@
+
+[99999 coins]
+0091E39C 0001869F
+
+[99 Points Wario Kard Mode]
+00465440 E3A00063
+
+[infinite lives on]
+2072A0A4 00000000
+
+[infinite lives off]
+2072A0A4 00000001
