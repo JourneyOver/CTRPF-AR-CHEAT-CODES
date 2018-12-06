@@ -27,6 +27,9 @@
 [Always Rainbow Pelago Beans v1.2]
 0044DEBC E3A0600E
 
+[No Outlines v1.2]
+0042FBA4 E320F000
+
 [No Softban v1.1 (restart to turn off)]
 204790A8 00000001
 
