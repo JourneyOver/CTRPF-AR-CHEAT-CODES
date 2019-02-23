@@ -1,17 +1,17 @@
 
 
-[Max Money (unglitched)]
+[Max Money (unglitched) V1.0]
 08690118 000F423F
 
-[Max Money (Glitched)]
+[Max Money (Glitched) V1.0]
 08690118 3B9AC9FF
 
-[Infinite stamina(hold b)]
+[Infinite stamina(hold b) V1.0]
 DD000000 00000002
 088502AC 3F800000
 D0000000 00000000
 
-[99x of all items you own]
+[99x of all items you own V1.0]
 5FFFA000 00000FE0
 0FFFA000 00000000
 D0000000 00000000
@@ -26,17 +26,17 @@ D9000000 0FFFA000
 D4000000 00000010
 D6000000 0FFFA000
 
-[Infinite stamina]
+[Infinite stamina V1.0]
 088CAC0C 3F800000
 
-[255 first yokai Max HP]
+[255 first yokai Max HP V1.0]
 C0000000 000000FE
 18682F98 000003E7
 18682FBC 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai techniques masterized]
+[255 first yokai techniques masterized V1.0]
 C0000000 000000FE
 28682F8A 0000000A
 28682F8E 0000000A
@@ -44,7 +44,7 @@ C0000000 000000FE
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai max stats]
+[255 first yokai max stats V1.0]
 C0000000 000000FE
 18682FBE 000003E7
 18682FC0 000003E7
@@ -53,31 +53,31 @@ C0000000 000000FE
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai max strenght]
+[255 first yokai max strenght V1.0]
 C0000000 000000FE
 18682FBE 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai max spirit]
+[255 first yokai max spirit V1.0]
 C0000000 000000FE
 18682FC0 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai max defense]
+[255 first yokai max defense V1.0]
 C0000000 000000FE
 18682FC2 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-[255 first yokai max speed]
+[255 first yokai max speed V1.0]
 C0000000 000000FE
 18682FC4 000003E7
 DC000000 000000C4
 D1000000 00000000
 
-[Every Item x50]
+[Every Item x50 V1.0]
 5FFFA000 00000FE0
 0FFFA000 00000000
 D0000000 00000000
@@ -92,17 +92,17 @@ D9000000 0FFFA000
 D4000000 00000010
 D6000000 0FFFA000
 
-[Infinite crank-a-kai (more coins than 3 a Day)]
+[Infinite crank-a-kai (more coins than 3 a Day) V1.0]
 D3000000 10000000
 26B85ED4 0000007F
 D3000000 10000000
 26B879B4 0000007F
 
-[Infinite crank-a-kai (more coins than 3 a Day)]
+[Infinite crank-a-kai (more coins than 3 a Day) V1.0]
 D3000000 10000000
 26B85ED4 0000007F
 D3000000 10000000
 26B879B4 0000007F
 
-[Infinite Crank-a-kai]
+[Infinite Crank-a-kai V1.0]
 286931E0 00000000
