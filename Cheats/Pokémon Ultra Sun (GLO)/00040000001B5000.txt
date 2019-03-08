@@ -15,6 +15,9 @@
 [No Softban v1.2]
 004790AC E3A04001
 
+[Same pokemon species at Battle Royal Dome & Battle Tree(Super) v1.2]
+001602A4 EA000012
+
 [Infinite Island Scans v1.2]
 00455674 E2400000
 

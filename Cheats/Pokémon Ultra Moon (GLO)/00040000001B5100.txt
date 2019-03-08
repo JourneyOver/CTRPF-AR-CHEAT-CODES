@@ -12,6 +12,9 @@
 0044D954 E3A04001
 0044D958 E5CC4000
 
+[Same pokemon species at Battle Royal Dome & Battle Tree(Super) v1.2]
+001602A4 EA000012
+
 [No Softban v1.2]
 004790B0 E3A04001
 
