@@ -9,16 +9,19 @@
 - [ ] Wrong Game
 - [ ] Other
 
-## Description
+## Description (Used for Multi-Region/Versioning/Wrong Game/Other)
 <!-- Describe the issues -->
 
-## Extra Information (only need to fill in if issuing for Broken Cheats)
-**Type of 3DS:** [e.g. New 3DS, Old 3DS, 2DS]
+### Fill this for problems with codes in the database
 
-**3DS Firmware Version:** [e.g. 11.6.0-39E]
+* **Title ID**:
+* **Game version**:
+* **Luma version**:
+* **Method Used (LUMAS3DS 9.0 Plugin Loader/BOOTNTR)**:
+<!-- if using luma nightly please add the first 7 digits of the nightly commit its from. example latest nightly would be "1e0996c" -->
 
-**Method Used:** [e.g. LUMAS3DS 9.0 Plugin Loader, BOOTNTR]
+### Not working codes (Used for Broken Cheat)
 
-**Game Version:** [e.g. 1.0, 1.1]
-
-**Language & Region:** [e.g. English & USA]
+* code 1
+* code 2
+* ...
