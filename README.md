@@ -2,7 +2,13 @@
 
 # Notice
 
-<b>If you have gateshark codes please help contribute to [Sharkive](https://github.com/BernardoGiordano/Sharkive) . I am a Collaborator on Sharkive so any code changes moving forward will be reflected between this repository and sharkive</b>
+<b>I hate to do this, but between this repository, me dealing with [sharkive](https://github.com/FlagBrew/Sharkive) stuff, work*, and just about a ton of other things IRL I am sadly thinking I am going to have to drop this repository (put it into archive mode basically) as I barely have time to do much work anymore on really anything. 
+
+*main reason is I have a very hectic schedule right now and for the foreseeable future so it makes things a lot harder.
+
+I will still be around for flagbrew/sharkive (and the eventual merge of getting sharkive implemented into checkpoint) so I'm not going to be completely gone, but I just won't be working on this repository anymore.</b>
+
+<b>If you have gateshark codes please help contribute to [Sharkive](https://github.com/FlagBrew/Sharkive)</b>
 
 ## How to use
 
