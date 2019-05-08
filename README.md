@@ -8,7 +8,9 @@
 
 I will still be around for flagbrew/sharkive (and the eventual merge of getting sharkive implemented into checkpoint) so I'm not going to be completely gone, but I just won't be working on this repository anymore.</b>
 
-<b>If you have gateshark codes please help contribute to [Sharkive](https://github.com/FlagBrew/Sharkive)</b>
+<b>@iSharingan has forked this repository and will be taking over for all future things! Please follow their fork for any new codes and please report any broken codes/issues over there! Thank you <3 You can follow the fork here https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES<b>
+
+<b>Also If you have gateshark codes please help contribute to [Sharkive](https://github.com/FlagBrew/Sharkive)</b>
 
 ## How to use
 
